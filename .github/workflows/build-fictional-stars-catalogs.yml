@@ -31,7 +31,7 @@ jobs:
           STARTREK_FETCH_PLANET_WIKITEXT: "0"
         run: python scripts/build_catalogs.py
 
-            - name: Commit updates (if any)
+      - name: Commit updates (if any)
         run: |
           cd "${GITHUB_WORKSPACE}"
 
