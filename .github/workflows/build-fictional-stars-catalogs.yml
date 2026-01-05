@@ -31,11 +31,15 @@ jobs:
           STARTREK_FETCH_PLANET_WIKITEXT: "0"
         run: python scripts/build_catalogs.py
 
-      - name: Commit updates (if any)
+            - name: Commit updates (if any)
         run: |
           cd "${GITHUB_WORKSPACE}"
 
-          if git diff --quiet; then
+          # Stage first (this captures new/untracked files too)
+          git add "Fictional Stars/catalogs/"*.json
+
+          # Now check staged changes
+          if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
@@ -43,6 +47,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add "Fictional Stars/catalogs/"*.json
-          git commit -m "chore: update fictional star catalogs"
+          git commit -m "chore: weekly deep refresh (fictional star catalogs)"
           git push
+
