@@ -67,7 +67,13 @@ def http_get_json(url: str, timeout: int = HTTP_TIMEOUT_S, retries: int = HTTP_R
             )
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 data = resp.read().decode("utf-8", errors="replace")
-            return json.loads(data)
+            payload = json.loads(data)
+
+            # IMPORTANT: MediaWiki can return 200 with an "error" object
+            if isinstance(payload, dict) and "error" in payload:
+                raise RuntimeError(f"MediaWiki API error: {payload['error']}")
+
+            return payload
 
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503, 504):
@@ -76,7 +82,7 @@ def http_get_json(url: str, timeout: int = HTTP_TIMEOUT_S, retries: int = HTTP_R
                 continue
             raise
 
-        except (TimeoutError, urllib.error.URLError) as e:
+        except (TimeoutError, urllib.error.URLError, json.JSONDecodeError) as e:
             last_err = e
             _sleep_backoff(attempt)
             continue
@@ -99,8 +105,10 @@ def mw_category_members_typed(
     limit: int = 200,
 ) -> Tuple[List[str], List[str]]:
     """
-    Returns (pages_in_main_namespace, subcategories) for Category:<category_title>.
-    Uses list=categorymembers with cmtype=page|subcat and cmnamespace=0|14 to avoid files, etc.
+    Returns (pages, subcategories) for Category:<category_title>.
+
+    FIX: We must request cmprop=...|type, otherwise member["type"] may not exist. (Default is ids|title)
+    We also avoid cmnamespace to reduce the chance of "miser mode" edge-cases.
     """
     pages: List[str] = []
     subcats: List[str] = []
@@ -112,8 +120,8 @@ def mw_category_members_typed(
             "list": "categorymembers",
             "cmtitle": f"Category:{category_title}",
             "cmtype": "page|subcat",
-            "cmnamespace": "0|14",
             "cmlimit": str(limit),
+            "cmprop": "ids|title|type",
             "format": "json",
             "formatversion": "2",
         }
@@ -125,13 +133,22 @@ def mw_category_members_typed(
 
         for m in members:
             title = m.get("title")
-            mtype = m.get("type")
             if not title:
                 continue
+
+            mtype = m.get("type")
+            # Resilience: if type is missing, infer by namespace (Category = 14)
+            if not mtype:
+                ns = m.get("ns")
+                if ns == 14:
+                    mtype = "subcat"
+                else:
+                    mtype = "page"
+
             if mtype == "page":
                 pages.append(title)
             elif mtype == "subcat":
-                # Convert "Category:Ice planets" -> "Ice planets"
+                # "Category:Ice planets" -> "Ice planets"
                 if title.startswith("Category:"):
                     subcats.append(title.split("Category:", 1)[1])
                 else:
@@ -270,7 +287,6 @@ def try_match_system(system_index: Dict[str, dict], raw: str) -> Optional[dict]:
     if k in system_index:
         return system_index[k]
 
-    # Try adding/removing " system"
     if not k.endswith(" system"):
         k2 = canon_key(raw_clean + " system")
         if k2 in system_index:
@@ -364,9 +380,6 @@ def load_existing_catalog(path: Path) -> Optional[dict]:
 
 
 def build_system_index_from_catalog(data: dict, notes_suffix: str) -> Dict[str, dict]:
-    """
-    Build an index from an existing catalog; clears planets to ensure weekly regeneration is clean.
-    """
     systems: Dict[str, dict] = {}
     for s in data.get("systems", []):
         if not isinstance(s, dict):
@@ -374,12 +387,10 @@ def build_system_index_from_catalog(data: dict, notes_suffix: str) -> Dict[str, 
         name = (s.get("name") or "").strip()
         if not name:
             continue
-        # shallow copy and reset planets
         out = dict(s)
         out["name"] = name
         out["planets"] = []
         out["notes"] = (out.get("notes") or "") + notes_suffix
-        # ensure stars exists
         if not isinstance(out.get("stars"), list) or len(out["stars"]) == 0:
             out["stars"] = [{"name": f"{name} primary", "type": "star"}]
         systems[canon_key(name)] = out
@@ -400,7 +411,6 @@ def build_from_wiki_systems(api_base: str, systems_category: str, source_label: 
 
 def attach_bodies_to_systems(
     *,
-    franchise: str,
     api_base: str,
     bodies: List[str],
     system_index: Dict[str, dict],
@@ -410,10 +420,6 @@ def attach_bodies_to_systems(
     fetch_wikitext: bool,
     source_label: str,
 ) -> dict:
-    """
-    Attach bodies (planets/moons) to systems using category hints and/or wikitext.
-    Always includes every body: anything unmapped goes to Unassigned system.
-    """
     created_from_bodies = 0
     attached = 0
     unmapped = 0
@@ -438,7 +444,6 @@ def attach_bodies_to_systems(
                 if sys_name:
                     sys_obj = try_match_system(system_index, sys_name)
                     if not sys_obj:
-                        # Create system if referenced but missing (prevents losing structure)
                         new_name = sys_name.strip()
                         sys_obj = make_system_obj(
                             name=new_name,
@@ -468,34 +473,36 @@ def attach_bodies_to_systems(
     }
 
 
+def _utc_iso() -> str:
+    return _dt.datetime.now(_dt.timezone.utc).replace(microsecond=0).isoformat()
+
+
 def build_startrek_catalog(catalogs_dir: Path) -> dict:
     franchise = "Star Trek"
     api_base = "https://memory-alpha.fandom.com/api.php"
     source_label = "Memory Alpha (MediaWiki Action API)"
-    generated_at = _dt.datetime.now(_dt.timezone.utc).replace(microsecond=0).isoformat()
+    generated_at = _utc_iso()
 
-    # Systems: regenerate from wiki each time
     system_index = build_from_wiki_systems(api_base, "Star systems", source_label)
 
-    # Ensure Unassigned sink
     unassigned = make_system_obj(
         "Unassigned system",
         "Catch-all for bodies whose star system could not be reliably derived from source pages.",
     )
     system_index[canon_key(unassigned["name"])] = unassigned
 
-    # Bodies: planets (recursive)
     bodies = mw_category_pages_recursive(api_base, "Planets", max_categories=STARTREK_MAX_CATEGORIES)
     if STARTREK_MAX_BODIES > 0:
         bodies = bodies[:STARTREK_MAX_BODIES]
 
+    if len(bodies) == 0 or len(system_index) <= 1:
+        raise RuntimeError("Sanity check failed: Star Trek crawl returned 0 bodies and/or 0 systems. Aborting.")
+
     planet_summary = attach_bodies_to_systems(
-        franchise=franchise,
         api_base=api_base,
         bodies=bodies,
         system_index=system_index,
         unassigned=unassigned,
-        # Best-effort parameters on Memory Alpha planet pages
         body_param_names=["system", "star system", "starsystem"],
         use_category_system_hints=False,
         fetch_wikitext=STARTREK_FETCH_PLANET_WIKITEXT,
@@ -518,32 +525,36 @@ def build_starwars_catalog(catalogs_dir: Path) -> dict:
     franchise = "Star Wars"
     api_base = "https://starwars.fandom.com/api.php"
     source_label = "Wookieepedia (MediaWiki Action API)"
-    generated_at = _dt.datetime.now(_dt.timezone.utc).replace(microsecond=0).isoformat()
+    generated_at = _utc_iso()
 
-    # If you already have a huge Star Wars systems catalog (e.g., PDF-derived), keep it as baseline.
     existing_path = catalogs_dir / "starwars_star_systems_catalog.json"
     existing = load_existing_catalog(existing_path)
 
+    # Build systems from wiki (fallback), but prefer a large existing baseline if present.
+    wiki_system_index = build_from_wiki_systems(api_base, "Star systems", source_label)
+
     system_index: Dict[str, dict]
-    baseline_note: str
+    baseline_note: str = ""
 
-    if existing and isinstance(existing.get("systems"), list) and len(existing["systems"]) >= 500:
-        # Keep large baseline
-        baseline_note = " Baseline preserved from existing catalog; planets refreshed from Wookieepedia."
-        system_index = build_system_index_from_catalog(existing, baseline_note)
+    if existing and isinstance(existing.get("systems"), list):
+        existing_count = len(existing["systems"])
+        wiki_count = len(wiki_system_index)
+
+        # Prefer existing if it is materially larger than what we can derive from wiki category structure.
+        if existing_count >= 200 and existing_count >= max(200, wiki_count * 2):
+            baseline_note = " Baseline preserved from existing catalog; planets refreshed from Wookieepedia."
+            system_index = build_system_index_from_catalog(existing, baseline_note)
+        else:
+            system_index = wiki_system_index
     else:
-        # Otherwise build systems from Wookieepedia category
-        baseline_note = ""
-        system_index = build_from_wiki_systems(api_base, "Star systems", source_label)
+        system_index = wiki_system_index
 
-    # Ensure Unassigned sink
     unassigned = make_system_obj(
         "Unassigned system",
         "Catch-all for bodies whose star system could not be reliably derived from source pages.",
     )
     system_index[canon_key(unassigned["name"])] = unassigned
 
-    # Bodies: planets (recursive) + optionally moons (recursive)
     planets = mw_category_pages_recursive(api_base, "Planets", max_categories=STARWARS_MAX_CATEGORIES)
     bodies = planets
 
@@ -554,15 +565,15 @@ def build_starwars_catalog(catalogs_dir: Path) -> dict:
     if STARWARS_MAX_BODIES > 0:
         bodies = bodies[:STARWARS_MAX_BODIES]
 
+    if len(bodies) == 0 or len(system_index) <= 1:
+        raise RuntimeError("Sanity check failed: Star Wars crawl returned 0 bodies and/or 0 systems. Aborting.")
+
     planet_summary = attach_bodies_to_systems(
-        franchise=franchise,
         api_base=api_base,
         bodies=bodies,
         system_index=system_index,
         unassigned=unassigned,
-        # Wookieepedia varies; "location" is often not a system, but we include it as a last resort.
         body_param_names=["system", "star system", "starsystem", "location"],
-        # This is the key to mapping cases like Hoth via "Hoth system locations"
         use_category_system_hints=True,
         fetch_wikitext=STARWARS_FETCH_PLANET_WIKITEXT,
         source_label=source_label,
