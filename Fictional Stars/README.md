@@ -1,4 +1,4 @@
-# Star Exploration - Custom Datasets
+# Solar System Exploration - Custom Datasets
 We've created a custom star viewing portal in our latest [Star Exploration Software](https://www.meltingcorestudios.com/education/astronomy/solar_system_exploration). Within that software we've added the ability to add custom datasets. For example, you can add more detailed, private data sets you hosted internally, since the software runs completely local, despite being a web app. 
 
 This also allows for custom datasets that represent fictional star systems from movies for example.
