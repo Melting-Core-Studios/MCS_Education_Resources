@@ -45,7 +45,6 @@ jobs:
         run: |
           cd "${GITHUB_WORKSPACE}"
 
-          # Stage first so new/untracked JSONs are included
           git add "Fictional Stars/catalogs/"*.json
 
           if git diff --cached --quiet; then

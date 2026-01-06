@@ -1,0 +1,35 @@
+name: Generate JPL Horizons Ephemeris Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate ephemeris JSON
+        run: python Ephemeris/scripts/generate_ephemeris.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/manifest.json docs/ephemeris/*.json
+          git commit -m "Auto-update ephemeris feed" || echo "No changes to commit"
+          git push
