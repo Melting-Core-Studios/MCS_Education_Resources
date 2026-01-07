@@ -1,0 +1,32 @@
+name: Update NASA Exoplanet Archive JSON
+
+on:
+  schedule:
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python -m pip install --upgrade pip requests
+      - run: |
+          python NASA_Data/scripts/build_nasa_catalog.py --ps-maxrec 2000 --sh-maxrec 8000 --output NASA_Data/output/nasa-exoplanet-archive-limited.json
+          python NASA_Data/scripts/build_nasa_catalog.py --ps-maxrec 200000 --sh-maxrec 50000 --output NASA_Data/output/nasa-exoplanet-archive-full.json
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add NASA_Data/output/nasa-exoplanet-archive-limited.json NASA_Data/output/nasa-exoplanet-archive-full.json
+            git commit -m "Update NASA Exoplanet Archive datasets"
+            git push
+          else
+            echo "No changes"
+          fi
