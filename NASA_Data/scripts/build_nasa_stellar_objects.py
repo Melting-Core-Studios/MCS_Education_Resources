@@ -16,7 +16,7 @@ METEORITE_PRIMARY_URL = "https://data.nasa.gov/docs/legacy/meteorite_landings/gh
 # Common Socrata endpoint fallback
 METEORITE_FALLBACK_SOCRATA = "https://data.nasa.gov/resource/y77d-th95.json"
 
-UA = "MCS-Education-Stellar-Objects-Updater/1.0"
+UA = "MCS-Education-Stellar-Objects-Updater/1.1"
 
 
 def utc_now_iso() -> str:
@@ -77,7 +77,7 @@ def sbdb_query_page(
     sb_kind: str = "c",
     sb_xfrag: int = 1,
     sb_ns: Optional[str] = None,
-    sort: str = "id",
+    sort: str = "spkid",
 ) -> Tuple[List[str], List[List[Any]]]:
     params: Dict[str, Any] = {
         "fields": fields,
@@ -210,6 +210,7 @@ def normalize_comets(
 ) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     sb_xfrag = 0 if include_fragments else 1
 
+    # Use only documented SBDB Query fields (case-sensitive).
     fields = ",".join(
         [
             "spkid",
@@ -222,7 +223,6 @@ def normalize_comets(
             "last_obs",
             "producer",
             "diameter",
-            "extent",
             "albedo",
             "H",
             "epoch_cal",
@@ -250,7 +250,7 @@ def normalize_comets(
             sb_kind="c",
             sb_xfrag=sb_xfrag,
             sb_ns=None,
-            sort="id",
+            sort="spkid",
         )
         if not f_names or not rows:
             break
@@ -275,18 +275,17 @@ def normalize_comets(
                 "lastObs": r.get("last_obs"),
                 "orbitProducer": r.get("producer"),
                 "diameterKm": to_float(r.get("diameter")),
-                "extentKm": r.get("extent"),
                 "albedo": to_float(r.get("albedo")),
                 "H": to_float(r.get("H")),
                 "elements": {
-                    "epoch": r.get("epoch_cal"),
+                    "epochCal": r.get("epoch_cal"),
                     "e": to_float(r.get("e")),
                     "aAU": to_float(r.get("a")),
                     "qAU": to_float(r.get("q")),
                     "iDeg": to_float(r.get("i")),
                     "omDeg": to_float(r.get("om")),
                     "wDeg": to_float(r.get("w")),
-                    "tp": r.get("tp_cal"),
+                    "tpCal": r.get("tp_cal"),
                     "periodYears": to_float(r.get("per_y")),
                 },
             }
@@ -311,7 +310,7 @@ def normalize_comets(
                 sb_kind="c",
                 sb_xfrag=sb_xfrag,
                 sb_ns="n",
-                sort="id",
+                sort="spkid",
             )
             if not f_names or not rows:
                 break
@@ -383,12 +382,6 @@ def main() -> int:
         "meta": {
             "generatedAt": generated_at,
             "schema": "mcs-education-stellar-objects-v1",
-            "notes": [
-                "Comets are sourced from JPL SBDB Query API; discovery circumstances are optionally enriched for numbered comets via SBDB lookup API discovery=1.",
-                "Meteorites are sourced from NASA Open Data Portal 'Meteorite Landings API' (Meteoritical Society compilation).",
-                "Field availability varies by object; unnumbered comets may not have discovery circumstances in SBDB lookup.",
-                "The 'orbitProducer' field is the orbit-solution producer (not necessarily the discoverer).",
-            ],
             "sources": {
                 "comets": {
                     "name": "NASA/JPL SBDB Query API",
