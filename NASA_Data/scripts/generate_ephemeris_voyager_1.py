@@ -250,8 +250,8 @@ def now_iso() -> str:
 
 def main():
     repo_root = Path(__file__).resolve().parents[2]
-    docs_dir = repo_root / "docs"
-    ephem_dir = docs_dir / "ephemeris"
+    out_root = repo_root / "NASA_Data" / "events_in_our_solar_system" / "output" / "voyager1"
+    ephem_dir = out_root / "ephemeris"
     ensure_dir(ephem_dir)
 
     stop_time = stop_time_today_00z()
@@ -366,7 +366,7 @@ def main():
             {"id": "voyager1_saturn_30m", "file": "ephemeris/voyager1_saturn_30m.json"},
         ],
     }
-    write_json(docs_dir / "manifest.json", manifest)
+    write_json(out_root / "manifest.json", manifest)
 
 if __name__ == "__main__":
     main()
