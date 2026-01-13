@@ -1,0 +1,43 @@
+name: Generate Ephemeris Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ephemeris-feed
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests
+
+      # Voyager 1 ephemeris -> NASA_Data/events_in_our_solar_system/output/voyager1/
+      - run: python NASA_Data/scripts/generate_ephemeris.py
+
+      # Voyager 2 ephemeris -> NASA_Data/events_in_our_solar_system/output/voyager2/
+      - run: python NASA_Data/scripts/generate_ephemeris_voyager2.py
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add NASA_Data/events_in_our_solar_system/output/voyager1/manifest.json                   NASA_Data/events_in_our_solar_system/output/voyager1/ephemeris/*.json                   NASA_Data/events_in_our_solar_system/output/voyager2/manifest.json                   NASA_Data/events_in_our_solar_system/output/voyager2/ephemeris/*.json
+          git commit -m "Update ephemeris feed (auto)" || echo "No changes to commit"
+          git push
