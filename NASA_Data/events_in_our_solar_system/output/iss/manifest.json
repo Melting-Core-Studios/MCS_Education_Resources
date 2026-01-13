@@ -1,0 +1,1 @@
+{"schema":"mcs-ephem-manifest-v1","generated_utc":"2026-01-13T23:29:24.547943Z","datasets":[{"id":"planets_5d","file":"../voyager1/ephemeris/planets_5d.json"},{"id":"iss_1m","file":"ephemeris/iss_1m.json"}]}
