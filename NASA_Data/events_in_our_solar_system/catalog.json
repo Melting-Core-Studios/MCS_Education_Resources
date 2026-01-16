@@ -1,34 +1,33 @@
 {
-    "version": 1,
-    "generatedUtc": "2026-01-15T00:00:00Z",
-    "events": [
-      {
-        "id": "voyager1",
-        "type": "mission-deep-space",
-        "title": "Voyager 1",
-        "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/event.json",
-        "enabled": true
-      },
-      {
-        "id": "voyager2",
-        "type": "mission-deep-space",
-        "title": "Voyager 2",
-        "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/voyager2/event.json",
-        "enabled": true
-      },
-      {
-        "id": "iss",
-        "type": "earth-orbit",
-        "title": "International Space Station",
-        "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/event.json",
-        "enabled": true
-      },
-      {
-        "id": "parker_solar_probe",
-        "type": "solar-system-exploration",
-        "title": "Parker Solar Probe",
-        "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/parker_solar_probe/event.json",
-        "enabled": true
-      }
-    ]
-  }
+  "schema": "mcs-events-catalog-v1",
+  "events": [
+    {
+      "id": "voyager1",
+      "title": "Voyager 1",
+      "subtitle": "The first deep space exploration probe",
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/voyager1/event.json"
+    },
+    {
+      "id": "voyager2",
+      "title": "Voyager 2",
+      "subtitle": "The second deep space exploration probe",
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/voyager2/event.json"
+    },
+    {
+      "id": "iss",
+      "title": "International Space Station",
+      "subtitle": "Almost live location of the ISS",
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/iss/event.json"
+    },
+    {
+      "id": "parker_solar_probe",
+      "title": "Parker Solar Probe",
+      "subtitle": "The Sun exploration probe",
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/parker_solar_probe/event.json"
+    }
+  ]
+}
