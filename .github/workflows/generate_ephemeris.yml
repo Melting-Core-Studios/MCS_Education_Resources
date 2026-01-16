@@ -29,18 +29,27 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install requests sgp4
 
-      # Voyager 1 ephemeris -> NASA_Data/events_in_our_solar_system/output/voyager1/
+      # Voyager 1 ephemeris
       - run: python NASA_Data/scripts/generate_ephemeris_voyager1.py
 
-      # Voyager 2 ephemeris -> NASA_Data/events_in_our_solar_system/output/voyager2/
+      # Voyager 2 ephemeris
       - run: python NASA_Data/scripts/generate_ephemeris_voyager2.py
 
-      # ISS live ephemeris (TLE/SGP4) -> NASA_Data/events_in_our_solar_system/output/iss/
+      # ISS live ephemeris (TLE/SGP4)
       - run: python NASA_Data/scripts/generate_iss_ephemeris.py
+
+      # Parker Solar Probe ephemeris
 
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add NASA_Data/events_in_our_solar_system/output/voyager1/manifest.json                   NASA_Data/events_in_our_solar_system/output/voyager1/ephemeris/*.json                   NASA_Data/events_in_our_solar_system/output/voyager2/manifest.json                   NASA_Data/events_in_our_solar_system/output/voyager2/ephemeris/*.json                   NASA_Data/events_in_our_solar_system/output/iss/manifest.json                   NASA_Data/events_in_our_solar_system/output/iss/ephemeris/*.json
+          git add NASA_Data/events_in_our_solar_system/output/voyager1/manifest.json
+          git add NASA_Data/events_in_our_solar_system/output/voyager1/ephemeris/*.json                   
+          git add NASA_Data/events_in_our_solar_system/output/voyager2/manifest.json                   
+          git add NASA_Data/events_in_our_solar_system/output/voyager2/ephemeris/*.json                   
+          git add NASA_Data/events_in_our_solar_system/output/iss/manifest.json                   
+          git add NASA_Data/events_in_our_solar_system/output/iss/ephemeris/*.json
+          git add NASA_Data/events_in_our_solar_system/output/parker_solar_probe/manifest.json                   
+          git add NASA_Data/events_in_our_solar_system/output/parker_solar_probe/ephemeris/*.json
           git commit -m "Update ephemeris feed (auto)" || echo "No changes to commit"
           git push
