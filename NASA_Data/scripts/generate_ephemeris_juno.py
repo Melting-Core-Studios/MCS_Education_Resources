@@ -168,6 +168,38 @@ def extract_block(result: str) -> str:
     return result[i0 + 5 : i1].strip()
 
 
+
+_HORIZONS_PRIOR_RE = re.compile(r'prior to\s+A\.D\.\s+(\d{4}-[A-Z]{3}-\d{2}\s+\d{2}:\d{2}:\d{2}\.\d+)', re.IGNORECASE)
+_HORIZONS_AFTER_RE = re.compile(r'after\s+A\.D\.\s+(\d{4}-[A-Z]{3}-\d{2}\s+\d{2}:\d{2}:\d{2}\.\d+)', re.IGNORECASE)
+
+def _parse_horizons_ad_time(s: str):
+    try:
+        # Example: 2011-AUG-05 17:18:06.0000
+        return datetime.datetime.strptime(s.strip().title(), "%Y-%b-%d %H:%M:%S.%f")
+    except Exception:
+        return None
+
+def _format_horizons_time(dt):
+    return dt.strftime("%Y-%b-%d %H:%M:%S")
+
+def _maybe_clip_to_horizons_limits(err_text: str, start_time: str, stop_time: str):
+    # If Horizons indicates start is too early / stop too late, clip and return (new_start, new_stop).
+    et = err_text or ""
+    m1 = _HORIZONS_PRIOR_RE.search(et)
+    if m1:
+        dt = _parse_horizons_ad_time(m1.group(1))
+        if dt:
+            dt = dt + datetime.timedelta(seconds=1)
+            return _format_horizons_time(dt), stop_time
+    m2 = _HORIZONS_AFTER_RE.search(et)
+    if m2:
+        dt = _parse_horizons_ad_time(m2.group(1))
+        if dt:
+            dt = dt - datetime.timedelta(seconds=1)
+            return start_time, _format_horizons_time(dt)
+    return start_time, stop_time
+
+
 def parse_vectors(block: str):
     """Parse Horizons VECTORS ($$SOE..$$EOE) into (t, pv).
 
@@ -233,7 +265,7 @@ def parse_vectors(block: str):
     return t, pv
 
 
-def horizons_vectors_once(command: int, start_time: str, stop_time: str, step_size: str):
+def horizons_vectors_once(command: int, start_time: str, stop_time: str, step_size: str, allow_retry: bool = True):
     params = {
         "format": "json",
         "EPHEM_TYPE": q("VECTORS"),
@@ -266,7 +298,15 @@ def horizons_vectors_once(command: int, start_time: str, stop_time: str, step_si
     if not isinstance(result, str):
         raise RuntimeError("Missing result field.")
 
-    block = extract_block(result)
+    try:
+        block = extract_block(result)
+    except RuntimeError:
+        snippet = (result or '').strip().replace("\\r", "")
+        new_start, new_stop = _maybe_clip_to_horizons_limits(snippet, start_time, stop_time)
+        if allow_retry and (new_start != start_time or new_stop != stop_time):
+            return horizons_vectors_once(command, new_start, new_stop, step_size, allow_retry=False)
+        raise
+
     t, pv = parse_vectors(block)
 
     sig = j.get("signature")
