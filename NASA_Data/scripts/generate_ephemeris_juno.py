@@ -59,8 +59,17 @@ MONTH = {
 }
 
 EARLIEST_RE = re.compile(
-    r"prior to A\\.D\\. (\\d{4})-([A-Z]{3})-(\\d{2}) (\\d{2}):(\\d{2}):(\\d{2})(?:\\.(\\d+))? UT"
+    r"prior to\s+A\.D\.\s+(\d{4})-([A-Z]{3})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})(?:\.(\d+))?\s*UT",
+    re.IGNORECASE,
 )
+
+
+
+def _selftest_regex():
+    # Offline sanity check for the Horizons "prior to A.D." error format
+    sample = 'No ephemeris for target "Juno (spacecraft)" prior to A.D. 2011-AUG-05 17:18:06.0000 UT'
+    dt = parse_earliest_from_error(sample)
+    assert dt is not None and dt.year == 2011 and dt.month == 8 and dt.day == 5 and dt.hour == 17 and dt.minute == 18
 
 
 def q(s: str) -> str:
