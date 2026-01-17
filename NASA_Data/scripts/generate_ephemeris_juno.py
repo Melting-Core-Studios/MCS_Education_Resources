@@ -22,7 +22,7 @@ TIME_TYPE = "UT"
 
 # Juno spacecraft NAIF ID code: -61 (see NAIF IDs Required Reading)
 # Launch: 2011-08-05 16:25:00 UTC
-LAUNCH_TIME = "2011-08-05 16:25:00"
+LAUNCH_TIME = "2011-08-05 17:18:06"
 JUNO_ID = -61
 
 MAJOR_BODIES = [
