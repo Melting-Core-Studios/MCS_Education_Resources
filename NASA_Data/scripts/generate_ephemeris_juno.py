@@ -169,28 +169,67 @@ def extract_block(result: str) -> str:
 
 
 def parse_vectors(block: str):
+    """Parse Horizons VECTORS ($$SOE..$$EOE) into (t, pv).
+
+    Supports both CSV and whitespace table formats.
+    Accepts E or D exponent markers.
+    """
     t = []
     pv = []
+
     for raw in block.splitlines():
         line = raw.strip()
-        if not line or not re.match(r"^\\d", line):
+        if not line:
             continue
-        parts = [p.strip() for p in line.split(",")]
-        try:
-            if len(parts) >= 8:
-                jd = float(parts[0])
-                x, y, z, vx, vy, vz = map(float, parts[2:8])
-            elif len(parts) >= 7:
-                jd = float(parts[0])
-                x, y, z, vx, vy, vz = map(float, parts[1:7])
-            else:
+
+        # CSV_FORMAT=YES typically yields: JD, CAL, X, Y, Z, VX, VY, VZ, ...
+        if "," in line:
+            parts = [p.strip() for p in line.split(",")]
+            # Drop empty trailing fields (some responses end lines with a comma)
+            while parts and parts[-1] == "":
+                parts.pop()
+            if not parts:
                 continue
-        except ValueError:
-            continue
+            if not re.match(r"^\d", parts[0]):
+                continue
+            try:
+                jd = float(parts[0])
+            except ValueError:
+                continue
+
+            # Prefer fields after JD + calendar date
+            start_idx = 2 if len(parts) >= 8 else 1
+            nums = parts[start_idx : start_idx + 6]
+            if len(nums) < 6:
+                continue
+            try:
+                vals = [float(s.replace("D", "E").replace("d", "E")) for s in nums]
+            except ValueError:
+                continue
+
+            x, y, z, vx, vy, vz = vals
+
+        else:
+            # Whitespace-delimited table: take JD as first token, vector components as last 6 tokens
+            if not re.match(r"^\d", line):
+                continue
+            fields = line.split()
+            if len(fields) < 7:
+                continue
+            try:
+                jd = float(fields[0])
+                nums = fields[-6:]
+                vals = [float(s.replace("D", "E").replace("d", "E")) for s in nums]
+            except ValueError:
+                continue
+            x, y, z, vx, vy, vz = vals
+
         t.append(jd)
         pv.extend([x, y, z, vx, vy, vz])
+
     if len(t) < 2 or len(pv) != len(t) * 6:
-        raise RuntimeError("Parsed too few samples.")
+        preview = "\n".join(block.splitlines()[:25])
+        raise RuntimeError("Parsed too few samples. Preview:\n" + preview)
     return t, pv
 
 
