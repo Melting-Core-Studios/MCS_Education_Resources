@@ -83,16 +83,19 @@ def fmt_utcish(dt: datetime) -> str:
 
 
 def step_seconds(step: str) -> int:
-    m = re.match(r"^\\s*(\\d+)\\s*([dm])\\s*$", step.strip(), re.IGNORECASE)
+    s = (step or "").strip().lower()
+    # Allow formats like "5d", "5 d", "5 day", "5 days", "10m", "10 min", "10 minutes"
+    m = re.match(r"^\s*(\d+)\s*([a-z]+)\s*$", s)
     if not m:
         raise ValueError(f"Unsupported STEP_SIZE: {step}")
     n = int(m.group(1))
-    u = m.group(2).lower()
-    if u == "d":
+    u = m.group(2)
+    if u in ("d", "day", "days"):
         return n * 86400
-    if u == "m":
+    if u in ("m", "min", "mins", "minute", "minutes"):
         return n * 60
     raise ValueError(f"Unsupported STEP_SIZE unit: {step}")
+
 
 
 def stop_time_today_00z() -> str:
