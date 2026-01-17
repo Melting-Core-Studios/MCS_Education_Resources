@@ -1,0 +1,86 @@
+{
+  "id": "juno",
+  "title": "Juno",
+  "subtitle": "Jupiter orbiter \u2022 Polar science mission",
+  "type": "mission-jupiter-orbiter",
+  "tags": [
+    "probe",
+    "jupiter",
+    "orbiter"
+  ],
+  "assets": {
+    "model": {
+      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/jupiter_juno_orbiter.glb",
+      "scale": 1.0,
+      "rotationDeg": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "ephemeris": {
+    "mode": "static-feed",
+    "manifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/output/juno/manifest.json",
+    "center": "solar-system-barycenter",
+    "trail": {
+      "enabled": true
+    }
+  },
+  "timeline": {
+    "stages": [
+      {
+        "name": "Launch",
+        "whenUtc": "2011-08-05T16:25:00Z",
+        "text": "Juno launched on an Atlas V 551 from Cape Canaveral to begin a five-year cruise to Jupiter.",
+        "media": [
+          {
+            "caption": "Atlas V 551 launch with Juno",
+            "credit": "NASA",
+            "source": "https://commons.wikimedia.org/wiki/File:Atlas_V_551_launch_with_Juno.jpg",
+            "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20V%20551%20launch%20with%20Juno.jpg?width=1600"
+          }
+        ]
+      },
+      {
+        "name": "Earth gravity assist",
+        "whenUtc": "2013-10-09T19:21:00Z",
+        "text": "Juno performed an Earth flyby to gain speed for the outbound leg to Jupiter.",
+        "media": [
+          {
+            "caption": "Juno during the Earth flyby (long exposure)",
+            "credit": "Greg Roberts",
+            "source": "https://www.missionjuno.swri.edu/media-gallery/earth_flyby",
+            "url": "https://www.missionjuno.swri.edu/Content/images/earth_flyby/PIA17313.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Jupiter orbit insertion",
+        "whenUtc": "2016-07-05T03:53:00Z",
+        "text": "A main engine burn slowed the spacecraft so Jupiter could capture it into a highly-elliptical polar orbit.",
+        "media": [
+          {
+            "caption": "Juno at Jupiter (artist concept)",
+            "credit": "NASA/JPL-Caltech",
+            "source": "https://commons.wikimedia.org/wiki/File:JUNO_-_PIA13746.jpg",
+            "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JUNO%20-%20PIA13746.jpg?width=1600"
+          }
+        ]
+      },
+      {
+        "name": "Great Red Spot flyover",
+        "whenUtc": "2017-07-11T01:54:42Z",
+        "text": "Juno executed a close pass over Jupiter's Great Red Spot during Perijove 7, returning high-resolution imagery and context for atmospheric studies.",
+        "media": [
+          {
+            "caption": "Jupiter clouds imaged by JunoCam",
+            "credit": "NASA/JPL-Caltech/SwRI/MSSS",
+            "source": "https://science.nasa.gov/mission/juno/",
+            "url": "https://www.nasa.gov/wp-content/uploads/2017/10/pia21975.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
