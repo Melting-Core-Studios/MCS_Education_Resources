@@ -44,6 +44,9 @@ jobs:
       # Juno Orbiter ephemeris
       - run: python NASA_Data/scripts/generate_ephemeris_juno.py
 
+      # Cassini Orbiter ephemeris
+      - run: python NASA_Data/scripts/generate_ephemeris_cassini.py
+
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
