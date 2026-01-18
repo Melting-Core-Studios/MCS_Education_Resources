@@ -31,10 +31,17 @@
     },
     {
       "id": "juno_jupiter_orbiter",
-      "title": "Jupiter's Juno Orbiter",
-      "subtitle": "The orbiter around Jupiter",
+      "title": "Juno",
+      "subtitle": "The Jupiter Orbiter",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/juno/event.json"
-    }
+    },
+    {
+      "id": "cassini",
+      "title": "Cassini",
+      "subtitle": "The Saturn Orbiter and Titan probe",
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/cassini/event.json"
+    },
   ]
 }
