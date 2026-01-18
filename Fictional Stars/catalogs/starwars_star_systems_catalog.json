@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-01-11T04:23:21+00:00",
+    "generatedAt": "2026-01-18T04:19:52+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7215,
+      "bodyPages": 7218,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
       "attached": 6461,
-      "unassigned": 754,
+      "unassigned": 757,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -27963,6 +27963,18 @@
       "stars": [
         {
           "name": "Copperline system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Copul system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Copul system primary",
           "type": "star"
         }
       ],
@@ -94952,10 +94964,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -135461,11 +135473,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Xa Fel/Legends"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Sídi system",
@@ -149167,6 +149175,9 @@
           "name": "Fortress world/Legends"
         },
         {
+          "name": "Fosh homeworld"
+        },
+        {
           "name": "Four Thrones of Cron"
         },
         {
@@ -149195,6 +149206,9 @@
         },
         {
           "name": "Gank homeworld"
+        },
+        {
+          "name": "Gank homeworld/Legends"
         },
         {
           "name": "Garasu"
@@ -150416,6 +150430,9 @@
         },
         {
           "name": "Unidentified ice planet (industrialist)"
+        },
+        {
+          "name": "Unidentified ice planet (Somareeva)"
         },
         {
           "name": "Unidentified icy planet"
@@ -160925,7 +160942,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Xa Fel/Legends"
+        }
+      ]
     },
     {
       "name": "Xagobah system",

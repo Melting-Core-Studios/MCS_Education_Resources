@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-01-11T04:17:54+00:00",
+    "generatedAt": "2026-01-18T04:13:30+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12025,
+      "bodyPages": 12067,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12025,
+      "unassigned": 12067,
       "createdSystemsFromBodies": 0
     }
   },
@@ -4359,6 +4359,18 @@
       "planets": []
     },
     {
+      "name": "Almond Basket",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Almond Basket primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Almond pudding",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -8091,6 +8103,18 @@
       "planets": []
     },
     {
+      "name": "Avi Ballo",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Avi Ballo primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Avignon",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -11475,6 +11499,18 @@
       "planets": []
     },
     {
+      "name": "Beth Hormuth",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beth Hormuth primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Beth Woods (Lieutenant Commander)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -12819,12 +12855,36 @@
       "planets": []
     },
     {
+      "name": "Bonne Johnson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bonne Johnson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Bonnie and Clyde",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Bonnie and Clyde primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Book louse",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Book louse primary",
           "type": "star"
         }
       ],
@@ -15711,6 +15771,18 @@
       "planets": []
     },
     {
+      "name": "Caleb Mir",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Caleb Mir primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "CalEdison",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -15729,6 +15801,18 @@
       "stars": [
         {
           "name": "Calgary primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Calica",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Calica primary",
           "type": "star"
         }
       ],
@@ -21543,6 +21627,18 @@
       "planets": []
     },
     {
+      "name": "Conversational Klingon (club)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Conversational Klingon (club) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Convertible",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -24567,6 +24663,18 @@
       "planets": []
     },
     {
+      "name": "Darem Reymi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Darem Reymi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Darien Wallace",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -25089,6 +25197,18 @@
       "stars": [
         {
           "name": "David Teller (Starfleet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "David Till (Ambassador)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "David Till (Ambassador) primary",
           "type": "star"
         }
       ],
@@ -31161,6 +31281,18 @@
       "stars": [
         {
           "name": "Eric primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Eric Anthony Glover (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Eric Anthony Glover (Admiral) primary",
           "type": "star"
         }
       ],
@@ -37431,6 +37563,18 @@
       "planets": []
     },
     {
+      "name": "Genesis Lythe",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Genesis Lythe primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Geneva",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -37605,6 +37749,18 @@
       "stars": [
         {
           "name": "George and Gracie primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "George Cheeks",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "George Cheeks primary",
           "type": "star"
         }
       ],
@@ -40743,6 +40899,18 @@
       "planets": []
     },
     {
+      "name": "Haile",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Haile primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Haircut Lapinski",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -41445,6 +41613,18 @@
       "stars": [
         {
           "name": "Harrison primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Harrison Arhart",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Harrison Arhart primary",
           "type": "star"
         }
       ],
@@ -44949,6 +45129,18 @@
       "stars": [
         {
           "name": "Ikuyo Seuphon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Il trovatore",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Il trovatore primary",
           "type": "star"
         }
       ],
@@ -48975,6 +49167,18 @@
       "planets": []
     },
     {
+      "name": "Jay-Den Kraag",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jay-Den Kraag primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Jayse Hansen",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -49401,6 +49605,18 @@
       "stars": [
         {
           "name": "Jenny Delaney primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Jenny Lumet (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jenny Lumet (Admiral) primary",
           "type": "star"
         }
       ],
@@ -57711,6 +57927,18 @@
       "planets": []
     },
     {
+      "name": "Lois Bridges",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lois Bridges primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Lois R. Eckridge",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -58533,6 +58761,18 @@
       "stars": [
         {
           "name": "Lundey primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lura Thok",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lura Thok primary",
           "type": "star"
         }
       ],
@@ -64083,6 +64323,18 @@
       "planets": []
     },
     {
+      "name": "Mike Jerome",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mike Jerome primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mike Mullane",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -64353,6 +64605,18 @@
       "stars": [
         {
           "name": "Mindy C. Long primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Minh Nguyen",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Minh Nguyen primary",
           "type": "star"
         }
       ],
@@ -66555,6 +66819,18 @@
       "planets": []
     },
     {
+      "name": "Nahla Ake",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nahla Ake primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Nails",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -66645,6 +66921,18 @@
       "stars": [
         {
           "name": "Nami Melumad (Starfleet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Namibia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Namibia primary",
           "type": "star"
         }
       ],
@@ -68199,6 +68487,18 @@
       "planets": []
     },
     {
+      "name": "Nino Das",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nino Das primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Nissan 280ZX",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -69537,6 +69837,18 @@
       "stars": [
         {
           "name": "Oby system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ocam Sadal",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ocam Sadal primary",
           "type": "star"
         }
       ],
@@ -81075,12 +81387,12 @@
       "planets": []
     },
     {
-      "name": "Ross (Cadet)",
+      "name": "Ross (cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (Cadet) primary",
+          "name": "Ross (cadet) primary",
           "type": "star"
         }
       ],
@@ -81477,6 +81789,18 @@
       "stars": [
         {
           "name": "Ruby (Dixon Hill) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ruby Permenter",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ruby Permenter primary",
           "type": "star"
         }
       ],
@@ -82767,6 +83091,18 @@
       "planets": []
     },
     {
+      "name": "SAM",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "SAM primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Sam (crewmember)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -83637,6 +83973,30 @@
       "stars": [
         {
           "name": "Sappora system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sapta Landau",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sapta Landau primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sara M. Pearce",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sara M. Pearce primary",
           "type": "star"
         }
       ],
@@ -93903,6 +94263,18 @@
       "planets": []
     },
     {
+      "name": "Tarima Sadal",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tarima Sadal primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tarod",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -94089,6 +94461,18 @@
       "stars": [
         {
           "name": "Tau¹ Eridani primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tawny Newsome (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tawny Newsome (Admiral) primary",
           "type": "star"
         }
       ],
@@ -101036,6 +101420,9 @@
           "name": "Airtrax"
         },
         {
+          "name": "Ajergh K'Tamushi"
+        },
+        {
           "name": "Ajilon Prime"
         },
         {
@@ -101382,6 +101769,9 @@
         },
         {
           "name": "Almak"
+        },
+        {
+          "name": "Almond Basket"
         },
         {
           "name": "Almond pudding"
@@ -102513,6 +102903,9 @@
         },
         {
           "name": "Avesta"
+        },
+        {
+          "name": "Avi Ballo"
         },
         {
           "name": "Avignon"
@@ -103808,6 +104201,9 @@
           "name": "Beth Delta I"
         },
         {
+          "name": "Beth Hormuth"
+        },
+        {
           "name": "Beth Woods (Lieutenant Commander)"
         },
         {
@@ -104210,7 +104606,13 @@
           "name": "Bongos"
         },
         {
+          "name": "Bonne Johnson"
+        },
+        {
           "name": "Bonnie and Clyde"
+        },
+        {
+          "name": "Book louse"
         },
         {
           "name": "Book of the Kosst Amojan"
@@ -105077,10 +105479,16 @@
           "name": "Caleb IV"
         },
         {
+          "name": "Caleb Mir"
+        },
+        {
           "name": "CalEdison"
         },
         {
           "name": "Calgary"
+        },
+        {
+          "name": "Calica"
         },
         {
           "name": "California"
@@ -106829,6 +107237,9 @@
           "name": "Control (24th century)"
         },
         {
+          "name": "Conversational Klingon (club)"
+        },
+        {
           "name": "Convertible"
         },
         {
@@ -107768,6 +108179,9 @@
           "name": "Daran V"
         },
         {
+          "name": "Darem Reymi"
+        },
+        {
           "name": "Darhe'el"
         },
         {
@@ -107910,6 +108324,9 @@
         },
         {
           "name": "David Teller (Starfleet)"
+        },
+        {
+          "name": "David Till (Ambassador)"
         },
         {
           "name": "David Trotti (Starfleet)"
@@ -109571,6 +109988,9 @@
           "name": "Emergency Order 7-6-2 alpha"
         },
         {
+          "name": "Emerin Sadal"
+        },
+        {
           "name": "Emila II"
         },
         {
@@ -109770,6 +110190,9 @@
         },
         {
           "name": "Eric"
+        },
+        {
+          "name": "Eric Anthony Glover (Admiral)"
         },
         {
           "name": "Eric Burton"
@@ -111725,6 +112148,9 @@
           "name": "Genesis (planet)"
         },
         {
+          "name": "Genesis Lythe"
+        },
+        {
           "name": "Genetic bonding"
         },
         {
@@ -111771,6 +112197,9 @@
         },
         {
           "name": "George and Gracie"
+        },
+        {
+          "name": "George Cheeks"
         },
         {
           "name": "George H.W. Bush"
@@ -112757,6 +113186,9 @@
           "name": "Hail to the Chief"
         },
         {
+          "name": "Haile"
+        },
+        {
           "name": "Haircut Lapinski"
         },
         {
@@ -112977,6 +113409,9 @@
         },
         {
           "name": "Harrison"
+        },
+        {
+          "name": "Harrison Arhart"
         },
         {
           "name": "Harrison Horseberry"
@@ -113624,6 +114059,9 @@
           "name": "House of D'Ghor"
         },
         {
+          "name": "House of Dak'Hatas"
+        },
+        {
           "name": "House of Duras"
         },
         {
@@ -114234,6 +114672,9 @@
         },
         {
           "name": "Ikuyo Seuphon"
+        },
+        {
+          "name": "Il trovatore"
         },
         {
           "name": "Ilan Ramon"
@@ -115385,6 +115826,9 @@
           "name": "Jay T. Laprade"
         },
         {
+          "name": "Jay-Den Kraag"
+        },
+        {
           "name": "Jaya (Augment)"
         },
         {
@@ -115509,6 +115953,9 @@
         },
         {
           "name": "Jenny Delaney"
+        },
+        {
+          "name": "Jenny Lumet (Admiral)"
         },
         {
           "name": "Jenzo"
@@ -117036,6 +117483,9 @@
         },
         {
           "name": "Khell Tas So"
+        },
+        {
+          "name": "Khionia"
         },
         {
           "name": "Khitomer"
@@ -118724,6 +119174,9 @@
           "name": "Little Bighorn River"
         },
         {
+          "name": "Little Blooms"
+        },
+        {
           "name": "Little Golden Books"
         },
         {
@@ -118800,6 +119253,9 @@
         },
         {
           "name": "Logistical Support"
+        },
+        {
+          "name": "Lois Bridges"
         },
         {
           "name": "Lois R. Eckridge"
@@ -119070,6 +119526,9 @@
         },
         {
           "name": "Lupaza"
+        },
+        {
+          "name": "Lura Thok"
         },
         {
           "name": "Lurak T'Luco"
@@ -120842,6 +121301,9 @@
           "name": "Mike Burnham"
         },
         {
+          "name": "Mike Jerome"
+        },
+        {
           "name": "Mike Mullane"
         },
         {
@@ -120921,6 +121383,9 @@
         },
         {
           "name": "Mindy C. Long"
+        },
+        {
+          "name": "Minh Nguyen"
         },
         {
           "name": "Minicoy"
@@ -121676,6 +122141,9 @@
           "name": "Nah'ru vine"
         },
         {
+          "name": "Nahla Ake"
+        },
+        {
           "name": "Nahmi IV"
         },
         {
@@ -121707,6 +122175,9 @@
         },
         {
           "name": "Nami Melumad (Starfleet)"
+        },
+        {
+          "name": "Namibia"
         },
         {
           "name": "Naming Day"
@@ -122282,6 +122753,9 @@
           "name": "Ninipia Prime"
         },
         {
+          "name": "Nino Das"
+        },
+        {
           "name": "Ninth Order"
         },
         {
@@ -122513,6 +122987,9 @@
           "name": "Nursery school"
         },
         {
+          "name": "Nus Braka"
+        },
+        {
           "name": "Nutmeg"
         },
         {
@@ -122700,6 +123177,9 @@
         },
         {
           "name": "Oby VI"
+        },
+        {
+          "name": "Ocam Sadal"
         },
         {
           "name": "Ocampa (planet)"
@@ -126665,10 +127145,10 @@
           "name": "Rosetta Stone"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -126762,6 +127242,9 @@
         },
         {
           "name": "Ruby (Dixon Hill)"
+        },
+        {
+          "name": "Ruby Permenter"
         },
         {
           "name": "Rudman"
@@ -127175,6 +127658,9 @@
           "name": "Salva II"
         },
         {
+          "name": "SAM"
+        },
+        {
           "name": "Sam (crewmember)"
         },
         {
@@ -127401,6 +127887,12 @@
         },
         {
           "name": "Sappora VII"
+        },
+        {
+          "name": "Sapta Landau"
+        },
+        {
+          "name": "Sara M. Pearce"
         },
         {
           "name": "Sara Simon-Behrnes"
@@ -130886,6 +131378,9 @@
           "name": "Targets of Opportunity"
         },
         {
+          "name": "Tarima Sadal"
+        },
+        {
           "name": "Taris"
         },
         {
@@ -130995,6 +131490,9 @@
         },
         {
           "name": "Tawi'Yan"
+        },
+        {
+          "name": "Tawny Newsome (Admiral)"
         },
         {
           "name": "Taxicab"
@@ -132473,7 +132971,7 @@
           "name": "Toronto Paramedic Services"
         },
         {
-          "name": "Torothan homeworld"
+          "name": "Toroth (planet)"
         },
         {
           "name": "Torres"
@@ -133770,6 +134268,12 @@
         },
         {
           "name": "USS Ariel personnel"
+        },
+        {
+          "name": "USS Athena"
+        },
+        {
+          "name": "USS Athena dedication plaque"
         },
         {
           "name": "USS Beagle"
@@ -135251,6 +135755,9 @@
           "name": "Wanoni tracehound"
         },
         {
+          "name": "War College"
+        },
+        {
           "name": "War galley"
         },
         {
@@ -135372,6 +135879,9 @@
         },
         {
           "name": "Weldon"
+        },
+        {
+          "name": "Weldu"
         },
         {
           "name": "Wellington"
@@ -138265,6 +138775,30 @@
       "stars": [
         {
           "name": "USS Ariel personnel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "USS Athena",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "USS Athena primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "USS Athena dedication plaque",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "USS Athena dedication plaque primary",
           "type": "star"
         }
       ],
@@ -142111,6 +142645,18 @@
       "planets": []
     },
     {
+      "name": "War College",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "War College primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "War galley",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -142513,6 +143059,18 @@
       "stars": [
         {
           "name": "Weldon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Weldu",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Weldu primary",
           "type": "star"
         }
       ],
