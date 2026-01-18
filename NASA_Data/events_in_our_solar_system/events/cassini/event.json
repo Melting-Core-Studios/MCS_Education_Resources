@@ -1,0 +1,107 @@
+{
+  "id": "cassini",
+  "title": "Cassini–Huygens",
+  "subtitle": "Saturn orbiter • Venus/Earth/Jupiter assists",
+  "type": "mission-saturn-orbiter",
+  "tags": [
+    "Saturn",
+    "Cassini",
+    "Huygens",
+    "NASA",
+    "ESA"
+  ],
+  "assets": {
+    "model": {
+      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/spacecraft_cassini.glb",
+      "scale": 1.0,
+      "rotationDeg": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "ephemeris": {
+    "mode": "static-feed",
+    "manifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/output/cassini/manifest.json",
+    "center": "solar-system-barycenter",
+    "trail": {
+      "enabled": true
+    }
+  },
+  "timeline": {
+    "stages": [
+      {
+        "name": "Launch",
+        "whenUtc": "1997-10-15T08:43:00Z",
+        "text": "Cassini–Huygens launched on a Titan IVB/Centaur toward Saturn, beginning a multi-year cruise with gravity assists.",
+        "media": [
+          {
+            "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA00748.jpg",
+            "caption": "Launch of Cassini–Huygens on a Titan IVB/Centaur (Oct 15, 1997).",
+            "credit": "NASA/JPL/KSC",
+            "source": "https://www.jpl.nasa.gov/images/pia00748-launch-of-cassini-orbiter-and-huygens-probe-on-titan-iv/"
+          }
+        ]
+      },
+      {
+        "name": "Earth flyby",
+        "whenUtc": "1999-08-18T00:00:00Z",
+        "text": "A gravity-assist flyby of Earth boosted Cassini's trajectory toward the outer solar system.",
+        "media": [
+          {
+            "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/PIA02321.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1025&w=1084",
+            "caption": "Earth flyby era: Cassini imaged Earth's Moon (PIA02321).",
+            "credit": "NASA/JPL/Cassini Imaging Team/University of Arizona",
+            "source": "https://science.nasa.gov/resource/cassini-flyby-earths-moon/"
+          }
+        ]
+      },
+      {
+        "name": "Jupiter flyby",
+        "whenUtc": "2000-12-30T10:12:00Z",
+        "text": "Cassini performed a Jupiter gravity assist, testing instruments and reshaping its path toward Saturn.",
+        "media": [
+          {
+            "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/p/i/a/0/PIA04866.jpg?crop=faces%2Cfocalpoint&fit=clip&h=2400&w=1920",
+            "caption": "Cassini Jupiter portrait during the 2000 flyby (PIA04866).",
+            "credit": "NASA/JPL/Space Science Institute",
+            "source": "https://science.nasa.gov/resource/cassini-jupiter-portrait/"
+          }
+        ]
+      },
+      {
+        "name": "Saturn orbit insertion",
+        "whenUtc": "2004-07-01T21:12:00Z",
+        "text": "Cassini executed Saturn Orbit Insertion and became the first spacecraft to orbit Saturn.",
+        "media": [
+          {
+            "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA05425.jpg",
+            "caption": "Saturn in full view shortly after orbit insertion (PIA05425).",
+            "credit": "NASA/JPL/Space Science Institute",
+            "source": "https://www.jpl.nasa.gov/images/pia05425-saturn-in-full-view/"
+          }
+        ]
+      },
+      {
+        "name": "Grand Finale",
+        "whenUtc": "2017-09-15T11:55:46Z",
+        "text": "Cassini ended its mission with a controlled entry into Saturn's atmosphere to protect potentially habitable moons.",
+        "media": [
+          {
+            "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/PIA21895_ImpactSite_FigA_FINALIMAGE_2.png?crop=faces%2Cfocalpoint&fit=clip&h=508&w=505",
+            "caption": "Impact Site—Cassini's final image before its Saturn entry (PIA21895).",
+            "credit": "NASA/JPL-Caltech/Space Science Institute",
+            "source": "https://science.nasa.gov/missions/cassini/cassinis-final-images/"
+          },
+          {
+            "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA22768.jpg",
+            "caption": "Artist's illustration of Cassini's Grand Finale dives (PIA22768).",
+            "credit": "NASA/JPL-Caltech",
+            "source": "https://www.jpl.nasa.gov/images/pia22768-grand-finale-one-of-cassinis-last-dives-illustration/"
+          }
+        ]
+      }
+    ]
+  }
+}
