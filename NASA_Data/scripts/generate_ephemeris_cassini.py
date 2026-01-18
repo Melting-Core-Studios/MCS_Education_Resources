@@ -23,7 +23,7 @@ TIME_TYPE = "UT"
 # Cassini spacecraft NAIF ID code: -82 (see NAIF IDs Required Reading / NAIF body codes list)
 # Launch: 1997-10-15 08:43:00 UTC
 LAUNCH_TIME = "1997-10-15 08:43:00"
-STOP_TIME = "2017-09-15 23:59:59"  # Cassini Grand Finale end (UTC)
+STOP_TIME = "2017-09-15 11:56:00"  # Cassini end-of-ephemeris safe default (UTC)  # Cassini Grand Finale end (UTC)
 
 CASSINI_ID = -82
 
@@ -303,6 +303,14 @@ def horizons_vectors_once(command: int, start_time: str, stop_time: str, step_si
         earliest = parse_earliest_from_error(err)
         if earliest is not None:
             raise StartTooEarly(earliest, err)
+        # Auto-clip requested time range if Horizons reports coverage limits.
+
+        ns, ne = _maybe_clip_to_horizons_limits(err, start_time, stop_time)
+
+        if allow_retry and (ns != start_time or ne != stop_time):
+
+            return horizons_vectors_once(command, ns, ne, step_size, allow_retry=False)
+
         raise RuntimeError(err)
 
     result = j.get("result")
