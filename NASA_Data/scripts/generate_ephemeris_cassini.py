@@ -21,8 +21,10 @@ VEC_TABLE = "2"
 TIME_TYPE = "UT"
 
 # Cassini spacecraft NAIF ID code: -82 (see NAIF IDs Required Reading / NAIF body codes list)
-# Launch: 2011-08-05 16:25:00 UTC
+# Launch: 1997-10-15 08:43:00 UTC
 LAUNCH_TIME = "1997-10-15 08:43:00"
+STOP_TIME = "2017-09-15 23:59:59"  # Cassini Grand Finale end (UTC)
+
 CASSINI_ID = -82
 
 MAJOR_BODIES = [
