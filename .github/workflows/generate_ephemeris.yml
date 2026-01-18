@@ -60,5 +60,7 @@ jobs:
           git add NASA_Data/events_in_our_solar_system/output/parker_solar_probe/ephemeris/*.json
           git add NASA_Data/events_in_our_solar_system/output/juno/manifest.json
           git add NASA_Data/events_in_our_solar_system/output/juno/ephemeris/*.json
+          git add NASA_Data/events_in_our_solar_system/output/cassini/manifest.json
+          git add NASA_Data/events_in_our_solar_system/output/cassini/ephemeris/*.json
           git commit -m "Update ephemeris feed (auto)" || echo "No changes to commit"
           git push
