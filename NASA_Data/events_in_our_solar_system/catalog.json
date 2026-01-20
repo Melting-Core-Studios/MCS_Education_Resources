@@ -54,8 +54,8 @@
       "id": "mars_reconnaisance",
       "title": "Reconnaisance",
       "subtitle": "A scout that was sent to Mars",
-      "enabled": false,
-      "eventManifestUrl": ""
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/reconnaisance/event.json"
     },
     {
       "id": "europa_clipper",
