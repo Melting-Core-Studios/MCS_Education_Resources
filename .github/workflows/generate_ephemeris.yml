@@ -47,8 +47,8 @@ jobs:
       # Cassini Orbiter ephemeris
       - run: python NASA_Data/scripts/generate_ephemeris_cassini.py
 
-      # Mars Oddysey ephemeris
-      - run: python NASA_Data/scripts/generate_ephemeris_mars_oddysey.py
+      # Mars odyssey ephemeris
+      - run: python NASA_Data/scripts/generate_ephemeris_mars_odyssey.py
 
       - run: |
           git config user.name "github-actions[bot]"
@@ -65,7 +65,7 @@ jobs:
           git add NASA_Data/events_in_our_solar_system/output/juno/ephemeris/*.json
           git add NASA_Data/events_in_our_solar_system/output/cassini/manifest.json
           git add NASA_Data/events_in_our_solar_system/output/cassini/ephemeris/*.json
-          git add NASA_Data/events_in_our_solar_system/output/oddysey/manifest.json
-          git add NASA_Data/events_in_our_solar_system/output/oddysey/ephemeris/*.json
+          git add NASA_Data/events_in_our_solar_system/output/odyssey/manifest.json
+          git add NASA_Data/events_in_our_solar_system/output/odyssey/ephemeris/*.json
           git commit -m "Update ephemeris feed (auto)" || echo "No changes to commit"
           git push

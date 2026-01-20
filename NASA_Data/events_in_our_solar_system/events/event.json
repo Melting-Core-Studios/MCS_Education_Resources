@@ -11,7 +11,7 @@
   ],
   "assets": {
     "model": {
-      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/mars_oddysey_orbiter.glb",
+      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/mars_odyssey_orbiter.glb",
       "scale": 1.0,
       "rotationDeg": [
         0,
