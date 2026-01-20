@@ -1,0 +1,25 @@
+{
+  "schema": "mcs-ephem-manifest-v1",
+  "frame": {
+    "center": "@0",
+    "ref_system": "ICRF",
+    "ref_plane": "FRAME",
+    "out_units": "AU-D",
+    "time_type": "UT",
+    "vec_table": 2
+  },
+  "datasets": [
+    {
+      "id": "planets_5d",
+      "file": "ephemeris/planets_5d.json"
+    },
+    {
+      "id": "explorer_one_1d",
+      "file": "ephemeris/explorer_one_1d.json"
+    },
+    {
+      "id": "explorer_one_first10d_10m",
+      "file": "ephemeris/explorer_one_first10d_10m.json"
+    }
+  ]
+}
