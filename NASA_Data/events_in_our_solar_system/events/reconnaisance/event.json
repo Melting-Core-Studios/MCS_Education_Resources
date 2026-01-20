@@ -24,10 +24,11 @@
     }
   },
   "ephemeris": {
-    "mode": "jpl-horizons",
+    "mode": "static-feed",
     "manifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/output/reconnaisance/manifest.json",
-    "center": "@0",
+    "center": "solar-system-barycenter",
     "trail": {
+      "enabled": true,
       "maxPoints": 1200,
       "fade": true
     }
@@ -35,85 +36,74 @@
   "timeline": {
     "stages": [
       {
-        "id": "launch",
-        "title": "Launch",
+        "name": "Launch",
         "whenUtc": "2005-08-12T11:43:00Z",
-        "body": "Mars Reconnaissance Orbiter launched on an Atlas V from Cape Canaveral (SLC-41).",
+        "text": "Mars Reconnaissance Orbiter launched on an Atlas V from Cape Canaveral (SLC-41).",
         "media": [
           {
-            "type": "image",
-            "title": "MRO Launch (PIA04141)",
             "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia04/pia04141/PIA04141.jpg",
             "credit": "NASA/JPL/KSC/Lockheed Martin Space Systems",
-            "source": "https://science.nasa.gov/photojournal/mars-reconnaissance-orbiter-mro-launches/"
+            "source": "https://science.nasa.gov/photojournal/mars-reconnaissance-orbiter-mro-launches/",
+            "caption": ""
           }
         ]
       },
       {
-        "id": "mars_orbit_insertion",
-        "title": "Mars Orbit Insertion",
+        "name": "Mars Orbit Insertion",
         "whenUtc": "2006-03-10T21:24:00Z",
-        "body": "Main-engine burn captures MRO into orbit around Mars.",
+        "text": "Main-engine burn captures MRO into orbit around Mars.",
         "media": [
           {
-            "type": "image",
-            "title": "Orbit insertion (artist's concept, PIA07242)",
             "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA07242.jpg",
             "credit": "NASA/JPL",
-            "source": "https://www.jpl.nasa.gov/images/pia07242-orbit-insertion-by-mars-reconnaissance-orbiter-artists-concept/"
+            "source": "https://www.jpl.nasa.gov/images/pia07242-orbit-insertion-by-mars-reconnaissance-orbiter-artists-concept/",
+            "caption": ""
           }
         ]
       },
       {
-        "id": "first_hirise_test_image",
-        "title": "First HiRISE test imaging",
+        "name": "First HiRISE test imaging",
         "whenUtc": "2006-03-24T00:00:00Z",
-        "body": "HiRISE acquires one of its first test images from a high-altitude orbit (date only; time-of-day not specified here).",
+        "text": "HiRISE acquires one of its first test images from a high-altitude orbit (date only; time-of-day not specified here).",
         "media": [
           {
-            "type": "image",
-            "title": "Detail of first Mars image from newly arrived camera (PIA08014)",
             "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia08/pia08014/PIA08014.jpg",
             "credit": "NASA/JPL-Caltech/University of Arizona",
-            "source": "https://science.nasa.gov/photojournal/detail-of-first-mars-image-from-newly-arrived-camera/"
+            "source": "https://science.nasa.gov/photojournal/detail-of-first-mars-image-from-newly-arrived-camera/",
+            "caption": ""
           }
         ]
       },
       {
-        "id": "aerobraking",
-        "title": "Aerobraking campaign",
+        "name": "Aerobraking campaign",
         "whenUtc": "2006-08-30T00:00:00Z",
-        "body": "After months of controlled atmospheric passes, aerobraking is terminated as MRO transitions toward its near-circular science orbit (date anchor).",
+        "text": "After months of controlled atmospheric passes, aerobraking is terminated as MRO transitions toward its near-circular science orbit (date anchor).",
         "media": [
           {
-            "type": "image",
-            "title": "MRO Aerobraking (artist's concept, PIA04917)",
             "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia04/pia04917/PIA04917.jpg",
             "credit": "JPL/NASA",
-            "source": "https://science.nasa.gov/photojournal/mars-reconnaissance-orbiter-aerobraking-artists-concept/"
+            "source": "https://science.nasa.gov/photojournal/mars-reconnaissance-orbiter-aerobraking-artists-concept/",
+            "caption": ""
           }
         ]
       },
       {
-        "id": "first_mapping_orbit_image",
-        "title": "First HiRISE image from mapping orbit",
+        "name": "First HiRISE image from mapping orbit",
         "whenUtc": "2006-09-29T00:00:00Z",
-        "body": "HiRISE captures its first image from MRO's mapping orbit, demonstrating full-resolution capability (date anchor).",
+        "text": "HiRISE captures its first image from MRO's mapping orbit, demonstrating full-resolution capability (date anchor).",
         "media": [
           {
-            "type": "image",
-            "title": "First image from mapping orbit (PIA08789)",
             "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia08/pia08789/PIA08789.jpg",
             "credit": "NASA/JPL/University of Arizona",
-            "source": "https://science.nasa.gov/photojournal/new-mars-cameras-first-image-of-mars-from-mapping-orbit/"
+            "source": "https://science.nasa.gov/photojournal/new-mars-cameras-first-image-of-mars-from-mapping-orbit/",
+            "caption": ""
           }
         ]
       },
       {
-        "id": "primary_science_phase",
-        "title": "Primary Science Phase begins",
+        "name": "Primary Science Phase begins",
         "whenUtc": "2006-11-08T00:00:00Z",
-        "body": "Start of the Primary Science Phase (date anchor).",
+        "text": "Start of the Primary Science Phase (date anchor).",
         "media": []
       }
     ]
