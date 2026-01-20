@@ -388,7 +388,7 @@ def main():
     # Default repo layout expectation (same as Cassini script): scripts live under repo_root/<something>/<something>/...
     repo_root = Path(__file__).resolve().parents[2]
 
-    out_root = repo_root / "NASA_Data" / "events_in_our_solar_system" / "output" / "mars_odyssey"
+    out_root = repo_root / "NASA_Data" / "events_in_our_solar_system" / "output" / "odyssey"
     ephem_dir = out_root / "ephemeris"
     ensure_dir(ephem_dir)
 
