@@ -1,0 +1,92 @@
+{
+  "id": "explorer_one",
+  "title": "Explorer 1",
+  "subtitle": "First successful U.S. satellite; early measurements that revealed Earth's radiation belts",
+  "type": "mission-earth-satellite",
+  "tags": [
+    "Earth",
+    "Satellite",
+    "NASA",
+    "JPL",
+    "Explorer Program",
+    "IGY",
+    "Radiation Belts"
+  ],
+  "assets": {
+    "model": {
+      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/spacecraft_explorer_1.glb",
+      "scale": 1.0,
+      "rotationDeg": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "ephemeris": {
+    "mode": "static-feed",
+    "manifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/output/explorer_one/manifest.json",
+    "center": "solar-system-barycenter",
+    "trail": {
+      "enabled": true,
+      "maxPoints": 1200,
+      "fade": true
+    }
+  },
+  "timeline": {
+    "stages": [
+      {
+        "name": "Launch (Juno I)",
+        "whenUtc": "1958-02-01T03:48:00Z",
+        "text": "Explorer 1 launched from Cape Canaveral atop a Juno I rocket, becoming the first successful U.S. satellite.",
+        "media": [
+          {
+            "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012900/a012943/209738main_launch_1024x576.jpg",
+            "caption": "Juno I launching Explorer 1.",
+            "credit": "NASA",
+            "source": "NASA SVS"
+          }
+        ]
+      },
+      {
+        "name": "Orbit confirmed",
+        "whenUtc": "1958-02-01T06:30:00Z",
+        "text": "Tracking stations confirmed Explorer 1 was in orbit and NASA announced the success later that morning.",
+        "media": [
+          {
+            "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012900/a012943/explorer_history.jpg",
+            "caption": "Explorer-era press event imagery.",
+            "credit": "NASA",
+            "source": "NASA SVS"
+          }
+        ]
+      },
+      {
+        "name": "Final transmission",
+        "whenUtc": "1958-05-23T00:00:00Z",
+        "text": "Explorer 1's final transmission was received after its batteries were exhausted, ending science data return.",
+        "media": [
+          {
+            "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012900/a012943/599053main_0200146_full.jpg",
+            "caption": "Explorer 1 cutaway diagram (historic).",
+            "credit": "NASA",
+            "source": "NASA SVS"
+          }
+        ]
+      },
+      {
+        "name": "Reentry",
+        "whenUtc": "1970-03-31T00:00:00Z",
+        "text": "After more than 12 years in orbit, Explorer 1 reentered Earth's atmosphere and burned up.",
+        "media": [
+          {
+            "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012900/a012943/van_allen_probes_discov_new_rad_belt_cal_1024x576.jpg",
+            "caption": "Visualization of Earth's radiation belts revealed by early satellite measurements.",
+            "credit": "NASA",
+            "source": "NASA SVS"
+          }
+        ]
+      }
+    ]
+  }
+}
