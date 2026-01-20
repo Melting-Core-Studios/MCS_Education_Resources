@@ -68,8 +68,8 @@
       "id": "explorer_1",
       "title": "Explorer 1",
       "subtitle": "The First non-communist sattelite",
-      "enabled": false,
-      "eventManifestUrl": ""
+      "enabled": true,
+      "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/explorer_one/event.json"
     }
   ]
 }
