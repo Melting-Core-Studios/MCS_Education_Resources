@@ -1,0 +1,75 @@
+{
+  "id": "maven",
+  "title": "MAVEN",
+  "subtitle": "Mars orbiter • atmospheric escape science",
+  "type": "mission-mars-orbiter",
+  "tags": [
+    "Mars",
+    "MAVEN",
+    "NASA",
+    "Atmosphere",
+    "Upper atmosphere",
+    "Escape"
+  ],
+  "assets": {
+    "model": {
+      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/spacecraft_maven_orbiter.glb",
+      "scale": 1.0,
+      "rotationDeg": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "ephemeris": {
+    "mode": "static-feed",
+    "manifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/output/maven/manifest.json",
+    "center": "solar-system-barycenter",
+    "trail": {
+      "enabled": true
+    }
+  },
+  "timeline": {
+    "stages": [
+      {
+        "name": "Launch",
+        "whenUtc": "2013-11-18T18:28:00Z",
+        "text": "MAVEN launched from Cape Canaveral aboard an Atlas V (401) to begin a dedicated study of how Mars’ upper atmosphere interacts with the Sun and solar wind, and how atmospheric gases escape to space.",
+        "media": [
+          {
+            "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA17487.jpg",
+            "caption": "Artist’s concept of the MAVEN spacecraft (PIA17487).",
+            "credit": "NASA/GSFC",
+            "source": "https://photojournal.jpl.nasa.gov/catalog/PIA17487"
+          }
+        ]
+      },
+      {
+        "name": "Mars orbit insertion",
+        "whenUtc": "2014-09-22T02:24:00Z",
+        "text": "MAVEN successfully entered orbit around Mars after a ~33-minute main-engine burn, beginning its orbital commissioning and transition toward its science mapping orbit.",
+        "media": []
+      },
+      {
+        "name": "Comet Siding Spring close pass",
+        "whenUtc": "2014-10-19T00:00:00Z",
+        "text": "Comet C/2013 A1 (Siding Spring) made a very close pass by Mars, allowing MAVEN and other Mars missions to observe how the comet’s material interacted with the Martian environment.",
+        "media": [
+          {
+            "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA18865.jpg",
+            "caption": "Ultraviolet image of Comet Siding Spring showing its large hydrogen coma (PIA18865).",
+            "credit": "NASA/JPL-Caltech/University of Colorado",
+            "source": "https://photojournal.jpl.nasa.gov/catalog/PIA18865"
+          }
+        ]
+      },
+      {
+        "name": "Mission extended",
+        "whenUtc": "2015-11-01T00:00:00Z",
+        "text": "Following strong scientific return, MAVEN received mission extensions beyond its prime mission to continue long-term monitoring of Mars’ upper atmosphere and space weather effects.",
+        "media": []
+      }
+    ]
+  }
+}
