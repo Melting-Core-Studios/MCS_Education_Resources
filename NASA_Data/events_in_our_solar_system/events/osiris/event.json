@@ -1,0 +1,79 @@
+{
+  "id": "osiris_rex",
+  "title": "OSIRIS-REx",
+  "subtitle": "Asteroid sample return • Bennu → Earth",
+  "type": "mission-asteroid-sample-return",
+  "tags": [
+    "Asteroid",
+    "Bennu",
+    "OSIRIS-REx",
+    "NASA",
+    "Sample return",
+    "Near-Earth object"
+  ],
+  "assets": {
+    "model": {
+      "url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/spacecraft_osiris_rex.glb",
+      "scale": 1.0,
+      "rotationDeg": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "ephemeris": {
+    "mode": "static-feed",
+    "manifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/output/osiris/manifest.json",
+    "center": "solar-system-barycenter",
+    "trail": {
+      "enabled": true
+    }
+  },
+  "timeline": {
+    "stages": [
+      {
+        "name": "Launch",
+        "whenUtc": "2016-09-08T23:05:00Z",
+        "text": "OSIRIS-REx launched from Cape Canaveral on an Atlas V to rendezvous with near-Earth asteroid Bennu, survey it in detail, collect a sample, and return it to Earth for laboratory study.",
+        "media": []
+      },
+      {
+        "name": "Earth gravity assist",
+        "whenUtc": "2017-09-22T00:00:00Z",
+        "text": "A close Earth flyby provided a gravity assist to bend the spacecraft’s trajectory onto a path toward Bennu.",
+        "media": []
+      },
+      {
+        "name": "Arrival at Bennu",
+        "whenUtc": "2018-12-03T00:00:00Z",
+        "text": "OSIRIS-REx arrived at asteroid Bennu and began detailed survey and mapping to select a safe and scientifically valuable sampling site.",
+        "media": []
+      },
+      {
+        "name": "Sample collection (TAG)",
+        "whenUtc": "2020-10-20T00:00:00Z",
+        "text": "The spacecraft performed a Touch-And-Go (TAG) maneuver to collect regolith using a burst of nitrogen gas, successfully capturing material from Bennu’s surface.",
+        "media": []
+      },
+      {
+        "name": "Depart Bennu",
+        "whenUtc": "2021-05-10T00:00:00Z",
+        "text": "After securing the sample in its return capsule, OSIRIS-REx departed Bennu and began its cruise back toward Earth.",
+        "media": []
+      },
+      {
+        "name": "Sample return to Earth",
+        "whenUtc": "2023-09-24T00:00:00Z",
+        "text": "The sample return capsule was delivered to Earth and recovered in Utah, completing NASA’s first U.S. asteroid sample return; the spacecraft continued on an extended mission toward asteroid Apophis (OSIRIS-APEX).",
+        "media": []
+      },
+      {
+        "name": "Apophis encounter (planned)",
+        "whenUtc": "2029-04-13T00:00:00Z",
+        "text": "Extended mission: the spacecraft (renamed OSIRIS-APEX) is planned to encounter and study asteroid Apophis after its close approach to Earth in 2029.",
+        "media": []
+      }
+    ]
+  }
+}
