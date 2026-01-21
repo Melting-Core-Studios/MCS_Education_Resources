@@ -62,6 +62,10 @@ jobs:
       # OSIRIS REx Ephemeris
       - run: python NASA_Data/scripts/generate_ephemeris_osiris.py
 
+       # Asterois Bennu Ephemeris
+      - run: python NASA_Data/scripts/generate_ephemeris_bennu.py
+
+
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -87,5 +91,7 @@ jobs:
           git add NASA_Data/events_in_our_solar_system/output/maven/ephemeris/*.json
           git add NASA_Data/events_in_our_solar_system/output/osiris/manifest.json
           git add NASA_Data/events_in_our_solar_system/output/osiris/ephemeris/*.json
+          git add NASA_Data/events_in_our_solar_system/output/asteroid_bennu/manifest.json
+          git add NASA_Data/events_in_our_solar_system/output/asteroid_bennu/ephemeris/*.json
           git commit -m "Update ephemeris feed (auto)" || echo "No changes to commit"
           git push
