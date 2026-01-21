@@ -1,0 +1,38 @@
+{
+  "schema": "mcs-ephem-manifest-v1",
+  "generated_at": "2026-01-21T23:23:40Z",
+  "source": {
+    "name": "JPL Horizons",
+    "service": "https://ssd.jpl.nasa.gov/api/horizons.api"
+  },
+  "frame": {
+    "center": "@0",
+    "ref_system": "J2000",
+    "ref_plane": "ECLIPTIC",
+    "out_units": "AU-D",
+    "time_type": "UT",
+    "vec_table": 3
+  },
+  "datasets": [
+    {
+      "id": "planets_5d",
+      "file": "ephemeris/planets_5d.json"
+    },
+    {
+      "id": "bennu_1d",
+      "file": "ephemeris/bennu_1d.json"
+    },
+    {
+      "id": "bennu_osiris_arrival_10m",
+      "file": "ephemeris/bennu_osiris_arrival_10m.json"
+    },
+    {
+      "id": "bennu_tag_10m",
+      "file": "ephemeris/bennu_tag_10m.json"
+    }
+  ],
+  "object_hint": {
+    "name": "(101955) Bennu",
+    "spkid": 2101955
+  }
+}
