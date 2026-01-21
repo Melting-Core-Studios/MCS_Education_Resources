@@ -33,7 +33,11 @@ REF_SYSTEM = "J2000"
 REF_PLANE = "ECLIPTIC"
 OUT_UNITS = "AU-D"  # Position in AU, velocity in AU/day
 VEC_TABLE = 3
-TIME_TYPE = "UTC"
+# Horizons API accepts TIME_TYPE = UT, TT, or TDB. (UTC is not accepted; map it to UT.)
+_TIME_TYPE_RAW = os.environ.get("HORIZONS_TIME_TYPE", "UT").strip().upper()
+TIME_TYPE = "UT" if _TIME_TYPE_RAW in ("UT", "UTC", "UT1") else _TIME_TYPE_RAW
+if TIME_TYPE not in ("UT", "TT", "TDB"):
+    raise ValueError(f"Unsupported TIME_TYPE={_TIME_TYPE_RAW!r}. Use UT, TT, or TDB.")
 
 # ---- Bennu specifics ----
 BENNU_ID = 2101955  # NAIF/SPK-ID for (101955) Bennu
