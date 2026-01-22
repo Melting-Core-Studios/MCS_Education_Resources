@@ -5,6 +5,9 @@
       "id": "voyager1",
       "title": "Voyager 1",
       "subtitle": "The first deep space exploration probe",
+      "launchedBy": "NASA",
+      "launchYear": "1977",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/voyager1/event.json"
     },
@@ -12,6 +15,9 @@
       "id": "voyager2",
       "title": "Voyager 2",
       "subtitle": "The second deep space exploration probe",
+      "launchedBy": "NASA",
+      "launchYear": "1977",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/voyager2/event.json"
     },
@@ -19,6 +25,21 @@
       "id": "iss",
       "title": "International Space Station",
       "subtitle": "Almost live location of the ISS",
+      "launchedBy": [
+        "NASA",
+        "ESA",
+        "Roscosmos",
+        "JAXA",
+        "CSA"
+      ],
+      "launchYear": "1998",
+      "nationsInvolved": [
+        "USA",
+        "Europe",
+        "Russia",
+        "Japan",
+        "Canada"
+      ],
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/iss/event.json"
     },
@@ -26,6 +47,9 @@
       "id": "parker_solar_probe",
       "title": "Parker Solar Probe",
       "subtitle": "The Sun exploration probe",
+      "launchedBy": "NASA",
+      "launchYear": "2018",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/parker_solar_probe/event.json"
     },
@@ -33,6 +57,9 @@
       "id": "juno_jupiter_orbiter",
       "title": "Juno",
       "subtitle": "The Jupiter Orbiter",
+      "launchedBy": "NASA",
+      "launchYear": "2011",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/juno/event.json"
     },
@@ -40,6 +67,17 @@
       "id": "cassini",
       "title": "Cassini",
       "subtitle": "The Saturn Orbiter and Titan probe",
+      "launchedBy": [
+        "NASA",
+        "ESA",
+        "ASI"
+      ],
+      "launchYear": "1997",
+      "nationsInvolved": [
+        "USA",
+        "Europe",
+        "Italy"
+      ],
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/cassini/event.json"
     },
@@ -47,6 +85,9 @@
       "id": "mars_odyssey",
       "title": "Odyssey",
       "subtitle": "The Mars-Time Odyssey orbiter",
+      "launchedBy": "NASA",
+      "launchYear": "2001",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/odyssey/event.json"
     },
@@ -54,6 +95,9 @@
       "id": "mars_reconnaisance",
       "title": "Reconnaisance",
       "subtitle": "A scout that was sent to Mars",
+      "launchedBy": "NASA",
+      "launchYear": "2005",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/reconnaisance/event.json"
     },
@@ -61,6 +105,9 @@
       "id": "europa_clipper",
       "title": "It clipped Europa in 2024!",
       "subtitle": "The Mars-Time Odyssey orbiter",
+      "launchedBy": "NASA",
+      "launchYear": "2024",
+      "nationsInvolved": "USA",
       "enabled": false,
       "eventManifestUrl": ""
     },
@@ -68,6 +115,9 @@
       "id": "explorer_1",
       "title": "Explorer 1",
       "subtitle": "The First non-communist sattelite",
+      "launchedBy": "JPL",
+      "launchYear": "1958",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/explorer_one/event.json"
     },
@@ -75,6 +125,9 @@
       "id": "maven_orbiter",
       "title": "Maven Orbiter",
       "subtitle": "Mars Atmosphere and Volatile EvolutioN Orbiter",
+      "launchedBy": "NASA",
+      "launchYear": "2013",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/maven/event.json"
     },
@@ -82,6 +135,9 @@
       "id": "osiris_rex",
       "title": "OSIRIS-REx",
       "subtitle": "Asteroid sample return (Bennu)",
+      "launchedBy": "NASA",
+      "launchYear": "2016",
+      "nationsInvolved": "USA",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/osiris/event.json"
     },
@@ -89,6 +145,9 @@
       "id": "bennu",
       "title": "Asteroid (101955) Bennu",
       "subtitle": "Near-Earth asteroid visited by OSIRIS-REx",
+      "launchedBy": "",
+      "launchYear": "",
+      "nationsInvolved": "",
       "enabled": true,
       "eventManifestUrl": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/events_in_our_solar_system/events/asteroid_bennu/event.json"
     }
