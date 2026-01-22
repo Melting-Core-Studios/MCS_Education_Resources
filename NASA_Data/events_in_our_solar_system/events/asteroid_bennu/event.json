@@ -1,7 +1,7 @@
 {
   "id": "bennu",
   "title": "Asteroid (101955) Bennu",
-  "subtitle": "Near-Earth asteroid • OSIRIS-REx target",
+  "subtitle": "Near-Earth asteroid \u2022 OSIRIS-REx target",
   "type": "small-body",
   "tags": [
     "asteroid",
@@ -29,7 +29,7 @@
     "probeDatasetId": "bennu_1d"
   },
   "timeline": {
-    "summary": "Bennu is a carbon-rich near‑Earth asteroid and the target of NASA’s OSIRIS‑REx sample‑return mission. Use this track to visualize Bennu’s heliocentric orbit and contextualize the OSIRIS‑REx rendezvous and sampling campaign.",
+    "summary": "Bennu is a carbon-rich near\u2011Earth asteroid and the target of NASA\u2019s OSIRIS\u2011REx sample\u2011return mission. Use this track to visualize Bennu\u2019s heliocentric orbit and contextualize the OSIRIS\u2011REx rendezvous and sampling campaign.",
     "stages": [
       {
         "id": "discovery",
@@ -49,29 +49,31 @@
         "id": "named",
         "name": "Named Bennu (student contest)",
         "whenUtc": "2013-01-01T00:00:00Z",
-        "text": "The asteroid receives the name “Bennu” following a student naming contest.",
+        "text": "The asteroid receives the name \u201cBennu\u201d following a student naming contest.",
         "media": []
       },
       {
         "id": "osiris_arrival",
-        "name": "OSIRIS‑REx arrives at Bennu",
+        "name": "OSIRIS\u2011REx arrives at Bennu",
         "whenUtc": "2018-12-03T00:00:00Z",
-        "text": "NASA’s OSIRIS‑REx spacecraft arrives at Bennu and begins detailed survey and mapping operations.",
+        "text": "NASA\u2019s OSIRIS\u2011REx spacecraft arrives at Bennu and begins detailed survey and mapping operations.",
         "media": []
       },
       {
         "id": "tag",
         "name": "Sample collection (TAG)",
         "whenUtc": "2020-10-20T00:00:00Z",
-        "text": "OSIRIS‑REx performs a touch‑and‑go maneuver and collects a sample from Bennu’s surface.",
-        "media": []
+        "text": "OSIRIS\u2011REx performs a touch\u2011and\u2011go maneuver and collects a sample from Bennu\u2019s surface.",
+        "media": [],
+        "focusEntityId": "bennu"
       },
       {
         "id": "sample_return",
         "name": "Sample capsule delivered to Earth",
         "whenUtc": "2023-09-24T00:00:00Z",
-        "text": "OSIRIS‑REx delivers a sample capsule containing material from Bennu to Earth (sample return milestone).",
-        "media": []
+        "text": "OSIRIS\u2011REx delivers a sample capsule containing material from Bennu to Earth (sample return milestone).",
+        "media": [],
+        "focusEntityId": "bennu"
       }
     ]
   },

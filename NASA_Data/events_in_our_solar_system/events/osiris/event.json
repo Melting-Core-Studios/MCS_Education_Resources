@@ -1,7 +1,7 @@
 {
   "id": "osiris_rex",
   "title": "OSIRIS-REx",
-  "subtitle": "Asteroid sample return • Bennu → Earth",
+  "subtitle": "Asteroid sample return \u2022 Bennu \u2192 Earth",
   "type": "mission-asteroid-sample-return",
   "tags": [
     "Asteroid",
@@ -42,31 +42,34 @@
       {
         "name": "Earth gravity assist",
         "whenUtc": "2017-09-22T00:00:00Z",
-        "text": "A close Earth flyby provided a gravity assist to bend the spacecraft’s trajectory onto a path toward Bennu.",
+        "text": "A close Earth flyby provided a gravity assist to bend the spacecraft\u2019s trajectory onto a path toward Bennu.",
         "media": []
       },
       {
         "name": "Arrival at Bennu",
         "whenUtc": "2018-12-03T00:00:00Z",
         "text": "OSIRIS-REx arrived at asteroid Bennu and began detailed survey and mapping to select a safe and scientifically valuable sampling site.",
-        "media": []
+        "media": [],
+        "focusEntityId": "bennu"
       },
       {
         "name": "Sample collection (TAG)",
         "whenUtc": "2020-10-20T00:00:00Z",
-        "text": "The spacecraft performed a Touch-And-Go (TAG) maneuver to collect regolith using a burst of nitrogen gas, successfully capturing material from Bennu’s surface.",
-        "media": []
+        "text": "The spacecraft performed a Touch-And-Go (TAG) maneuver to collect regolith using a burst of nitrogen gas, successfully capturing material from Bennu\u2019s surface.",
+        "media": [],
+        "focusEntityId": "bennu"
       },
       {
         "name": "Depart Bennu",
         "whenUtc": "2021-05-10T00:00:00Z",
         "text": "After securing the sample in its return capsule, OSIRIS-REx departed Bennu and began its cruise back toward Earth.",
-        "media": []
+        "media": [],
+        "focusEntityId": "bennu"
       },
       {
         "name": "Sample return to Earth",
         "whenUtc": "2023-09-24T00:00:00Z",
-        "text": "The sample return capsule was delivered to Earth and recovered in Utah, completing NASA’s first U.S. asteroid sample return; the spacecraft continued on an extended mission toward asteroid Apophis (OSIRIS-APEX).",
+        "text": "The sample return capsule was delivered to Earth and recovered in Utah, completing NASA\u2019s first U.S. asteroid sample return; the spacecraft continued on an extended mission toward asteroid Apophis (OSIRIS-APEX).",
         "media": []
       },
       {
