@@ -27,6 +27,30 @@
       "Haumea": "planet_haumea.glb",
       "Makemake": "planet_makemake.glb"
     },
+    "Moons": {
+      "Europa": "moom_europa.glb",
+      "Ariel": "moon_ariel.glb",
+      "Callisto": "moon_callisto.glb",
+      "Ceres": "moon_ceres.glb",
+      "Charon": "moon_charon.glb",
+      "Deimos": "moon_deimos.glb",
+      "Dione": "moon_dione.glb",
+      "Enceladus": "moon_enceladus.glb",
+      "Ganymede": "moon_ganymede.glb",
+      "Hyperion": "moon_hyperion.glb",
+      "Iapetus": "moon_iapetus.glb",
+      "Io": "moon_io.glb",
+      "Mimas": "moon_mimas.glb",
+      "Miranda": "moon_miranda.glb",
+      "Oberon": "moon_oberon.glb",
+      "Phobos": "moon_phobos.glb",
+      "Rhea": "moon_rhea.glb",
+      "Thetys": "moon_thetys.glb",
+      "Titan": "moon_titan_textured.glb",
+      "Titania": "moon_titania.glb",
+      "Triton": "moon_triton.glb",
+      "Umbriel": "moon_umbriel.glb"
+    },
     "special": {
       "Earth": {
         "day": "earth_day.webp",
