@@ -13,6 +13,7 @@
     },
     "models_base_url": "https://raw.githubusercontent.com/Melting-Core-Studios/MCS_Education_Resources/refs/heads/main/NASA_Data/models/",
     "models": {
+      "Sun": "star_sun.glb",
       "Mercury": "planet_mercury.glb",
       "Venus": "planet_venus.glb",
       "Earth": "planet_earth.glb",
