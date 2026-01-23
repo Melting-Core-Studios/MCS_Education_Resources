@@ -69,6 +69,7 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
           git add NASA_Data/events_in_our_solar_system/output/voyager1/manifest.json
           git add NASA_Data/events_in_our_solar_system/output/voyager1/ephemeris/*.json                   
           git add NASA_Data/events_in_our_solar_system/output/voyager2/manifest.json                   
