@@ -31092,7 +31092,7 @@
     -0.004580751870315083
   ],
   "meta": {
-    "generated_at": "2026-01-23T13:27:29+00:00",
+    "generated_at": "2026-01-24T03:47:30+00:00",
     "source": {
       "name": "JPL Horizons (Earth 399) + Derived Keplerian orbit",
       "service": "https://ssd.jpl.nasa.gov/api/horizons.api"
@@ -31117,8 +31117,8 @@
     },
     "signature": {
       "earth": {
-        "version": "1.2",
-        "source": "NASA/JPL Horizons API"
+        "source": "NASA/JPL Horizons API",
+        "version": "1.2"
       },
       "derived": {
         "method": "two-body-kepler",
