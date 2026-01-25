@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-01-18T04:13:30+00:00",
+    "generatedAt": "2026-01-25T04:31:03+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12067,
+      "bodyPages": 12201,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12067,
+      "unassigned": 12201,
       "createdSystemsFromBodies": 0
     }
   },
@@ -1251,6 +1251,18 @@
       "planets": []
     },
     {
+      "name": "A. Bellemore",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Bellemore primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A. Bormanis",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1281,6 +1293,18 @@
       "stars": [
         {
           "name": "A. Brock primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Casement",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Casement primary",
           "type": "star"
         }
       ],
@@ -1383,6 +1407,18 @@
       "planets": []
     },
     {
+      "name": "A. Dziwik",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Dziwik primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A. Eastman",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1401,6 +1437,18 @@
       "stars": [
         {
           "name": "A. Estradajem primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Ferczak",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Ferczak primary",
           "type": "star"
         }
       ],
@@ -1473,6 +1521,18 @@
       "stars": [
         {
           "name": "A. Goldsman (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Grayson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Grayson primary",
           "type": "star"
         }
       ],
@@ -1671,6 +1731,18 @@
       "planets": []
     },
     {
+      "name": "A. Lindell",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Lindell primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A. Loo",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1767,6 +1839,18 @@
       "planets": []
     },
     {
+      "name": "A. Monteforte",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Monteforte primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A. Montgomery",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1803,6 +1887,30 @@
       "planets": []
     },
     {
+      "name": "A. Paton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Paton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Patterson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Patterson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A. Pooley",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1833,6 +1941,30 @@
       "stars": [
         {
           "name": "A. Rockler primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Rodgers",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Rodgers primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Rogers",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Rogers primary",
           "type": "star"
         }
       ],
@@ -1887,6 +2019,30 @@
       "planets": []
     },
     {
+      "name": "A. Singh (32nd century)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Singh (32nd century) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Smith",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Smith primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A. Stella",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1905,6 +2061,18 @@
       "stars": [
         {
           "name": "A. Stohatta primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Tadjik",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Tadjik primary",
           "type": "star"
         }
       ],
@@ -1965,6 +2133,18 @@
       "stars": [
         {
           "name": "A. Tsang (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A. Whitworth",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A. Whitworth primary",
           "type": "star"
         }
       ],
@@ -7647,6 +7827,18 @@
       "planets": []
     },
     {
+      "name": "Astrid Atlee",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Astrid Atlee primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Astrogation (course)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -8211,6 +8403,18 @@
       "planets": []
     },
     {
+      "name": "B'Avi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "B'Avi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "B'Elanna Torres",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -8487,6 +8691,18 @@
       "planets": []
     },
     {
+      "name": "B. Gilbert",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "B. Gilbert primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "B. Heidemann",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -8505,6 +8721,18 @@
       "stars": [
         {
           "name": "B. Kim (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "B. Lariani",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "B. Lariani primary",
           "type": "star"
         }
       ],
@@ -8565,6 +8793,18 @@
       "stars": [
         {
           "name": "B. Marrello (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "B. McCabe",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "B. McCabe primary",
           "type": "star"
         }
       ],
@@ -8721,6 +8961,18 @@
       "stars": [
         {
           "name": "B. Turnbull primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "B. Williams",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "B. Williams primary",
           "type": "star"
         }
       ],
@@ -15051,6 +15303,18 @@
       "planets": []
     },
     {
+      "name": "C. Companion",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "C. Companion primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "C. Danby",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -15159,6 +15423,18 @@
       "planets": []
     },
     {
+      "name": "C. Guitard",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "C. Guitard primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "C. Hoult",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -15177,6 +15453,18 @@
       "stars": [
         {
           "name": "C. Hoult (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "C. Jefferson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "C. Jefferson primary",
           "type": "star"
         }
       ],
@@ -15297,6 +15585,18 @@
       "stars": [
         {
           "name": "C. Quimel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "C. Roulston",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "C. Roulston primary",
           "type": "star"
         }
       ],
@@ -15621,6 +15921,18 @@
       "stars": [
         {
           "name": "Cafe Rio primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Caffeine",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Caffeine primary",
           "type": "star"
         }
       ],
@@ -16461,6 +16773,18 @@
       "stars": [
         {
           "name": "Capitoline Wolf primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Cappuccino",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cappuccino primary",
           "type": "star"
         }
       ],
@@ -20895,6 +21219,54 @@
       "planets": []
     },
     {
+      "name": "Coffee break",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coffee break primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Coffee percolator",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coffee percolator primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Coffee shop",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coffee shop primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Coffeemaker",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coffeemaker primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Coffin (engineer)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -21705,6 +22077,18 @@
       "stars": [
         {
           "name": "Cooperstown primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Coq au vin",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coq au vin primary",
           "type": "star"
         }
       ],
@@ -23151,6 +23535,18 @@
       "planets": []
     },
     {
+      "name": "Cup",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cup primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Cupcake",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -23727,6 +24123,18 @@
       "planets": []
     },
     {
+      "name": "D. Hartley",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Hartley primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "D. Hindmarch",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -23799,6 +24207,18 @@
       "planets": []
     },
     {
+      "name": "D. Lingard",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Lingard primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "D. Liu",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -23823,12 +24243,48 @@
       "planets": []
     },
     {
+      "name": "D. Martin",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Martin primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "D. McCarthy",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "D. McCarthy primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "D. McCullagh",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. McCullagh primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "D. Metzlar",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Metzlar primary",
           "type": "star"
         }
       ],
@@ -23943,6 +24399,18 @@
       "planets": []
     },
     {
+      "name": "D. R. Lee",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. R. Lee primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "D. Rooney",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -23973,6 +24441,18 @@
       "stars": [
         {
           "name": "D. Santiago primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "D. Saxby",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Saxby primary",
           "type": "star"
         }
       ],
@@ -24141,6 +24621,18 @@
       "stars": [
         {
           "name": "D. Wise primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "D. Zorn",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Zorn primary",
           "type": "star"
         }
       ],
@@ -25635,6 +26127,18 @@
       "planets": []
     },
     {
+      "name": "Decaffeination",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Decaffeination primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Decatur",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -26853,6 +27357,18 @@
       "stars": [
         {
           "name": "DiFalco primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Digital Dean of Students",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Digital Dean of Students primary",
           "type": "star"
         }
       ],
@@ -28755,6 +29271,18 @@
       "planets": []
     },
     {
+      "name": "Dzolo",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dzolo primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "E-Central Hotel",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -28977,6 +29505,18 @@
       "stars": [
         {
           "name": "E. Sampson (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "E. Thaysen",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "E. Thaysen primary",
           "type": "star"
         }
       ],
@@ -31971,6 +32511,18 @@
       "planets": []
     },
     {
+      "name": "Even better than coffee substitute",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Even better than coffee substitute primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Everglades",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -32277,6 +32829,18 @@
       "stars": [
         {
           "name": "F. Hawkins primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "F. Jefferson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "F. Jefferson primary",
           "type": "star"
         }
       ],
@@ -33489,6 +34053,18 @@
       "stars": [
         {
           "name": "Firefly primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Firenut",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Firenut primary",
           "type": "star"
         }
       ],
@@ -35943,6 +36519,30 @@
       "planets": []
     },
     {
+      "name": "G. Davies",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "G. Davies primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "G. Decker",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "G. Decker primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "G. Delic",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36159,6 +36759,18 @@
       "planets": []
     },
     {
+      "name": "G. Nemeth",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "G. Nemeth primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "G. Phillips",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36201,6 +36813,18 @@
       "stars": [
         {
           "name": "G. Rescher primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "G. Salema",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "G. Salema primary",
           "type": "star"
         }
       ],
@@ -40623,6 +41247,18 @@
       "planets": []
     },
     {
+      "name": "H. Aloum",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "H. Aloum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "H. Barbet",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -40641,6 +41277,18 @@
       "stars": [
         {
           "name": "H. Culpepper primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "H. Definney",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "H. Definney primary",
           "type": "star"
         }
       ],
@@ -40701,6 +41349,18 @@
       "stars": [
         {
           "name": "H. Kadin (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "H. Montgomerie",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "H. Montgomerie primary",
           "type": "star"
         }
       ],
@@ -41901,6 +42561,18 @@
       "stars": [
         {
           "name": "Hayashi system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Hayden Thriss",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Hayden Thriss primary",
           "type": "star"
         }
       ],
@@ -43233,6 +43905,18 @@
       "stars": [
         {
           "name": "Holiday Inn Chinatown primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Holloway",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Holloway primary",
           "type": "star"
         }
       ],
@@ -44805,6 +45489,18 @@
       "stars": [
         {
           "name": "I. Orr primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "I. Plagg",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "I. Plagg primary",
           "type": "star"
         }
       ],
@@ -46863,6 +47559,18 @@
       "planets": []
     },
     {
+      "name": "J. Comeau",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Comeau primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "J. Conway",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -47025,6 +47733,18 @@
       "stars": [
         {
           "name": "J. Edgar Hoover primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J. Edgson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Edgson primary",
           "type": "star"
         }
       ],
@@ -47259,6 +47979,18 @@
       "planets": []
     },
     {
+      "name": "J. Jefferson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Jefferson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "J. Jozwiak",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -47325,6 +48057,42 @@
       "stars": [
         {
           "name": "J. Kirk (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J. Kuitenbrouwer",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Kuitenbrouwer primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J. Kuntz",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Kuntz primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J. LaMarre",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. LaMarre primary",
           "type": "star"
         }
       ],
@@ -47595,6 +48363,30 @@
       "planets": []
     },
     {
+      "name": "J. Orton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Orton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J. Paton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Paton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "J. Peyser",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -47691,12 +48483,36 @@
       "planets": []
     },
     {
+      "name": "J. Sagias",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Sagias primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "J. Sanders",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "J. Sanders primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J. Sterling",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J. Sterling primary",
           "type": "star"
         }
       ],
@@ -47949,6 +48765,18 @@
       "stars": [
         {
           "name": "J.T. Esteban (alternate reality) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "J.T. Oldey",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "J.T. Oldey primary",
           "type": "star"
         }
       ],
@@ -51999,6 +52827,18 @@
       "planets": []
     },
     {
+      "name": "K. Bradford",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. Bradford primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "K. Brock",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -52029,6 +52869,30 @@
       "stars": [
         {
           "name": "K. Clark primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "K. Cooper",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. Cooper primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "K. Curtin",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. Curtin primary",
           "type": "star"
         }
       ],
@@ -52143,12 +53007,48 @@
       "planets": []
     },
     {
+      "name": "K. Lilley",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. Lilley primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "K. Lima",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. Lima primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "K. McCord",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "K. McCord primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "K. McCullagh",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. McCullagh primary",
           "type": "star"
         }
       ],
@@ -52257,6 +53157,18 @@
       "stars": [
         {
           "name": "K. Slechta primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "K. Taylor",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "K. Taylor primary",
           "type": "star"
         }
       ],
@@ -53385,6 +54297,18 @@
       "stars": [
         {
           "name": "Kelrabi system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kelrec",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kelrec primary",
           "type": "star"
         }
       ],
@@ -55155,6 +56079,18 @@
       "planets": []
     },
     {
+      "name": "Kyle Djokovic",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kyle Djokovic primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kyle Rowen",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -55515,6 +56451,18 @@
       "planets": []
     },
     {
+      "name": "L. Orton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "L. Orton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "L. Park",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -55557,6 +56505,18 @@
       "stars": [
         {
           "name": "L. Sena primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "L. Thomas Perrier",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "L. Thomas Perrier primary",
           "type": "star"
         }
       ],
@@ -56013,6 +56973,18 @@
       "stars": [
         {
           "name": "Landon Ginn (Starfleet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Landras blend",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Landras blend primary",
           "type": "star"
         }
       ],
@@ -59007,6 +59979,18 @@
       "planets": []
     },
     {
+      "name": "M. Andrews",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Andrews primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "M. Becker",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -59025,6 +60009,18 @@
       "stars": [
         {
           "name": "M. Bozeman primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "M. Butt",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Butt primary",
           "type": "star"
         }
       ],
@@ -59091,6 +60087,18 @@
       "planets": []
     },
     {
+      "name": "M. Colucci",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Colucci primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "M. Coto",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -59121,6 +60129,30 @@
       "stars": [
         {
           "name": "M. DeMeritt primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "M. Drdakova",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Drdakova primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "M. Dziwik",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Dziwik primary",
           "type": "star"
         }
       ],
@@ -59289,6 +60321,18 @@
       "stars": [
         {
           "name": "M. Jacque-Metton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "M. Karpf",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Karpf primary",
           "type": "star"
         }
       ],
@@ -59481,6 +60525,18 @@
       "stars": [
         {
           "name": "M. Nyquist primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "M. O'Brien",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. O'Brien primary",
           "type": "star"
         }
       ],
@@ -60021,6 +61077,18 @@
       "stars": [
         {
           "name": "MacIntyre primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Mackenzie Ya",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mackenzie Ya primary",
           "type": "star"
         }
       ],
@@ -66615,6 +67683,42 @@
       "planets": []
     },
     {
+      "name": "N. Choi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "N. Choi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "N. Denver",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "N. Denver primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "N. Forbes",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "N. Forbes primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "N. German",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -66657,6 +67761,18 @@
       "stars": [
         {
           "name": "N. Lee primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "N. Mealia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "N. Mealia primary",
           "type": "star"
         }
       ],
@@ -69567,6 +70683,30 @@
       "planets": []
     },
     {
+      "name": "O. McStay",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "O. McStay primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "O. Munro",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "O. Munro primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "O. Neir",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -69591,6 +70731,18 @@
       "planets": []
     },
     {
+      "name": "O. O'Neill",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "O. O'Neill primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "O. Osunsanmi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -69609,6 +70761,18 @@
       "stars": [
         {
           "name": "O. Osunsanmi (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "O. Perrier",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "O. Perrier primary",
           "type": "star"
         }
       ],
@@ -71187,6 +72351,18 @@
       "planets": []
     },
     {
+      "name": "Oren",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Oren primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Organia system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -71655,12 +72831,48 @@
       "planets": []
     },
     {
+      "name": "P. Higgins",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "P. Higgins primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "P. Holton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "P. Holton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "P. Jacobson",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "P. Jacobson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "P. Jefferson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "P. Jefferson primary",
           "type": "star"
         }
       ],
@@ -72357,6 +73569,18 @@
       "stars": [
         {
           "name": "Paris (Commodore) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Paris Delight",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Paris Delight primary",
           "type": "star"
         }
       ],
@@ -74349,6 +75573,18 @@
       "stars": [
         {
           "name": "Picard family album primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Pickford",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pickford primary",
           "type": "star"
         }
       ],
@@ -76791,6 +78027,18 @@
       "planets": []
     },
     {
+      "name": "Quarktajino",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Quarktajino primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Quart de Chaume",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -77073,6 +78321,18 @@
       "stars": [
         {
           "name": "R. Blackman primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "R. Blais",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "R. Blais primary",
           "type": "star"
         }
       ],
@@ -77415,6 +78675,18 @@
       "planets": []
     },
     {
+      "name": "R. McStay",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "R. McStay primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "R. Meyers",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -77481,6 +78753,18 @@
       "stars": [
         {
           "name": "R. Picardo primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "R. Pierce",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "R. Pierce primary",
           "type": "star"
         }
       ],
@@ -77697,6 +78981,18 @@
       "stars": [
         {
           "name": "R. Wasserman primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "R. Watt",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "R. Watt primary",
           "type": "star"
         }
       ],
@@ -77961,6 +79257,18 @@
       "stars": [
         {
           "name": "Raisin primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Raktajino",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Raktajino primary",
           "type": "star"
         }
       ],
@@ -81291,6 +82599,18 @@
       "planets": []
     },
     {
+      "name": "Rork",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rork primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Rose",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -82203,6 +83523,18 @@
       "planets": []
     },
     {
+      "name": "S. Campbell",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Campbell primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "S. Chris",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -82245,6 +83577,18 @@
       "stars": [
         {
           "name": "S. D'Errico primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "S. Elliott",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Elliott primary",
           "type": "star"
         }
       ],
@@ -82305,6 +83649,54 @@
       "stars": [
         {
           "name": "S. Guilbault primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "S. Holmberg",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Holmberg primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "S. Howes",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Howes primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "S. Kirk",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Kirk primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "S. Leighbinger",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Leighbinger primary",
           "type": "star"
         }
       ],
@@ -82419,6 +83811,18 @@
       "planets": []
     },
     {
+      "name": "S. Robinson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Robinson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "S. Rowe",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -82509,6 +83913,18 @@
       "stars": [
         {
           "name": "S. Shimizu primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "S. Singh",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "S. Singh primary",
           "type": "star"
         }
       ],
@@ -82737,6 +84153,18 @@
       "stars": [
         {
           "name": "Safety officer primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Safta Landau",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Safta Landau primary",
           "type": "star"
         }
       ],
@@ -83973,18 +85401,6 @@
       "stars": [
         {
           "name": "Sappora system primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Sapta Landau",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Sapta Landau primary",
           "type": "star"
         }
       ],
@@ -93171,6 +94587,42 @@
       "planets": []
     },
     {
+      "name": "T. Howes",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "T. Howes primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "T. Maddox",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "T. Maddox primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "T. Manco",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "T. Manco primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "T. Matalas",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -93561,6 +95013,18 @@
       "stars": [
         {
           "name": "T. Virts primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "T. Welsby",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "T. Welsby primary",
           "type": "star"
         }
       ],
@@ -94005,6 +95469,18 @@
       "stars": [
         {
           "name": "Tamaron primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tammeron",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tammeron primary",
           "type": "star"
         }
       ],
@@ -97275,6 +98751,18 @@
       "planets": []
     },
     {
+      "name": "Thelonious Dandrid",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Thelonious Dandrid primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Theodore Roosevelt",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -98169,6 +99657,18 @@
       "stars": [
         {
           "name": "Tina Lawton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tinn Valaak",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tinn Valaak primary",
           "type": "star"
         }
       ],
@@ -100071,6 +101571,18 @@
       "planets": []
     },
     {
+      "name": "Turducken",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Turducken primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Turkana system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -100895,6 +102407,9 @@
           "name": "A. Banda"
         },
         {
+          "name": "A. Bellemore"
+        },
+        {
           "name": "A. Bormanis"
         },
         {
@@ -100902,6 +102417,9 @@
         },
         {
           "name": "A. Brock"
+        },
+        {
+          "name": "A. Casement"
         },
         {
           "name": "A. Codron"
@@ -100928,10 +102446,16 @@
           "name": "A. Dominguez"
         },
         {
+          "name": "A. Dziwik"
+        },
+        {
           "name": "A. Eastman"
         },
         {
           "name": "A. Estradajem"
+        },
+        {
+          "name": "A. Ferczak"
         },
         {
           "name": "A. Fredrickson (Starfleet)"
@@ -100950,6 +102474,9 @@
         },
         {
           "name": "A. Goldsman (mirror)"
+        },
+        {
+          "name": "A. Grayson"
         },
         {
           "name": "A. Harberts"
@@ -101000,6 +102527,9 @@
           "name": "A. Li"
         },
         {
+          "name": "A. Lindell"
+        },
+        {
           "name": "A. Loo"
         },
         {
@@ -101024,6 +102554,9 @@
           "name": "A. Melvin"
         },
         {
+          "name": "A. Monteforte"
+        },
+        {
           "name": "A. Montgomery"
         },
         {
@@ -101033,6 +102566,12 @@
           "name": "A. Packard"
         },
         {
+          "name": "A. Paton"
+        },
+        {
+          "name": "A. Patterson"
+        },
+        {
           "name": "A. Pooley"
         },
         {
@@ -101040,6 +102579,12 @@
         },
         {
           "name": "A. Rockler"
+        },
+        {
+          "name": "A. Rodgers"
+        },
+        {
+          "name": "A. Rogers"
         },
         {
           "name": "A. Sayadyan"
@@ -101054,10 +102599,19 @@
           "name": "A. Singh"
         },
         {
+          "name": "A. Singh (32nd century)"
+        },
+        {
+          "name": "A. Smith"
+        },
+        {
           "name": "A. Stella"
         },
         {
           "name": "A. Stohatta"
+        },
+        {
+          "name": "A. Tadjik"
         },
         {
           "name": "A. Tamras"
@@ -101073,6 +102627,9 @@
         },
         {
           "name": "A. Tsang (mirror)"
+        },
+        {
+          "name": "A. Whitworth"
         },
         {
           "name": "A. Wood"
@@ -102338,6 +103895,9 @@
           "name": "Anything Goes"
         },
         {
+          "name": "AO'mat Gri"
+        },
+        {
           "name": "Aomori"
         },
         {
@@ -102761,6 +104321,9 @@
           "name": "Astrid (Orion)"
         },
         {
+          "name": "Astrid Atlee"
+        },
+        {
           "name": "Astrogation (course)"
         },
         {
@@ -102944,6 +104507,12 @@
           "name": "B'aht Qul challenge"
         },
         {
+          "name": "B'avi"
+        },
+        {
+          "name": "B'Avi"
+        },
+        {
           "name": "B'Elanna Torres"
         },
         {
@@ -103043,10 +104612,16 @@
           "name": "B. Fuller (mirror)"
         },
         {
+          "name": "B. Gilbert"
+        },
+        {
           "name": "B. Heidemann"
         },
         {
           "name": "B. Kim (mirror)"
+        },
+        {
+          "name": "B. Lariani"
         },
         {
           "name": "B. Laughlin"
@@ -103062,6 +104637,9 @@
         },
         {
           "name": "B. Marrello (mirror)"
+        },
+        {
+          "name": "B. McCabe"
         },
         {
           "name": "B. Mooneyham"
@@ -103101,6 +104679,9 @@
         },
         {
           "name": "B. Turnbull"
+        },
+        {
+          "name": "B. Williams"
         },
         {
           "name": "B. Wolkoff"
@@ -104169,6 +105750,9 @@
         },
         {
           "name": "Betazed Intelligence"
+        },
+        {
+          "name": "Betazed Youth Delegation"
         },
         {
           "name": "Betazoid"
@@ -105278,6 +106862,9 @@
           "name": "C. Collyer"
         },
         {
+          "name": "C. Companion"
+        },
+        {
           "name": "C. Danby"
         },
         {
@@ -105305,10 +106892,16 @@
           "name": "C. Graffeo"
         },
         {
+          "name": "C. Guitard"
+        },
+        {
           "name": "C. Hoult"
         },
         {
           "name": "C. Hoult (mirror)"
+        },
+        {
+          "name": "C. Jefferson"
         },
         {
           "name": "C. Kunz"
@@ -105339,6 +106932,9 @@
         },
         {
           "name": "C. Quimel"
+        },
+        {
+          "name": "C. Roulston"
         },
         {
           "name": "C. Russell"
@@ -105426,6 +107022,9 @@
         },
         {
           "name": "Cafe Rio"
+        },
+        {
+          "name": "Caffeine"
         },
         {
           "name": "Café des Artistes"
@@ -105657,6 +107256,9 @@
         },
         {
           "name": "Capitoline Wolf"
+        },
+        {
+          "name": "Cappuccino"
         },
         {
           "name": "Captain Morgan"
@@ -107039,6 +108641,18 @@
           "name": "Coffee"
         },
         {
+          "name": "Coffee break"
+        },
+        {
+          "name": "Coffee percolator"
+        },
+        {
+          "name": "Coffee shop"
+        },
+        {
+          "name": "Coffeemaker"
+        },
+        {
           "name": "Coffin (engineer)"
         },
         {
@@ -107262,6 +108876,9 @@
         },
         {
           "name": "Coppelius"
+        },
+        {
+          "name": "Coq au vin"
         },
         {
           "name": "Cor Caroli V"
@@ -107639,6 +109256,9 @@
           "name": "Cunningham"
         },
         {
+          "name": "Cup"
+        },
+        {
           "name": "Cupcake"
         },
         {
@@ -107849,6 +109469,9 @@
           "name": "D. Gluck"
         },
         {
+          "name": "D. Hartley"
+        },
+        {
           "name": "D. Hindmarch"
         },
         {
@@ -107867,13 +109490,25 @@
           "name": "D. Lehrhoff"
         },
         {
+          "name": "D. Lingard"
+        },
+        {
           "name": "D. Liu"
         },
         {
           "name": "D. Maltese"
         },
         {
+          "name": "D. Martin"
+        },
+        {
           "name": "D. McCarthy"
+        },
+        {
+          "name": "D. McCullagh"
+        },
+        {
+          "name": "D. Metzlar"
         },
         {
           "name": "D. Mirabello"
@@ -107903,6 +109538,9 @@
           "name": "D. Pondella"
         },
         {
+          "name": "D. R. Lee"
+        },
+        {
           "name": "D. Rooney"
         },
         {
@@ -107910,6 +109548,9 @@
         },
         {
           "name": "D. Santiago"
+        },
+        {
+          "name": "D. Saxby"
         },
         {
           "name": "D. Semel"
@@ -107952,6 +109593,9 @@
         },
         {
           "name": "D. Wise"
+        },
+        {
+          "name": "D. Zorn"
         },
         {
           "name": "D12 class"
@@ -108446,6 +110090,9 @@
           "name": "Deborah Everton (Starfleet)"
         },
         {
+          "name": "Decaffeination"
+        },
+        {
           "name": "Decatur"
         },
         {
@@ -108840,6 +110487,9 @@
         },
         {
           "name": "DiFalco"
+        },
+        {
+          "name": "Digital Dean of Students"
         },
         {
           "name": "Dilithium barge"
@@ -109457,6 +111107,9 @@
           "name": "Dytallix B"
         },
         {
+          "name": "Dzolo"
+        },
+        {
           "name": "E-Central Hotel"
         },
         {
@@ -109512,6 +111165,9 @@
         },
         {
           "name": "E. Sampson (mirror)"
+        },
+        {
+          "name": "E. Thaysen"
         },
         {
           "name": "E. Williams"
@@ -110357,6 +112013,9 @@
           "name": "Evelyn Rameau"
         },
         {
+          "name": "Even better than coffee substitute"
+        },
+        {
           "name": "Everglades"
         },
         {
@@ -110442,6 +112101,9 @@
         },
         {
           "name": "F. Hawkins"
+        },
+        {
+          "name": "F. Jefferson"
         },
         {
           "name": "F. Leasure"
@@ -110978,6 +112640,9 @@
           "name": "Firefly"
         },
         {
+          "name": "Firenut"
+        },
+        {
           "name": "Firestone"
         },
         {
@@ -111015,6 +112680,9 @@
         },
         {
           "name": "First Hebitian civilization"
+        },
+        {
+          "name": "First House of Betazed"
         },
         {
           "name": "First Men on the Moon"
@@ -111677,6 +113345,12 @@
           "name": "G. Chown"
         },
         {
+          "name": "G. Davies"
+        },
+        {
+          "name": "G. Decker"
+        },
+        {
           "name": "G. Delic"
         },
         {
@@ -111731,6 +113405,9 @@
           "name": "G. Navarro"
         },
         {
+          "name": "G. Nemeth"
+        },
+        {
           "name": "G. Phillips"
         },
         {
@@ -111741,6 +113418,9 @@
         },
         {
           "name": "G. Rescher"
+        },
+        {
+          "name": "G. Salema"
         },
         {
           "name": "G. Tachell"
@@ -113093,10 +114773,16 @@
           "name": "H. Alonso Meyers"
         },
         {
+          "name": "H. Aloum"
+        },
+        {
           "name": "H. Barbet"
         },
         {
           "name": "H. Culpepper"
+        },
+        {
+          "name": "H. Definney"
         },
         {
           "name": "H. Isaacs"
@@ -113112,6 +114798,9 @@
         },
         {
           "name": "H. Kadin (mirror)"
+        },
+        {
+          "name": "H. Montgomerie"
         },
         {
           "name": "H. Salt Fish & Chips"
@@ -113493,6 +115182,9 @@
         },
         {
           "name": "Hawkins' Planet"
+        },
+        {
+          "name": "Hayden Thriss"
         },
         {
           "name": "Hayes (Crewman)"
@@ -113894,6 +115586,9 @@
           "name": "Holiday Inn Chinatown"
         },
         {
+          "name": "Holloway"
+        },
+        {
           "name": "Hollywood"
         },
         {
@@ -113916,6 +115611,9 @@
         },
         {
           "name": "Holy Island"
+        },
+        {
+          "name": "Holy Mantle of Betazed"
         },
         {
           "name": "Holy Rings of Betazed"
@@ -114402,6 +116100,9 @@
         },
         {
           "name": "I. Orr"
+        },
+        {
+          "name": "I. Plagg"
         },
         {
           "name": "I. Sheeran"
@@ -115178,6 +116879,9 @@
           "name": "J. Clement (mirror)"
         },
         {
+          "name": "J. Comeau"
+        },
+        {
           "name": "J. Conway"
         },
         {
@@ -115218,6 +116922,9 @@
         },
         {
           "name": "J. Edgar Hoover"
+        },
+        {
+          "name": "J. Edgson"
         },
         {
           "name": "J. Fernandez"
@@ -115277,6 +116984,9 @@
           "name": "J. Jarvis"
         },
         {
+          "name": "J. Jefferson"
+        },
+        {
           "name": "J. Jozwiak"
         },
         {
@@ -115293,6 +117003,15 @@
         },
         {
           "name": "J. Kirk (mirror)"
+        },
+        {
+          "name": "J. Kuitenbrouwer"
+        },
+        {
+          "name": "J. Kuntz"
+        },
+        {
+          "name": "J. LaMarre"
         },
         {
           "name": "J. Lee"
@@ -115361,6 +117080,12 @@
           "name": "J. Ordowich"
         },
         {
+          "name": "J. Orton"
+        },
+        {
+          "name": "J. Paton"
+        },
+        {
           "name": "J. Peyser"
         },
         {
@@ -115385,7 +117110,13 @@
           "name": "J. Ryan"
         },
         {
+          "name": "J. Sagias"
+        },
+        {
           "name": "J. Sanders"
+        },
+        {
+          "name": "J. Sterling"
         },
         {
           "name": "J. Swift"
@@ -115449,6 +117180,9 @@
         },
         {
           "name": "J.T. Esteban (alternate reality)"
+        },
+        {
+          "name": "J.T. Oldey"
         },
         {
           "name": "J.T. Tagamolila"
@@ -116699,6 +118433,9 @@
           "name": "K. Beyer (mirror)"
         },
         {
+          "name": "K. Bradford"
+        },
+        {
           "name": "K. Brock"
         },
         {
@@ -116706,6 +118443,12 @@
         },
         {
           "name": "K. Clark"
+        },
+        {
+          "name": "K. Cooper"
+        },
+        {
+          "name": "K. Curtin"
         },
         {
           "name": "K. Felton-Lui"
@@ -116735,7 +118478,16 @@
           "name": "K. Lafferty (mirror)"
         },
         {
+          "name": "K. Lilley"
+        },
+        {
+          "name": "K. Lima"
+        },
+        {
           "name": "K. McCord"
+        },
+        {
+          "name": "K. McCullagh"
         },
         {
           "name": "K. Mulgrew"
@@ -116763,6 +118515,9 @@
         },
         {
           "name": "K. Slechta"
+        },
+        {
+          "name": "K. Taylor"
         },
         {
           "name": "K. Tchaikovsky"
@@ -117258,6 +119013,9 @@
         },
         {
           "name": "Kelp bud"
+        },
+        {
+          "name": "Kelrec"
         },
         {
           "name": "Kelso"
@@ -118328,6 +120086,9 @@
           "name": "Kyle Courter (Starfleet)"
         },
         {
+          "name": "Kyle Djokovic"
+        },
+        {
           "name": "Kyle Rowen"
         },
         {
@@ -118478,6 +120239,9 @@
           "name": "L. Ortiz"
         },
         {
+          "name": "L. Orton"
+        },
+        {
           "name": "L. Park"
         },
         {
@@ -118488,6 +120252,9 @@
         },
         {
           "name": "L. Sena"
+        },
+        {
+          "name": "L. Thomas Perrier"
         },
         {
           "name": "L. Ward"
@@ -118623,6 +120390,9 @@
         },
         {
           "name": "Landon Ginn (Starfleet)"
+        },
+        {
+          "name": "Landras blend"
         },
         {
           "name": "Landris II"
@@ -119672,10 +121442,16 @@
           "name": "M. Aberth"
         },
         {
+          "name": "M. Andrews"
+        },
+        {
           "name": "M. Becker"
         },
         {
           "name": "M. Bozeman"
+        },
+        {
+          "name": "M. Butt"
         },
         {
           "name": "M. Campbell"
@@ -119693,6 +121469,9 @@
           "name": "M. Chambers"
         },
         {
+          "name": "M. Colucci"
+        },
+        {
           "name": "M. Coto"
         },
         {
@@ -119700,6 +121479,12 @@
         },
         {
           "name": "M. DeMeritt"
+        },
+        {
+          "name": "M. Drdakova"
+        },
+        {
+          "name": "M. Dziwik"
         },
         {
           "name": "M. Edmund"
@@ -119742,6 +121527,9 @@
         },
         {
           "name": "M. Jacque-Metton"
+        },
+        {
+          "name": "M. Karpf"
         },
         {
           "name": "M. Keating"
@@ -119790,6 +121578,9 @@
         },
         {
           "name": "M. Nyquist"
+        },
+        {
+          "name": "M. O'Brien"
         },
         {
           "name": "M. O'Halloran"
@@ -119937,6 +121728,9 @@
         },
         {
           "name": "MacIntyre"
+        },
+        {
+          "name": "Mackenzie Ya"
         },
         {
           "name": "Mackerel"
@@ -121724,6 +123518,9 @@
           "name": "Moon River"
         },
         {
+          "name": "Moonflow"
+        },
+        {
           "name": "Moonlight Becomes You"
         },
         {
@@ -122075,6 +123872,15 @@
           "name": "N. Candy"
         },
         {
+          "name": "N. Choi"
+        },
+        {
+          "name": "N. Denver"
+        },
+        {
+          "name": "N. Forbes"
+        },
+        {
           "name": "N. German"
         },
         {
@@ -122085,6 +123891,9 @@
         },
         {
           "name": "N. Lee"
+        },
+        {
+          "name": "N. Mealia"
         },
         {
           "name": "N. Meyer"
@@ -123098,16 +124907,28 @@
           "name": "O. Johnson"
         },
         {
+          "name": "O. McStay"
+        },
+        {
+          "name": "O. Munro"
+        },
+        {
           "name": "O. Neir"
         },
         {
           "name": "O. Neir (mirror)"
         },
         {
+          "name": "O. O'Neill"
+        },
+        {
           "name": "O. Osunsanmi"
         },
         {
           "name": "O. Osunsanmi (mirror)"
+        },
+        {
+          "name": "O. Perrier"
         },
         {
           "name": "O. Polanco"
@@ -123611,6 +125432,9 @@
           "name": "Orellius"
         },
         {
+          "name": "Oren"
+        },
+        {
           "name": "Orendal V"
         },
         {
@@ -123860,7 +125684,16 @@
           "name": "P. Corcoran-Woods"
         },
         {
+          "name": "P. Higgins"
+        },
+        {
+          "name": "P. Holton"
+        },
+        {
           "name": "P. Jacobson"
+        },
+        {
+          "name": "P. Jefferson"
         },
         {
           "name": "P. Lanyon"
@@ -124107,6 +125940,9 @@
         },
         {
           "name": "Paris (Commodore)"
+        },
+        {
+          "name": "Paris Delight"
         },
         {
           "name": "Paris Street; Rainy Day"
@@ -124703,6 +126539,9 @@
           "name": "Picard family album"
         },
         {
+          "name": "Pickford"
+        },
+        {
           "name": "Piedmont"
         },
         {
@@ -124938,6 +126777,9 @@
         },
         {
           "name": "Podiceps auritus"
+        },
+        {
+          "name": "Pog & Dar: Cop Landlords"
         },
         {
           "name": "Poison ivy"
@@ -125564,6 +127406,9 @@
           "name": "Quark"
         },
         {
+          "name": "Quarktajino"
+        },
+        {
           "name": "Quarra"
         },
         {
@@ -125663,6 +127508,9 @@
           "name": "R. Blackman"
         },
         {
+          "name": "R. Blais"
+        },
+        {
           "name": "R. Bunch"
         },
         {
@@ -125747,6 +127595,9 @@
           "name": "R. McCallum (mirror)"
         },
         {
+          "name": "R. McStay"
+        },
+        {
           "name": "R. Meyers"
         },
         {
@@ -125763,6 +127614,9 @@
         },
         {
           "name": "R. Picardo"
+        },
+        {
+          "name": "R. Pierce"
         },
         {
           "name": "R. Ratliff"
@@ -125817,6 +127671,9 @@
         },
         {
           "name": "R. Wasserman"
+        },
+        {
+          "name": "R. Watt"
         },
         {
           "name": "R. Wilcox"
@@ -127121,6 +128978,9 @@
           "name": "Rorg"
         },
         {
+          "name": "Rork"
+        },
+        {
           "name": "Rose"
         },
         {
@@ -127382,6 +129242,9 @@
           "name": "S. Burman"
         },
         {
+          "name": "S. Campbell"
+        },
+        {
           "name": "S. Chris"
         },
         {
@@ -127392,6 +129255,9 @@
         },
         {
           "name": "S. D'Errico"
+        },
+        {
+          "name": "S. Elliott"
         },
         {
           "name": "S. Eshraghi"
@@ -127407,6 +129273,18 @@
         },
         {
           "name": "S. Guilbault"
+        },
+        {
+          "name": "S. Holmberg"
+        },
+        {
+          "name": "S. Howes"
+        },
+        {
+          "name": "S. Kirk"
+        },
+        {
+          "name": "S. Leighbinger"
         },
         {
           "name": "S. Llewellyn"
@@ -127436,6 +129314,9 @@
           "name": "S. Rissmiller"
         },
         {
+          "name": "S. Robinson"
+        },
+        {
           "name": "S. Rowe"
         },
         {
@@ -127458,6 +129339,9 @@
         },
         {
           "name": "S. Shimizu"
+        },
+        {
+          "name": "S. Singh"
         },
         {
           "name": "S. Sokolowski"
@@ -127533,6 +129417,9 @@
         },
         {
           "name": "Safety officer"
+        },
+        {
+          "name": "Safta Landau"
         },
         {
           "name": "Saga (literature)"
@@ -127887,9 +129774,6 @@
         },
         {
           "name": "Sappora VII"
-        },
-        {
-          "name": "Sapta Landau"
         },
         {
           "name": "Sara M. Pearce"
@@ -130967,6 +132851,15 @@
           "name": "T. Grove (mirror)"
         },
         {
+          "name": "T. Howes"
+        },
+        {
+          "name": "T. Maddox"
+        },
+        {
+          "name": "T. Manco"
+        },
+        {
           "name": "T. Matalas"
         },
         {
@@ -131064,6 +132957,9 @@
         },
         {
           "name": "T. Virts"
+        },
+        {
+          "name": "T. Welsby"
         },
         {
           "name": "T. Young"
@@ -132374,6 +134270,9 @@
           "name": "Thelka IV"
         },
         {
+          "name": "Thelonious Dandrid"
+        },
+        {
           "name": "Theodore Roosevelt"
         },
         {
@@ -132651,6 +134550,9 @@
         },
         {
           "name": "Tinghamut"
+        },
+        {
+          "name": "Tinn Valaak"
         },
         {
           "name": "Tiornes"
@@ -133121,6 +135023,9 @@
           "name": "Transporter Theory"
         },
         {
+          "name": "TRAPPIST 1e"
+        },
+        {
           "name": "Travers"
         },
         {
@@ -133329,6 +135234,9 @@
         },
         {
           "name": "Tunguska"
+        },
+        {
+          "name": "Turducken"
         },
         {
           "name": "Turkana IV"
@@ -136106,6 +138014,9 @@
           "name": "Will Kayden"
         },
         {
+          "name": "Will They, Won't They?"
+        },
+        {
           "name": "William Anders"
         },
         {
@@ -136668,6 +138579,9 @@
         },
         {
           "name": "Z. Olgyay"
+        },
+        {
+          "name": "Z. Orton"
         },
         {
           "name": "Z. Vero"
@@ -142069,6 +143983,18 @@
       "planets": []
     },
     {
+      "name": "Vulcan mocha",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vulcan mocha primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Vulcan nightclub",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -145795,6 +147721,18 @@
       "stars": [
         {
           "name": "Z. Olgyay primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Z. Orton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Z. Orton primary",
           "type": "star"
         }
       ],

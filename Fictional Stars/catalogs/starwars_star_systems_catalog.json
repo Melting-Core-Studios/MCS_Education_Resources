@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-01-18T04:19:52+00:00",
+    "generatedAt": "2026-01-25T04:36:39+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7218,
+      "bodyPages": 7221,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6461,
-      "unassigned": 757,
+      "attached": 6462,
+      "unassigned": 759,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -54071,7 +54071,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Unidentified radioactive deathworld"
+        }
+      ]
     },
     {
       "name": "Ghorman system",
@@ -94964,10 +94968,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -121140,10 +121144,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -149340,6 +149344,9 @@
           "name": "Jagomir"
         },
         {
+          "name": "Janix"
+        },
+        {
           "name": "Jaren's planet"
         },
         {
@@ -150658,6 +150665,9 @@
         },
         {
           "name": "Unidentified planet (Havoc Outpost)"
+        },
+        {
+          "name": "Unidentified planet (hill town)"
         },
         {
           "name": "Unidentified planet (Holowan droid foundry)"
@@ -162186,24 +162196,23 @@
       "planets": [
         {
           "name": "Yaga Minor"
-        }
-      ]
-    },
-    {
-      "name": "Yaga system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Yaga system primary",
-          "type": "star"
-        }
-      ],
-      "planets": [
+        },
         {
           "name": "Yaga Minor/Legends"
         }
       ]
+    },
+    {
+      "name": "Yaga Minor system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Yaga Minor system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Yagara system",
