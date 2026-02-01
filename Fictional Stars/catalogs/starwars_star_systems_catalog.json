@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-01-25T04:36:39+00:00",
+    "generatedAt": "2026-02-01T05:16:50+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7221,
+      "bodyPages": 7222,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
       "attached": 6462,
-      "unassigned": 759,
+      "unassigned": 760,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -3837,6 +3837,18 @@
       "stars": [
         {
           "name": "Almera system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alnaria system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alnaria system primary",
           "type": "star"
         }
       ],
@@ -76548,6 +76560,18 @@
       "planets": []
     },
     {
+      "name": "Koke Frost system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Koke Frost system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kol Atorn system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -85312,7 +85336,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Vergesso Prime/Legends"
+        }
+      ]
     },
     {
       "name": "Lybeya system/Legends",
@@ -94968,10 +94996,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -121144,10 +121172,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -121310,7 +121338,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Roche asteroid field"
+        }
+      ]
     },
     {
       "name": "Rocrin system",
@@ -146799,11 +146831,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Tshindral III"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Tsoss Beacon system",
@@ -150233,6 +150261,9 @@
         },
         {
           "name": "Thonner/Legends"
+        },
+        {
+          "name": "Three Ellas"
         },
         {
           "name": "Throneworld"
@@ -158257,11 +158288,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Vorian IV"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Vorian system/Legends",

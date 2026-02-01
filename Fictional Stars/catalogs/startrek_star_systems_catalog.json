@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-01-25T04:31:03+00:00",
+    "generatedAt": "2026-02-01T05:09:06+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12201,
+      "bodyPages": 12298,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12201,
+      "unassigned": 12298,
       "createdSystemsFromBodies": 0
     }
   },
@@ -2235,6 +2235,18 @@
       "planets": []
     },
     {
+      "name": "Aaron Baiers (Fleet Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Aaron Baiers (Fleet Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Aaron Baiers (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -3159,6 +3171,18 @@
       "planets": []
     },
     {
+      "name": "Ahava Kohen",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ahava Kohen primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Ahmasa",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -4023,6 +4047,18 @@
       "planets": []
     },
     {
+      "name": "Alex Taub (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alex Taub (Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alexander Courage (Lieutenant Commander)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -4863,12 +4899,36 @@
       "planets": []
     },
     {
+      "name": "Alpha system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alps",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Alps primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alrescha",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alrescha primary",
           "type": "star"
         }
       ],
@@ -5013,6 +5073,18 @@
       "stars": [
         {
           "name": "Alyssa Tull (Ensign) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alyssia Will-Ma",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alyssia Will-Ma primary",
           "type": "star"
         }
       ],
@@ -5259,6 +5331,18 @@
       "planets": []
     },
     {
+      "name": "Amelie Claire",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Amelie Claire primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "American",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -5397,6 +5481,18 @@
       "stars": [
         {
           "name": "American Wrecking Company primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Americano",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Americano primary",
           "type": "star"
         }
       ],
@@ -5721,6 +5817,18 @@
       "stars": [
         {
           "name": "Andrei Novakovich primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Andrew Collins",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Andrew Collins primary",
           "type": "star"
         }
       ],
@@ -7731,6 +7839,18 @@
       "planets": []
     },
     {
+      "name": "Aspen",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Aspen primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Assault on Planet 10",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -7761,6 +7881,18 @@
       "stars": [
         {
           "name": "Assistant astrophysics officer primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Association of Cardassian Cadets",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Association of Cardassian Cadets primary",
           "type": "star"
         }
       ],
@@ -13107,24 +13239,24 @@
       "planets": []
     },
     {
-      "name": "Bonne Johnson",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Bonne Johnson primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Bonnie and Clyde",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Bonnie and Clyde primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Bonnie Johnson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bonnie Johnson primary",
           "type": "star"
         }
       ],
@@ -13233,6 +13365,18 @@
       "stars": [
         {
           "name": "Bortas primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Boryslav Fird (Lieutenant Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Boryslav Fird (Lieutenant Commander) primary",
           "type": "star"
         }
       ],
@@ -20115,6 +20259,18 @@
       "planets": []
     },
     {
+      "name": "Christine D. Gonsalves (Captain)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Christine D. Gonsalves (Captain) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Christmas",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -21183,6 +21339,30 @@
       "planets": []
     },
     {
+      "name": "Coconut milk",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coconut milk primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Coconut water",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Coconut water primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Code of Hammurabi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -21915,6 +22095,18 @@
       "planets": []
     },
     {
+      "name": "Connor D. Lucas (Vice Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Connor D. Lucas (Vice Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Connor Rossa",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -22623,6 +22815,18 @@
       "planets": []
     },
     {
+      "name": "Courtney A. Lee (Chancellor)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Courtney A. Lee (Chancellor) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Couscous",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -22941,6 +23145,18 @@
       "stars": [
         {
           "name": "Cricket primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Criddle D'Eri-Ca",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Criddle D'Eri-Ca primary",
           "type": "star"
         }
       ],
@@ -23949,6 +24165,18 @@
       "stars": [
         {
           "name": "D. Biagi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "D. Brathwaite-Lynch",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "D. Brathwaite-Lynch primary",
           "type": "star"
         }
       ],
@@ -25407,6 +25635,18 @@
       "planets": []
     },
     {
+      "name": "David A. Rodriguez",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "David A. Rodriguez primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "David Amantes",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -25845,6 +26085,18 @@
       "stars": [
         {
           "name": "Dax (Crewman) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Day Kim",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Day Kim primary",
           "type": "star"
         }
       ],
@@ -27195,6 +27447,18 @@
       "planets": []
     },
     {
+      "name": "Diane of N'thonia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Diane of N'thonia primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Diane Overdiek (Lieutenant)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -27963,6 +28227,18 @@
       "planets": []
     },
     {
+      "name": "Don Father of Hearts",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Don Father of Hearts primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Don Foster, Jr. (Lieutenant)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -28689,6 +28965,18 @@
       "stars": [
         {
           "name": "Draylax system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Draylon system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Draylon system primary",
           "type": "star"
         }
       ],
@@ -30195,6 +30483,18 @@
       "planets": []
     },
     {
+      "name": "Eddie Guierrez",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Eddie Guierrez primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Eden system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -30297,6 +30597,18 @@
       "stars": [
         {
           "name": "Edsel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Edward Aaronson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Edward Aaronson primary",
           "type": "star"
         }
       ],
@@ -30753,6 +31065,18 @@
       "stars": [
         {
           "name": "Elena Cho primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Elene Mekete (Captain)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Elene Mekete (Captain) primary",
           "type": "star"
         }
       ],
@@ -32115,6 +32439,18 @@
       "planets": []
     },
     {
+      "name": "Eska system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Eska system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Esky",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -32493,6 +32829,18 @@
       "stars": [
         {
           "name": "Evans (Lieutenant) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Eve Haddad",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Eve Haddad primary",
           "type": "star"
         }
       ],
@@ -33567,6 +33915,18 @@
       "planets": []
     },
     {
+      "name": "Fergus Pearce",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Fergus Pearce primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Fernando Sepulveda (Lieutenant)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -33681,6 +34041,18 @@
       "stars": [
         {
           "name": "Fidel Castro primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Fidelio",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Fidelio primary",
           "type": "star"
         }
       ],
@@ -35679,6 +36051,18 @@
       "planets": []
     },
     {
+      "name": "Frank Siracusa (Fleet Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Frank Siracusa (Fleet Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Frank Tignini (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -35757,6 +36141,18 @@
       "stars": [
         {
           "name": "Franklin D. Roosevelt primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Franny Kurtzman",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Franny Kurtzman primary",
           "type": "star"
         }
       ],
@@ -36855,6 +37251,18 @@
       "planets": []
     },
     {
+      "name": "G.B. Butler",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "G.B. Butler primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Gabers Migleemo",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36969,6 +37377,18 @@
       "stars": [
         {
           "name": "Gagaku primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Gaia Violo (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gaia Violo (Admiral) primary",
           "type": "star"
         }
       ],
@@ -38607,6 +39027,18 @@
       "planets": []
     },
     {
+      "name": "Geri Hilton",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Geri Hilton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "German",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -39411,12 +39843,12 @@
       "planets": []
     },
     {
-      "name": "Golden Retriever",
+      "name": "Golden retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden Retriever primary",
+          "name": "Golden retriever primary",
           "type": "star"
         }
       ],
@@ -40509,6 +40941,18 @@
       "stars": [
         {
           "name": "Greg Nelson (Starfleet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Greg Wadsworth (Lieutenant Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Greg Wadsworth (Lieutenant Commander) primary",
           "type": "star"
         }
       ],
@@ -42279,12 +42723,12 @@
       "planets": []
     },
     {
-      "name": "Harrison Arhart",
+      "name": "Harrison Airhart",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Harrison Arhart primary",
+          "name": "Harrison Airhart primary",
           "type": "star"
         }
       ],
@@ -42633,6 +43077,18 @@
       "stars": [
         {
           "name": "Hayes (Male Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Hayley Isaacs (Captain)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Hayley Isaacs (Captain) primary",
           "type": "star"
         }
       ],
@@ -43281,6 +43737,18 @@
       "stars": [
         {
           "name": "Heron Building primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Herring",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Herring primary",
           "type": "star"
         }
       ],
@@ -44493,6 +44961,18 @@
       "stars": [
         {
           "name": "How High the Moon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "How'el Et-Mon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "How'el Et-Mon primary",
           "type": "star"
         }
       ],
@@ -45765,6 +46245,18 @@
       "stars": [
         {
           "name": "If I Only Had a Heart primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ignacio Garceron (Lieutenant Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ignacio Garceron (Lieutenant Commander) primary",
           "type": "star"
         }
       ],
@@ -49011,6 +49503,18 @@
       "planets": []
     },
     {
+      "name": "Jaclyn McBride (Captain)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jaclyn McBride (Captain) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Jacqueline Barnes (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -49407,6 +49911,18 @@
       "planets": []
     },
     {
+      "name": "James T. Kirk Pavilion",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "James T. Kirk Pavilion primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "James Van Over (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -49425,6 +49941,18 @@
       "stars": [
         {
           "name": "James Van Over (UESPA) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "James W. Jarvis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "James W. Jarvis primary",
           "type": "star"
         }
       ],
@@ -49839,6 +50367,18 @@
       "planets": []
     },
     {
+      "name": "Jasmine Graham",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jasmine Graham primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Jason Bartolone (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -50163,6 +50703,18 @@
       "planets": []
     },
     {
+      "name": "Jeff Bacon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jeff Bacon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Jeff Steck (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -50337,6 +50889,18 @@
       "stars": [
         {
           "name": "Jenna D'Sora primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Jenna Locke",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jenna Locke primary",
           "type": "star"
         }
       ],
@@ -50709,6 +51273,18 @@
       "stars": [
         {
           "name": "Jett Reno primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Jetzt, Schätzchen, jetzt sind wir allein",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jetzt, Schätzchen, jetzt sind wir allein primary",
           "type": "star"
         }
       ],
@@ -51699,6 +52275,18 @@
       "planets": []
     },
     {
+      "name": "John Weber (Fleet Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "John Weber (Fleet Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "John Young",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -51765,6 +52353,18 @@
       "stars": [
         {
           "name": "Johnson (Lieutenant) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Jolene Julian",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jolene Julian primary",
           "type": "star"
         }
       ],
@@ -54903,6 +55503,18 @@
       "planets": []
     },
     {
+      "name": "Kiley Rossetter (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kiley Rossetter (Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kiley system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -55467,6 +56079,18 @@
       "planets": []
     },
     {
+      "name": "Kohli",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kohli primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Koje-E",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -55629,6 +56253,18 @@
       "stars": [
         {
           "name": "Kotanka system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kotara Barath system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kotara Barath system primary",
           "type": "star"
         }
       ],
@@ -57483,6 +58119,18 @@
       "planets": []
     },
     {
+      "name": "Le'kayo Prey",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Le'kayo Prey primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Leah Brahms",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -57579,6 +58227,18 @@
       "planets": []
     },
     {
+      "name": "Lee Fitzgerald",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lee Fitzgerald primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Lee Kelso",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -57633,6 +58293,18 @@
       "stars": [
         {
           "name": "Leek primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Leeloo Maute",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Leeloo Maute primary",
           "type": "star"
         }
       ],
@@ -58161,6 +58833,18 @@
       "stars": [
         {
           "name": "Leyton primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Li",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Li primary",
           "type": "star"
         }
       ],
@@ -59631,6 +60315,18 @@
       "planets": []
     },
     {
+      "name": "Lucy Airhart",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lucy Airhart primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Ludugia",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -60879,6 +61575,18 @@
       "planets": []
     },
     {
+      "name": "M. Vladislav Stanek",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "M. Vladislav Stanek primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "M. Vrvilo",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -61497,6 +62205,18 @@
       "stars": [
         {
           "name": "Malcolm Reed (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Malcor",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Malcor primary",
           "type": "star"
         }
       ],
@@ -62499,6 +63219,18 @@
       "planets": []
     },
     {
+      "name": "Mark Shimer",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mark Shimer primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mark Stimson (Lieutenant)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -63411,6 +64143,30 @@
       "planets": []
     },
     {
+      "name": "Matthew Davies (Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Matthew Davies (Commander) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Matthew Harris (Lieutenant Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Matthew Harris (Lieutenant Commander) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Matthew Mura",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -63441,6 +64197,18 @@
       "stars": [
         {
           "name": "Matthew Ryan primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Matthew S. Morgan (Esc.)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Matthew S. Morgan (Esc.) primary",
           "type": "star"
         }
       ],
@@ -64197,6 +64965,18 @@
       "stars": [
         {
           "name": "Megrez primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Melanie Foley (Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Melanie Foley (Commander) primary",
           "type": "star"
         }
       ],
@@ -66063,6 +66843,18 @@
       "planets": []
     },
     {
+      "name": "Mitchell James",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mitchell James primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mitsuya",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -66363,6 +67155,18 @@
       "planets": []
     },
     {
+      "name": "Monica Navarrete (Vice Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Monica Navarrete (Vice Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Monico C. Aguayo",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -66609,6 +67413,18 @@
       "stars": [
         {
           "name": "Moon River primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Moon-Jumper of Leff",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Moon-Jumper of Leff primary",
           "type": "star"
         }
       ],
@@ -68295,6 +69111,18 @@
       "planets": []
     },
     {
+      "name": "Nathan Airhart",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nathan Airhart primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Nathan Nannie",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -68523,6 +69351,18 @@
       "planets": []
     },
     {
+      "name": "Nazanin Kazem",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nazanin Kazem primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Nazi Germany",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -68733,6 +69573,18 @@
       "stars": [
         {
           "name": "Nelson Mandela primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Nelson W. Cheng (Lieutenant Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nelson W. Cheng (Lieutenant Commander) primary",
           "type": "star"
         }
       ],
@@ -69687,6 +70539,18 @@
       "planets": []
     },
     {
+      "name": "Noah Denver (Fleet Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Noah Denver (Fleet Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Noah Keller (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -69801,6 +70665,18 @@
       "stars": [
         {
           "name": "Nog primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Noga Landau (Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Noga Landau (Admiral) primary",
           "type": "star"
         }
       ],
@@ -71439,6 +72315,18 @@
       "planets": []
     },
     {
+      "name": "Olatunde Osunsanmi (Fleet Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Olatunde Osunsanmi (Fleet Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Old Britain",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -72519,6 +73407,18 @@
       "planets": []
     },
     {
+      "name": "Osiris P. Grullon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Osiris P. Grullon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "OSO",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -73005,6 +73905,18 @@
       "stars": [
         {
           "name": "P. Tidy primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Pa-Pa-Pa-Papageno",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pa-Pa-Pa-Papageno primary",
           "type": "star"
         }
       ],
@@ -77847,6 +78759,18 @@
       "planets": []
     },
     {
+      "name": "Pyrellia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pyrellia primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pyrex",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -79263,6 +80187,18 @@
       "planets": []
     },
     {
+      "name": "Rakon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rakon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Raktajino",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -79413,6 +80349,18 @@
       "stars": [
         {
           "name": "Ramsey (Crewman) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ramsey of Light",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ramsey of Light primary",
           "type": "star"
         }
       ],
@@ -79749,6 +80697,18 @@
       "stars": [
         {
           "name": "Ray Wilkerson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ray Zandboer (ACPO)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ray Zandboer (ACPO) primary",
           "type": "star"
         }
       ],
@@ -81639,6 +82599,18 @@
       "planets": []
     },
     {
+      "name": "Rob'n J'nson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rob'n J'nson primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Robbins",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -81981,6 +82953,18 @@
       "stars": [
         {
           "name": "Rocky Road primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Rod Roddenberry (Fleet Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rod Roddenberry (Fleet Admiral) primary",
           "type": "star"
         }
       ],
@@ -82347,6 +83331,18 @@
       "planets": []
     },
     {
+      "name": "Ron Williams",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ron Williams primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Ronald A. Bryce",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -82707,12 +83703,12 @@
       "planets": []
     },
     {
-      "name": "Ross (cadet)",
+      "name": "Ross (Cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (cadet) primary",
+          "name": "Ross (Cadet) primary",
           "type": "star"
         }
       ],
@@ -84039,6 +85035,18 @@
       "planets": []
     },
     {
+      "name": "Sabba Pollak",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sabba Pollak primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Saber-toothed tiger",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -84597,6 +85605,18 @@
       "stars": [
         {
           "name": "Sam Rutherford primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Samantha Tong (Lieutenant Commander)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Samantha Tong (Lieutenant Commander) primary",
           "type": "star"
         }
       ],
@@ -93291,6 +94311,18 @@
       "planets": []
     },
     {
+      "name": "Stuart M. Pearce (Vice Admiral)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Stuart M. Pearce (Vice Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Stuart Roosa",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -96879,6 +97911,18 @@
       "planets": []
     },
     {
+      "name": "Tetis Barr",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tetis Barr primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Texas",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -97917,6 +98961,18 @@
       "stars": [
         {
           "name": "The Long Dark Tunnel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "The Magic Flute",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "The Magic Flute primary",
           "type": "star"
         }
       ],
@@ -99651,6 +100707,18 @@
       "planets": []
     },
     {
+      "name": "Timothy M.R. Peel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Timothy M.R. Peel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tina Lawton",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -101175,6 +102243,18 @@
       "planets": []
     },
     {
+      "name": "Trinity Bridges",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Trinity Bridges primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Trinity Church",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -102135,6 +103215,18 @@
       "planets": []
     },
     {
+      "name": "Ummi De'de",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ummi De'de primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Una Chin-Riley",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -102659,6 +103751,9 @@
           "name": "Aaron (Admiral)"
         },
         {
+          "name": "Aaron Baiers (Fleet Admiral)"
+        },
+        {
           "name": "Aaron Baiers (Starfleet)"
         },
         {
@@ -102915,6 +104010,9 @@
         },
         {
           "name": "Ahau-Kin"
+        },
+        {
+          "name": "Ahava Kohen"
         },
         {
           "name": "Ahmasa"
@@ -103176,6 +104274,9 @@
         },
         {
           "name": "Alex Smutko (Lieutenant)"
+        },
+        {
+          "name": "Alex Taub (Admiral)"
         },
         {
           "name": "Alexander"
@@ -103493,6 +104594,9 @@
           "name": "Alyssa Tull (Ensign)"
         },
         {
+          "name": "Alyssia Will-Ma"
+        },
+        {
           "name": "Amadou"
         },
         {
@@ -103553,6 +104657,9 @@
           "name": "AMC Hornet"
         },
         {
+          "name": "Amelie Claire"
+        },
+        {
           "name": "American"
         },
         {
@@ -103587,6 +104694,9 @@
         },
         {
           "name": "American Wrecking Company"
+        },
+        {
+          "name": "Americano"
         },
         {
           "name": "Americans"
@@ -103686,6 +104796,9 @@
         },
         {
           "name": "Andreus V"
+        },
+        {
+          "name": "Andrew Collins"
         },
         {
           "name": "Andrew G. Probert (Captain)"
@@ -104285,6 +105398,9 @@
           "name": "Askwith"
         },
         {
+          "name": "Asmaret"
+        },
+        {
           "name": "Asopao"
         },
         {
@@ -104294,6 +105410,9 @@
           "name": "Asparagus"
         },
         {
+          "name": "Aspen"
+        },
+        {
           "name": "Assault on Planet 10"
         },
         {
@@ -104301,6 +105420,9 @@
         },
         {
           "name": "Assistant astrophysics officer"
+        },
+        {
+          "name": "Association of Cardassian Cadets"
         },
         {
           "name": "Aster home"
@@ -104318,7 +105440,7 @@
           "name": "Astrea Tendi"
         },
         {
-          "name": "Astrid (Orion)"
+          "name": "Astrid"
         },
         {
           "name": "Astrid Atlee"
@@ -104505,9 +105627,6 @@
         },
         {
           "name": "B'aht Qul challenge"
-        },
-        {
-          "name": "B'avi"
         },
         {
           "name": "B'Avi"
@@ -106190,10 +107309,10 @@
           "name": "Bongos"
         },
         {
-          "name": "Bonne Johnson"
+          "name": "Bonnie and Clyde"
         },
         {
-          "name": "Bonnie and Clyde"
+          "name": "Bonnie Johnson"
         },
         {
           "name": "Book louse"
@@ -106248,6 +107367,9 @@
         },
         {
           "name": "Borven"
+        },
+        {
+          "name": "Boryslav Fird (Lieutenant Commander)"
         },
         {
           "name": "Boston"
@@ -106464,6 +107586,9 @@
         },
         {
           "name": "Brice"
+        },
+        {
+          "name": "Bridal auction"
         },
         {
           "name": "Bridal Chorus"
@@ -108353,6 +109478,9 @@
           "name": "Christine Clark (Starfleet)"
         },
         {
+          "name": "Christine D. Gonsalves (Captain)"
+        },
+        {
           "name": "Christmas"
         },
         {
@@ -108632,6 +109760,12 @@
           "name": "Coconut crisp"
         },
         {
+          "name": "Coconut milk"
+        },
+        {
+          "name": "Coconut water"
+        },
+        {
           "name": "Code of Hammurabi"
         },
         {
@@ -108830,6 +109964,9 @@
           "name": "Connecticut"
         },
         {
+          "name": "Connor D. Lucas (Vice Admiral)"
+        },
+        {
           "name": "Connor Rossa"
         },
         {
@@ -109025,6 +110162,9 @@
           "name": "Court Martial (story)"
         },
         {
+          "name": "Courtney A. Lee (Chancellor)"
+        },
+        {
           "name": "Couscous"
         },
         {
@@ -109107,6 +110247,9 @@
         },
         {
           "name": "Cricket"
+        },
+        {
+          "name": "Criddle D'Eri-Ca"
         },
         {
           "name": "Crisia occidental"
@@ -109425,6 +110568,9 @@
         },
         {
           "name": "D. Biagi"
+        },
+        {
+          "name": "D. Brathwaite-Lynch"
         },
         {
           "name": "D. Burns"
@@ -109895,6 +111041,9 @@
           "name": "David (statue)"
         },
         {
+          "name": "David A. Rodriguez"
+        },
+        {
           "name": "David Amantes"
         },
         {
@@ -110013,6 +111162,9 @@
         },
         {
           "name": "Day (Colonel)"
+        },
+        {
+          "name": "Day Kim"
         },
         {
           "name": "Day of Honor"
@@ -110444,6 +111596,9 @@
           "name": "Diandra Thompson"
         },
         {
+          "name": "Diane of N'thonia"
+        },
+        {
           "name": "Diane Overdiek (Lieutenant)"
         },
         {
@@ -110675,6 +111830,9 @@
           "name": "Don Dixon"
         },
         {
+          "name": "Don Father of Hearts"
+        },
+        {
           "name": "Don Foster, Jr. (Lieutenant)"
         },
         {
@@ -110901,6 +112059,9 @@
         },
         {
           "name": "Dream Alien's homeworld"
+        },
+        {
+          "name": "Drekol"
         },
         {
           "name": "Drema IV"
@@ -111344,6 +112505,9 @@
           "name": "Eddie"
         },
         {
+          "name": "Eddie Guierrez"
+        },
+        {
           "name": "Eden"
         },
         {
@@ -111375,6 +112539,9 @@
         },
         {
           "name": "Edsel"
+        },
+        {
+          "name": "Edward Aaronson"
         },
         {
           "name": "Edward Hagler"
@@ -111519,6 +112686,9 @@
         },
         {
           "name": "Elena Cho"
+        },
+        {
+          "name": "Elene Mekete (Captain)"
         },
         {
           "name": "Elephant"
@@ -111735,6 +112905,9 @@
         },
         {
           "name": "Ennis and Nol-Ennis homeworld"
+        },
+        {
+          "name": "Enok"
         },
         {
           "name": "Enrique Muniz"
@@ -112004,6 +113177,9 @@
           "name": "Evans (Lieutenant)"
         },
         {
+          "name": "Eve Haddad"
+        },
+        {
           "name": "Evek"
         },
         {
@@ -112149,6 +113325,9 @@
         },
         {
           "name": "F8"
+        },
+        {
+          "name": "Faan Alpha"
         },
         {
           "name": "Fabian Lacey (Starfleet)"
@@ -112481,6 +113660,9 @@
           "name": "Ferenginar Historic Public Library"
         },
         {
+          "name": "Fergus Pearce"
+        },
+        {
           "name": "Ferin"
         },
         {
@@ -112512,6 +113694,9 @@
         },
         {
           "name": "Fidel Castro"
+        },
+        {
+          "name": "Fidelio"
         },
         {
           "name": "Field command"
@@ -113105,6 +114290,9 @@
           "name": "Frank Leasure (Starfleet)"
         },
         {
+          "name": "Frank Siracusa (Fleet Admiral)"
+        },
+        {
           "name": "Frank Tignini (Starfleet)"
         },
         {
@@ -113124,6 +114312,9 @@
         },
         {
           "name": "Franklin D. Roosevelt"
+        },
+        {
+          "name": "Franny Kurtzman"
         },
         {
           "name": "Franz Alexander"
@@ -113429,6 +114620,9 @@
           "name": "G. Wang"
         },
         {
+          "name": "G.B. Butler"
+        },
+        {
           "name": "Gabers Migleemo"
         },
         {
@@ -113466,6 +114660,9 @@
         },
         {
           "name": "Gaia inhabitants"
+        },
+        {
+          "name": "Gaia Violo (Admiral)"
         },
         {
           "name": "Gaila (Orion)"
@@ -113936,6 +115133,9 @@
           "name": "Gere LaDue (Captain)"
         },
         {
+          "name": "Geri Hilton"
+        },
+        {
           "name": "German"
         },
         {
@@ -114188,10 +115388,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
           "name": "Goldfish"
@@ -114561,6 +115761,9 @@
         },
         {
           "name": "Greg Nelson (Starfleet)"
+        },
+        {
+          "name": "Greg Wadsworth (Lieutenant Commander)"
         },
         {
           "name": "Gregory Benson"
@@ -115100,7 +116303,7 @@
           "name": "Harrison"
         },
         {
-          "name": "Harrison Arhart"
+          "name": "Harrison Airhart"
         },
         {
           "name": "Harrison Horseberry"
@@ -115200,6 +116403,9 @@
         },
         {
           "name": "Hayes (Male Admiral)"
+        },
+        {
+          "name": "Hayley Isaacs (Captain)"
         },
         {
           "name": "Haynem"
@@ -115386,6 +116592,9 @@
         },
         {
           "name": "Heron Building"
+        },
+        {
+          "name": "Herring"
         },
         {
           "name": "Hershey Bar"
@@ -115781,6 +116990,9 @@
           "name": "House of Korath"
         },
         {
+          "name": "House of Kraag"
+        },
+        {
           "name": "House of Martok"
         },
         {
@@ -115824,6 +117036,9 @@
         },
         {
           "name": "How High the Moon"
+        },
+        {
+          "name": "How'el Et-Mon"
         },
         {
           "name": "Howdy Doody"
@@ -115947,6 +117162,9 @@
         },
         {
           "name": "Hurkos III"
+        },
+        {
+          "name": "Hurwl'"
         },
         {
           "name": "Hushpuppy"
@@ -116187,6 +117405,9 @@
         },
         {
           "name": "Igel"
+        },
+        {
+          "name": "Ignacio Garceron (Lieutenant Commander)"
         },
         {
           "name": "Igor Knezevic (Starfleet)"
@@ -117254,6 +118475,9 @@
           "name": "Jackson, Mississippi"
         },
         {
+          "name": "Jaclyn McBride (Captain)"
+        },
+        {
           "name": "Jacqueline Barnes (Starfleet)"
         },
         {
@@ -117368,10 +118592,16 @@
           "name": "James T. Kirk (mirror)"
         },
         {
+          "name": "James T. Kirk Pavilion"
+        },
+        {
           "name": "James Van Over (Starfleet)"
         },
         {
           "name": "James Van Over (UESPA)"
+        },
+        {
+          "name": "James W. Jarvis"
         },
         {
           "name": "Jameson"
@@ -117515,6 +118745,9 @@
           "name": "Jasad's warship personnel"
         },
         {
+          "name": "Jasmine Graham"
+        },
+        {
           "name": "Jason Bartolone (Starfleet)"
         },
         {
@@ -117605,6 +118838,9 @@
           "name": "Jeff Arton"
         },
         {
+          "name": "Jeff Bacon"
+        },
+        {
           "name": "Jeff Steck (Starfleet)"
         },
         {
@@ -117663,6 +118899,9 @@
         },
         {
           "name": "Jenna D'Sora"
+        },
+        {
+          "name": "Jenna Locke"
         },
         {
           "name": "Jenna Mitchell"
@@ -117759,6 +118998,9 @@
         },
         {
           "name": "Jett Reno"
+        },
+        {
+          "name": "Jetzt, Schätzchen, jetzt sind wir allein"
         },
         {
           "name": "Jew"
@@ -118025,6 +119267,9 @@
           "name": "John Trimble"
         },
         {
+          "name": "John Weber (Fleet Admiral)"
+        },
+        {
           "name": "John Young"
         },
         {
@@ -118047,6 +119292,9 @@
         },
         {
           "name": "Jolan tru"
+        },
+        {
+          "name": "Jolene Julian"
         },
         {
           "name": "Jolietville"
@@ -119285,6 +120533,9 @@
           "name": "Kiley 279"
         },
         {
+          "name": "Kiley Rossetter (Admiral)"
+        },
+        {
           "name": "Kilkee"
         },
         {
@@ -119670,6 +120921,9 @@
         },
         {
           "name": "Kohlar's battle cruiser personnel"
+        },
+        {
+          "name": "Kohli"
         },
         {
           "name": "Kohn-Ma"
@@ -120146,6 +121400,9 @@
           "name": "L'Teis Kardashev"
         },
         {
+          "name": "L'vanna"
+        },
+        {
           "name": "L'vln Lak Raal"
         },
         {
@@ -120569,6 +121826,9 @@
           "name": "Le Coeur de Lion"
         },
         {
+          "name": "Le'kayo Prey"
+        },
+        {
           "name": "Le-matya"
         },
         {
@@ -120602,6 +121862,9 @@
           "name": "Lee Dashel"
         },
         {
+          "name": "Lee Fitzgerald"
+        },
+        {
           "name": "Lee Kelso"
         },
         {
@@ -120615,6 +121878,9 @@
         },
         {
           "name": "Leek"
+        },
+        {
+          "name": "Leeloo Maute"
         },
         {
           "name": "Leeta"
@@ -120795,6 +122061,9 @@
         },
         {
           "name": "Lhess Taal Dax"
+        },
+        {
+          "name": "Li"
         },
         {
           "name": "Li Nalas"
@@ -121256,6 +122525,9 @@
           "name": "Lucifer's Chainsaw"
         },
         {
+          "name": "Lucy Airhart"
+        },
+        {
           "name": "Ludovko IX"
         },
         {
@@ -121665,6 +122937,9 @@
         },
         {
           "name": "M. Viger"
+        },
+        {
+          "name": "M. Vladislav Stanek"
         },
         {
           "name": "M. Vrvilo"
@@ -122228,6 +123503,9 @@
           "name": "Mark Piper"
         },
         {
+          "name": "Mark Shimer"
+        },
+        {
           "name": "Mark Stimson (Lieutenant)"
         },
         {
@@ -122474,6 +123752,12 @@
           "name": "Matthew (Enterprise-D)"
         },
         {
+          "name": "Matthew Davies (Commander)"
+        },
+        {
+          "name": "Matthew Harris (Lieutenant Commander)"
+        },
+        {
           "name": "Matthew Mura"
         },
         {
@@ -122481,6 +123765,9 @@
         },
         {
           "name": "Matthew Ryan"
+        },
+        {
+          "name": "Matthew S. Morgan (Esc.)"
         },
         {
           "name": "Mauk-to'Vor"
@@ -122742,6 +124029,9 @@
         },
         {
           "name": "Melakol"
+        },
+        {
+          "name": "Melanie Foley (Commander)"
         },
         {
           "name": "Melder"
@@ -123320,6 +124610,9 @@
           "name": "Mitchell B. Green"
         },
         {
+          "name": "Mitchell James"
+        },
+        {
           "name": "Mithren"
         },
         {
@@ -123452,6 +124745,9 @@
           "name": "Money"
         },
         {
+          "name": "Monica Navarrete (Vice Admiral)"
+        },
+        {
           "name": "Monico C. Aguayo"
         },
         {
@@ -123516,6 +124812,9 @@
         },
         {
           "name": "Moon River"
+        },
+        {
+          "name": "Moon-Jumper of Leff"
         },
         {
           "name": "Moonflow"
@@ -124097,6 +125396,9 @@
           "name": "Natasha Yar"
         },
         {
+          "name": "Nathan Airhart"
+        },
+        {
           "name": "Nathan Nannie"
         },
         {
@@ -124178,6 +125480,9 @@
           "name": "Naya"
         },
         {
+          "name": "Nazanin Kazem"
+        },
+        {
           "name": "Nazi Germany"
         },
         {
@@ -124239,6 +125544,9 @@
         },
         {
           "name": "Nelson Mandela"
+        },
+        {
+          "name": "Nelson W. Cheng (Lieutenant Commander)"
         },
         {
           "name": "Nelson's Column"
@@ -124341,6 +125649,9 @@
         },
         {
           "name": "New Flyer D40LF"
+        },
+        {
+          "name": "New France"
         },
         {
           "name": "New Gaul"
@@ -124595,6 +125906,9 @@
           "name": "No. Valley"
         },
         {
+          "name": "Noah Denver (Fleet Admiral)"
+        },
+        {
           "name": "Noah Keller (Starfleet)"
         },
         {
@@ -124626,6 +125940,9 @@
         },
         {
           "name": "Nog"
+        },
+        {
+          "name": "Noga Landau (Admiral)"
         },
         {
           "name": "Noggra"
@@ -124976,6 +126293,9 @@
           "name": "Oatmeal cookie"
         },
         {
+          "name": "Obel Wochak"
+        },
+        {
           "name": "Obelisks of ancient Vulcan"
         },
         {
@@ -125139,6 +126459,9 @@
         },
         {
           "name": "Olafson"
+        },
+        {
+          "name": "Olatunde Osunsanmi (Fleet Admiral)"
         },
         {
           "name": "Old Axton"
@@ -125576,6 +126899,9 @@
           "name": "Osinar VI"
         },
         {
+          "name": "Osiris P. Grullon"
+        },
+        {
           "name": "Oskoid"
         },
         {
@@ -125730,6 +127056,9 @@
         },
         {
           "name": "Pa'nar Syndrome"
+        },
+        {
+          "name": "Pa-Pa-Pa-Papageno"
         },
         {
           "name": "Pablo Baytart"
@@ -127823,6 +129152,9 @@
           "name": "Ramsey (Crewman)"
         },
         {
+          "name": "Ramsey of Light"
+        },
+        {
           "name": "Ramune"
         },
         {
@@ -127944,6 +129276,9 @@
         },
         {
           "name": "Ray Wilkerson"
+        },
+        {
+          "name": "Ray Zandboer (ACPO)"
         },
         {
           "name": "Rayburn"
@@ -128591,6 +129926,9 @@
           "name": "Rob Johnson (Starfleet)"
         },
         {
+          "name": "Rob'n J'nson"
+        },
+        {
           "name": "Robbins"
         },
         {
@@ -128679,6 +130017,9 @@
         },
         {
           "name": "Rocky Road"
+        },
+        {
+          "name": "Rod Roddenberry (Fleet Admiral)"
         },
         {
           "name": "Rodek"
@@ -128897,6 +130238,9 @@
           "name": "Ron Wilkinson (24th century)"
         },
         {
+          "name": "Ron Williams"
+        },
+        {
           "name": "Ronald A. Bryce"
         },
         {
@@ -129005,10 +130349,10 @@
           "name": "Rosetta Stone"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -129377,6 +130721,9 @@
           "name": "Sabak's armor"
         },
         {
+          "name": "Sabba Pollak"
+        },
+        {
           "name": "Saber bear"
         },
         {
@@ -129564,6 +130911,9 @@
         },
         {
           "name": "Sam Rutherford"
+        },
+        {
+          "name": "Samantha Tong (Lieutenant Commander)"
         },
         {
           "name": "Samantha Wildman"
@@ -132296,6 +133646,9 @@
           "name": "Strudel"
         },
         {
+          "name": "Stuart M. Pearce (Vice Admiral)"
+        },
+        {
           "name": "Stuart Roosa"
         },
         {
@@ -132468,6 +133821,9 @@
         },
         {
           "name": "Suvin IV"
+        },
+        {
+          "name": "Suvwl' tlhlq"
         },
         {
           "name": "Suzanne Dumont"
@@ -133370,6 +134726,9 @@
           "name": "Taurus II"
         },
         {
+          "name": "Taurus VII"
+        },
+        {
           "name": "Tavana"
         },
         {
@@ -133730,6 +135089,9 @@
           "name": "Tethys III"
         },
         {
+          "name": "Tetis Barr"
+        },
+        {
           "name": "Tevmel"
         },
         {
@@ -133764,6 +135126,9 @@
         },
         {
           "name": "Thanksgiving"
+        },
+        {
+          "name": "Thar"
         },
         {
           "name": "Thasus"
@@ -134028,6 +135393,9 @@
         },
         {
           "name": "The Long Dark Tunnel"
+        },
+        {
+          "name": "The Magic Flute"
         },
         {
           "name": "The Marriage of Figaro"
@@ -134544,6 +135912,9 @@
         },
         {
           "name": "Timothy Lang"
+        },
+        {
+          "name": "Timothy M.R. Peel"
         },
         {
           "name": "Tina Lawton"
@@ -135119,6 +136490,9 @@
           "name": "Trinity Auditorium"
         },
         {
+          "name": "Trinity Bridges"
+        },
+        {
           "name": "Trinity Church"
         },
         {
@@ -135435,6 +136809,9 @@
         },
         {
           "name": "Umbato"
+        },
+        {
+          "name": "Ummi De'de"
         },
         {
           "name": "Umoth VIII"
@@ -136946,6 +138323,9 @@
           "name": "Venusian Chronicles"
         },
         {
+          "name": "Veqlargh toQ"
+        },
+        {
           "name": "Verdanis"
         },
         {
@@ -137571,6 +138951,9 @@
         },
         {
           "name": "W. Woods (mirror)"
+        },
+        {
+          "name": "W.F. Beyer"
         },
         {
           "name": "W.M. Jefferies"
@@ -144229,6 +145612,18 @@
       "stars": [
         {
           "name": "W. Woods (mirror) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "W.F. Beyer",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "W.F. Beyer primary",
           "type": "star"
         }
       ],
