@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-02-01T05:16:50+00:00",
+    "generatedAt": "2026-02-08T05:15:11+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7222,
+      "bodyPages": 7215,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6462,
-      "unassigned": 760,
+      "attached": 6459,
+      "unassigned": 756,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -16195,9 +16195,6 @@
       "planets": [
         {
           "name": "Bilbringi"
-        },
-        {
-          "name": "Bilbringi VII"
         }
       ]
     },
@@ -28229,6 +28226,9 @@
           "name": "Gus Treta"
         },
         {
+          "name": "Gus Treta/Canon"
+        },
+        {
           "name": "Selonia"
         },
         {
@@ -30070,6 +30070,18 @@
       "stars": [
         {
           "name": "Croyden system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Croynar sector alphanumeric designated system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Croynar sector alphanumeric designated system primary",
           "type": "star"
         }
       ],
@@ -69895,9 +69907,6 @@
           "name": "Hosk"
         },
         {
-          "name": "Hosk Station/Legends"
-        },
-        {
           "name": "Indobok"
         },
         {
@@ -85336,11 +85345,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Vergesso Prime/Legends"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Lybeya system/Legends",
@@ -94996,10 +95001,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -121172,10 +121177,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -121338,11 +121343,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Roche asteroid field"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Rocrin system",
@@ -127061,6 +127062,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Sern Prime"
+        },
         {
           "name": "Sern Prime/Legends"
         }
@@ -148910,9 +148914,6 @@
           "name": "Arges"
         },
         {
-          "name": "Arkanian homeworld"
-        },
-        {
           "name": "Armorer's planet"
         },
         {
@@ -148998,6 +148999,12 @@
         },
         {
           "name": "Caddaw"
+        },
+        {
+          "name": "Capital"
+        },
+        {
+          "name": "Capital/Legends"
         },
         {
           "name": "Cassandran Worlds"
@@ -149699,9 +149706,6 @@
           "name": "Lourdes' homeworld"
         },
         {
-          "name": "Luminous Magnificence"
-        },
-        {
           "name": "Lupr'or homeworld"
         },
         {
@@ -149927,16 +149931,10 @@
           "name": "Pirros"
         },
         {
-          "name": "Point Nadir"
-        },
-        {
           "name": "Polarca VII"
         },
         {
           "name": "Portug"
-        },
-        {
-          "name": "Portwoo"
         },
         {
           "name": "Preene"
@@ -151013,9 +151011,6 @@
           "name": "Veeros"
         },
         {
-          "name": "Vercrepht"
-        },
-        {
           "name": "Vernol homeworld"
         },
         {
@@ -151068,9 +151063,6 @@
         },
         {
           "name": "World (tripod home world)"
-        },
-        {
-          "name": "Worrite homeworld"
         },
         {
           "name": "Wull"
@@ -151138,18 +151130,6 @@
       "stars": [
         {
           "name": "Unavartan system primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Unidentified alphanumeric designated system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Unidentified alphanumeric designated system primary",
           "type": "star"
         }
       ],
@@ -151622,11 +151602,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Unox"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Unroola Dawn system",
