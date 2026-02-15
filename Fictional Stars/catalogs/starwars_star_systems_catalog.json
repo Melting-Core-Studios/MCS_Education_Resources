@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-02-08T05:15:11+00:00",
+    "generatedAt": "2026-02-15T05:07:08+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7215,
+      "bodyPages": 7190,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6459,
-      "unassigned": 756,
+      "attached": 6452,
+      "unassigned": 738,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -9118,11 +9118,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Asmall"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Asmall system/Legends",
@@ -28226,7 +28222,7 @@
           "name": "Gus Treta"
         },
         {
-          "name": "Gus Treta/Canon"
+          "name": "Gus Treta/Legends"
         },
         {
           "name": "Selonia"
@@ -46809,11 +46805,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Fegorosk IV"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Fegorosk system/Legends",
@@ -56637,11 +56629,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Greeve"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Greeve system/Legends",
@@ -63980,11 +63968,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Indellian"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Indellian system/Legends",
@@ -89446,9 +89430,6 @@
       "planets": [
         {
           "name": "Mechis II"
-        },
-        {
-          "name": "Mechis III"
         },
         {
           "name": "Mechis III/Legends"
@@ -145417,11 +145398,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Trantor"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Trantor system/Legends",
@@ -148866,12 +148843,6 @@
           "name": "Acquis"
         },
         {
-          "name": "Agriworld"
-        },
-        {
-          "name": "Agriworld/Legends"
-        },
-        {
           "name": "Ah Re Won"
         },
         {
@@ -148968,9 +148939,6 @@
           "name": "Bartool"
         },
         {
-          "name": "Baseworld"
-        },
-        {
           "name": "Bedlann"
         },
         {
@@ -148999,12 +148967,6 @@
         },
         {
           "name": "Caddaw"
-        },
-        {
-          "name": "Capital"
-        },
-        {
-          "name": "Capital/Legends"
         },
         {
           "name": "Cassandran Worlds"
@@ -149148,12 +149110,6 @@
           "name": "Ebruchi homeworld"
         },
         {
-          "name": "Ecumenopolis"
-        },
-        {
-          "name": "Ecumenopolis/Legends"
-        },
-        {
           "name": "Eeka"
         },
         {
@@ -149190,12 +149146,6 @@
           "name": "Exoplanet"
         },
         {
-          "name": "Factory world"
-        },
-        {
-          "name": "Factory world/Legends"
-        },
-        {
           "name": "Faket"
         },
         {
@@ -149206,12 +149156,6 @@
         },
         {
           "name": "Foroon Worlds"
-        },
-        {
-          "name": "Fortress world"
-        },
-        {
-          "name": "Fortress world/Legends"
         },
         {
           "name": "Fosh homeworld"
@@ -149326,12 +149270,6 @@
         },
         {
           "name": "Hashaulh"
-        },
-        {
-          "name": "Homeworld"
-        },
-        {
-          "name": "Homeworld/Legends"
         },
         {
           "name": "Horford"
@@ -149515,6 +149453,9 @@
         },
         {
           "name": "Lankor VI"
+        },
+        {
+          "name": "Lantaana"
         },
         {
           "name": "Lanupa"
@@ -149733,6 +149674,9 @@
           "name": "Mastor"
         },
         {
+          "name": "Matt Talon's homeworld"
+        },
+        {
           "name": "Maya Kovel/Legends"
         },
         {
@@ -149943,12 +149887,6 @@
           "name": "Promencious Four"
         },
         {
-          "name": "Purse world"
-        },
-        {
-          "name": "Purse world/Legends"
-        },
-        {
           "name": "Qina/Legends"
         },
         {
@@ -150039,12 +149977,6 @@
           "name": "Safe Home"
         },
         {
-          "name": "Safe world"
-        },
-        {
-          "name": "Safe world/Legends"
-        },
-        {
           "name": "Sagamore"
         },
         {
@@ -150124,9 +150056,6 @@
         },
         {
           "name": "Skustell/Legends"
-        },
-        {
-          "name": "Slave world"
         },
         {
           "name": "Sleeth (planet)"
@@ -150262,12 +150191,6 @@
         },
         {
           "name": "Three Ellas"
-        },
-        {
-          "name": "Throneworld"
-        },
-        {
-          "name": "Throneworld/Legends"
         },
         {
           "name": "Tibalt/LEGO"
@@ -150873,6 +150796,9 @@
           "name": "Unidentified planet (weapons restrictions)"
         },
         {
+          "name": "Unidentified planet (West Fissure)"
+        },
+        {
           "name": "Unidentified planet (Wilds)"
         },
         {
@@ -150981,6 +150907,9 @@
           "name": "Unnap"
         },
         {
+          "name": "Urubai"
+        },
+        {
           "name": "Useria"
         },
         {
@@ -151036,12 +150965,6 @@
         },
         {
           "name": "Waltar"
-        },
-        {
-          "name": "Waterworld"
-        },
-        {
-          "name": "Waterworld/Legends"
         },
         {
           "name": "Wayyl"
@@ -161498,11 +161421,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Xiunsrus"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Xiunsrus system/Legends",

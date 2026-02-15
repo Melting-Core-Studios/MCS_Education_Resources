@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-02-08T05:10:30+00:00",
+    "generatedAt": "2026-02-15T05:02:36+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12351,
+      "bodyPages": 12366,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12351,
+      "unassigned": 12366,
       "createdSystemsFromBodies": 0
     }
   },
@@ -4599,6 +4599,18 @@
       "planets": []
     },
     {
+      "name": "Almatha",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Almatha primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Almond Basket",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -4755,6 +4767,54 @@
       "planets": []
     },
     {
+      "name": "Alpha Bayard",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Bayard primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Beaird",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Beaird primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Berman",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Berman primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Brown",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Brown primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha Centauri",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -4791,6 +4851,30 @@
       "planets": []
     },
     {
+      "name": "Alpha Cooper",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Cooper primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Crum",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Crum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha Doradus system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -4815,12 +4899,36 @@
       "planets": []
     },
     {
+      "name": "Alpha Glover",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Glover primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha Hydri",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Alpha Hydri primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Johnson",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Johnson primary",
           "type": "star"
         }
       ],
@@ -4863,12 +4971,36 @@
       "planets": []
     },
     {
+      "name": "Alpha McCusker",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha McCusker primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha Mensae",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Alpha Mensae primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Meyers",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Meyers primary",
           "type": "star"
         }
       ],
@@ -4911,6 +5043,42 @@
       "planets": []
     },
     {
+      "name": "Alpha Peets",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Peets primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Piller",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Piller primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Saunders",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Saunders primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha Shiro",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -4923,12 +5091,36 @@
       "planets": []
     },
     {
+      "name": "Alpha Suhr",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Suhr primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Alpha system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Wright",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Wright primary",
           "type": "star"
         }
       ],
@@ -5109,6 +5301,18 @@
       "stars": [
         {
           "name": "Alyssia Will-Ma primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alzirr",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alzirr primary",
           "type": "star"
         }
       ],
@@ -13323,6 +13527,18 @@
       "planets": []
     },
     {
+      "name": "Boothby Memorial Park",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Boothby Memorial Park primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Boothby Supernova",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -14415,12 +14631,12 @@
       "planets": []
     },
     {
-      "name": "Britni Peters",
+      "name": "Britni Peters (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Britni Peters primary",
+          "name": "Britni Peters (Starfleet) primary",
           "type": "star"
         }
       ],
@@ -19359,6 +19575,18 @@
       "planets": []
     },
     {
+      "name": "Chi (Captain)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Chi (Captain) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Chi Ceti A",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -22857,6 +23085,18 @@
       "stars": [
         {
           "name": "County Meath primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Course catalogue",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Course catalogue primary",
           "type": "star"
         }
       ],
@@ -28635,6 +28875,18 @@
       "planets": []
     },
     {
+      "name": "Dorvan",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dorvan primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Double bass",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -29013,6 +29265,18 @@
       "stars": [
         {
           "name": "Dramen star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Draygo",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Draygo primary",
           "type": "star"
         }
       ],
@@ -39987,12 +40251,12 @@
       "planets": []
     },
     {
-      "name": "Golden retriever",
+      "name": "Golden Retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden retriever primary",
+          "name": "Golden Retriever primary",
           "type": "star"
         }
       ],
@@ -56943,12 +57207,12 @@
       "planets": []
     },
     {
-      "name": "Kyle Djokovic",
+      "name": "Kyle Jokovich",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Kyle Djokovic primary",
+          "name": "Kyle Jokovich primary",
           "type": "star"
         }
       ],
@@ -69987,6 +70251,18 @@
       "planets": []
     },
     {
+      "name": "Nestor-Zullo",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nestor-Zullo primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Net Access",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -76113,6 +76389,18 @@
       "stars": [
         {
           "name": "Persian primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Personnel assignment log",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Personnel assignment log primary",
           "type": "star"
         }
       ],
@@ -84087,12 +84375,12 @@
       "planets": []
     },
     {
-      "name": "Ross (Cadet)",
+      "name": "Ross (cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (Cadet) primary",
+          "name": "Ross (cadet) primary",
           "type": "star"
         }
       ],
@@ -94935,6 +95223,18 @@
       "planets": []
     },
     {
+      "name": "Sullivan",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sullivan primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Sullivan's Public House",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -95925,6 +96225,18 @@
       "stars": [
         {
           "name": "T-bone steak primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "T-Tauri system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "T-Tauri system primary",
           "type": "star"
         }
       ],
@@ -101841,6 +102153,18 @@
       "stars": [
         {
           "name": "Tommy Dorsey primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tomov",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tomov primary",
           "type": "star"
         }
       ],
@@ -107954,6 +108278,9 @@
           "name": "Boothby"
         },
         {
+          "name": "Boothby Memorial Park"
+        },
+        {
           "name": "Boothby Supernova"
         },
         {
@@ -108299,7 +108626,7 @@
           "name": "British Radio Network"
         },
         {
-          "name": "Britni Peters"
+          "name": "Britni Peters (Starfleet)"
         },
         {
           "name": "Broadcasting"
@@ -109871,6 +110198,9 @@
           "name": "Chi"
         },
         {
+          "name": "Chi (Captain)"
+        },
+        {
           "name": "Chia"
         },
         {
@@ -110793,6 +111123,9 @@
         },
         {
           "name": "County Meath"
+        },
+        {
+          "name": "Course catalogue"
         },
         {
           "name": "Court Martial (story)"
@@ -115820,6 +116153,9 @@
           "name": "Gettysburg"
         },
         {
+          "name": "Ghan'aq"
+        },
+        {
           "name": "Ghana"
         },
         {
@@ -116036,10 +116372,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
           "name": "Goldfish"
@@ -117374,6 +117710,9 @@
           "name": "Hiren"
         },
         {
+          "name": "Hirogen Prime"
+        },
+        {
           "name": "Hispanic"
         },
         {
@@ -117645,6 +117984,9 @@
         },
         {
           "name": "House of Kraag"
+        },
+        {
+          "name": "House of Kraag's ship"
         },
         {
           "name": "House of Martok"
@@ -121385,16 +121727,16 @@
           "name": "Klingon"
         },
         {
-          "name": "Klingon Bird-of-Prey"
+          "name": "Klingon Bird-of-Prey (2150s)"
+        },
+        {
+          "name": "Klingon Bird-of-Prey (2230s)"
         },
         {
           "name": "Klingon Bird-of-Prey (2260s)"
         },
         {
-          "name": "Klingon Bird-of-Prey (22nd century)"
-        },
-        {
-          "name": "Klingon Bird-of-Prey (mid 23rd century)"
+          "name": "Klingon Bird-of-Prey (2280s)"
         },
         {
           "name": "Klingon blade weapons"
@@ -121437,6 +121779,9 @@
         },
         {
           "name": "Klingon guitar"
+        },
+        {
+          "name": "Klingon heavy cargo carrier"
         },
         {
           "name": "Klingon High Council"
@@ -122009,7 +122354,7 @@
           "name": "Kyle Courter (Starfleet)"
         },
         {
-          "name": "Kyle Djokovic"
+          "name": "Kyle Jokovich"
         },
         {
           "name": "Kyle Rowen"
@@ -126281,6 +126626,9 @@
           "name": "Nestor"
         },
         {
+          "name": "Nestor-Zullo"
+        },
+        {
           "name": "Net Access"
         },
         {
@@ -128381,6 +128729,9 @@
           "name": "Persis"
         },
         {
+          "name": "Personnel assignment log"
+        },
+        {
           "name": "Personnel Deployment"
         },
         {
@@ -128730,6 +129081,9 @@
         },
         {
           "name": "Planet Q"
+        },
+        {
+          "name": "Planet Ray"
         },
         {
           "name": "Planet Two"
@@ -129108,6 +129462,9 @@
         },
         {
           "name": "Primate"
+        },
+        {
+          "name": "Prime daughter"
         },
         {
           "name": "Prime Directive"
@@ -131051,10 +131408,10 @@
           "name": "Rosetta Stone"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -134420,6 +134777,9 @@
           "name": "Suliban homeworld"
         },
         {
+          "name": "Sullivan"
+        },
+        {
           "name": "Sullivan's Planet"
         },
         {
@@ -135483,6 +135843,12 @@
         },
         {
           "name": "Taya (name)"
+        },
+        {
+          "name": "Taygeta I"
+        },
+        {
+          "name": "Taygeta IV"
         },
         {
           "name": "Taylor (Admiral)"
@@ -136848,6 +137214,9 @@
         },
         {
           "name": "Tommy Dorsey"
+        },
+        {
+          "name": "Tomov"
         },
         {
           "name": "Tonalnan"
