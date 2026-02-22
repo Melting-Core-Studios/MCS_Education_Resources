@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-02-15T05:02:36+00:00",
+    "generatedAt": "2026-02-22T04:58:45+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12366,
+      "bodyPages": 12385,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12366,
+      "unassigned": 12385,
       "createdSystemsFromBodies": 0
     }
   },
@@ -21,18 +21,6 @@
       "stars": [
         {
           "name": "& Juliet primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "/Xam Abathwa",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "/Xam Abathwa primary",
           "type": "star"
         }
       ],
@@ -219,12 +207,36 @@
       "planets": []
     },
     {
+      "name": "16 Cygni",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "16 Cygni primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "17 Cygni",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "17 Cygni primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "18 Puppis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "18 Puppis primary",
           "type": "star"
         }
       ],
@@ -801,6 +813,18 @@
       "stars": [
         {
           "name": "717 Olympic primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "74 Orionis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "74 Orionis primary",
           "type": "star"
         }
       ],
@@ -5055,6 +5079,18 @@
       "planets": []
     },
     {
+      "name": "Alpha Pictoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Pictoris primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Alpha Piller",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -5109,6 +5145,18 @@
       "stars": [
         {
           "name": "Alpha system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Volantis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Volantis primary",
           "type": "star"
         }
       ],
@@ -9651,6 +9699,18 @@
       "planets": []
     },
     {
+      "name": "Bajor Club",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bajor Club primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Bajoran system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -10113,6 +10173,18 @@
       "stars": [
         {
           "name": "Barcelona primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Bardeezi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bardeezi primary",
           "type": "star"
         }
       ],
@@ -13383,18 +13455,6 @@
       "planets": []
     },
     {
-      "name": "Bombay",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Bombay primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Bombay Sapphire",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -16425,6 +16485,18 @@
       "stars": [
         {
           "name": "Calder system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Caldik",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Caldik primary",
           "type": "star"
         }
       ],
@@ -22419,6 +22491,18 @@
       "planets": []
     },
     {
+      "name": "Conscious Existence on Earth",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Conscious Existence on Earth primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Constitution of the United States",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -27315,6 +27399,18 @@
       "planets": []
     },
     {
+      "name": "Denver",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Denver primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Department (starship section)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -30363,6 +30459,18 @@
       "planets": []
     },
     {
+      "name": "Earth Science Club",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Earth Science Club primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Earth Sciences Institute",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -32799,6 +32907,18 @@
       "planets": []
     },
     {
+      "name": "Escape Starships",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Escape Starships primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Escher",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -33789,6 +33909,18 @@
       "stars": [
         {
           "name": "Faerie Magick primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Fahleena",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Fahleena primary",
           "type": "star"
         }
       ],
@@ -45819,6 +45951,18 @@
       "planets": []
     },
     {
+      "name": "Hurricane Katrina",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Hurricane Katrina primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Hushpuppy",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -46497,6 +46641,18 @@
       "stars": [
         {
           "name": "Iberian Peninsula primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ibiza",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ibiza primary",
           "type": "star"
         }
       ],
@@ -56421,6 +56577,18 @@
       "stars": [
         {
           "name": "Klaestron system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Klingon Bat'leth Club",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Klingon Bat'leth Club primary",
           "type": "star"
         }
       ],
@@ -67203,6 +67371,18 @@
       "planets": []
     },
     {
+      "name": "Miss Vickies",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Miss Vickies primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mission Control Center",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -67257,6 +67437,18 @@
       "stars": [
         {
           "name": "Mississippi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Mississippi River",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mississippi River primary",
           "type": "star"
         }
       ],
@@ -67521,6 +67713,18 @@
       "stars": [
         {
           "name": "Model A primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Model Federation Diplomacy Club",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Model Federation Diplomacy Club primary",
           "type": "star"
         }
       ],
@@ -68697,6 +68901,18 @@
       "stars": [
         {
           "name": "Multispectral subspace engine design primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Mumbai",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mumbai primary",
           "type": "star"
         }
       ],
@@ -70467,6 +70683,18 @@
       "planets": []
     },
     {
+      "name": "New Orleans Saints",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "New Orleans Saints primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "New United Nations",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -71073,6 +71301,18 @@
       "stars": [
         {
           "name": "Nissan Sentra primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Nivoch system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nivoch system primary",
           "type": "star"
         }
       ],
@@ -72765,6 +73005,18 @@
       "stars": [
         {
           "name": "Ohniaka system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ohtani",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ohtani primary",
           "type": "star"
         }
       ],
@@ -76947,6 +77199,18 @@
       "planets": []
     },
     {
+      "name": "Philosophy Society",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Philosophy Society primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Phineas Tarbolde and the Nightingale Women",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -79425,6 +79689,18 @@
       "stars": [
         {
           "name": "Pyrithia primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Q'mau system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Q'mau system primary",
           "type": "star"
         }
       ],
@@ -83691,6 +83967,18 @@
       "planets": []
     },
     {
+      "name": "Rog",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rog primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Roger B. Chaffee",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -84375,12 +84663,12 @@
       "planets": []
     },
     {
-      "name": "Ross (cadet)",
+      "name": "Ross (Cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (cadet) primary",
+          "name": "Ross (Cadet) primary",
           "type": "star"
         }
       ],
@@ -97251,6 +97539,18 @@
       "planets": []
     },
     {
+      "name": "Tales From the Frontier",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tales From the Frontier primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tallahassee",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -97893,6 +98193,18 @@
       "stars": [
         {
           "name": "Te' Mpest primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tea leaves",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tea leaves primary",
           "type": "star"
         }
       ],
@@ -104195,9 +104507,6 @@
           "name": "'monehead"
         },
         {
-          "name": "/Xam Abathwa"
-        },
-        {
           "name": "0718"
         },
         {
@@ -106844,6 +107153,9 @@
           "name": "Bajor (city)"
         },
         {
+          "name": "Bajor Club"
+        },
+        {
           "name": "Bajor I"
         },
         {
@@ -108234,9 +108546,6 @@
         },
         {
           "name": "Boma"
-        },
-        {
-          "name": "Bombay"
         },
         {
           "name": "Bombay Sapphire"
@@ -110939,6 +111248,9 @@
           "name": "Connors"
         },
         {
+          "name": "Conscious Existence on Earth"
+        },
+        {
           "name": "Constitution of the United States"
         },
         {
@@ -112427,6 +112739,9 @@
           "name": "Denobula"
         },
         {
+          "name": "Denver"
+        },
+        {
           "name": "Department (starship section)"
         },
         {
@@ -113357,6 +113672,9 @@
           "name": "Earth satellite network"
         },
         {
+          "name": "Earth Science Club"
+        },
+        {
           "name": "Earth Sciences Institute"
         },
         {
@@ -114075,6 +114393,9 @@
         },
         {
           "name": "ESA"
+        },
+        {
+          "name": "Escape Starships"
         },
         {
           "name": "Escher"
@@ -118160,6 +118481,9 @@
           "name": "Hurkos III"
         },
         {
+          "name": "Hurricane Katrina"
+        },
+        {
           "name": "Hurwl'"
         },
         {
@@ -118338,6 +118662,9 @@
         },
         {
           "name": "Iberian Peninsula"
+        },
+        {
+          "name": "Ibiza"
         },
         {
           "name": "Ibraheem Jara (Starfleet)"
@@ -121725,6 +122052,9 @@
         },
         {
           "name": "Klingon"
+        },
+        {
+          "name": "Klingon Bat'leth Club"
         },
         {
           "name": "Klingon Bird-of-Prey (2150s)"
@@ -125585,6 +125915,9 @@
           "name": "Mislen"
         },
         {
+          "name": "Miss Vickies"
+        },
+        {
           "name": "Mission Control Center"
         },
         {
@@ -125598,6 +125931,9 @@
         },
         {
           "name": "Mississippi"
+        },
+        {
+          "name": "Mississippi River"
         },
         {
           "name": "Missouri"
@@ -125700,6 +126036,9 @@
         },
         {
           "name": "Model A"
+        },
+        {
+          "name": "Model Federation Diplomacy Club"
         },
         {
           "name": "Model T"
@@ -126069,6 +126408,9 @@
         },
         {
           "name": "Multispectral subspace engine design"
+        },
+        {
+          "name": "Mumbai"
         },
         {
           "name": "Mundahla"
@@ -126711,6 +127053,9 @@
         },
         {
           "name": "New Orleans"
+        },
+        {
+          "name": "New Orleans Saints"
         },
         {
           "name": "New Paris"
@@ -127458,6 +127803,9 @@
         },
         {
           "name": "Ohniaka III Research Station personnel"
+        },
+        {
+          "name": "Ohtani"
         },
         {
           "name": "Oil well"
@@ -128871,6 +129219,9 @@
         },
         {
           "name": "Phillips"
+        },
+        {
+          "name": "Philosophy Society"
         },
         {
           "name": "Phineas Tarbolde and the Nightingale Women"
@@ -131408,10 +131759,10 @@
           "name": "Rosetta Stone"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -135557,6 +135908,9 @@
           "name": "Talaxia"
         },
         {
+          "name": "Tales From the Frontier"
+        },
+        {
           "name": "Talij"
         },
         {
@@ -135870,6 +136224,9 @@
         },
         {
           "name": "Te'nari"
+        },
+        {
+          "name": "Tea leaves"
         },
         {
           "name": "Teagarden"
@@ -138896,6 +139253,12 @@
           "name": "USS Merced personnel"
         },
         {
+          "name": "USS Miyazaki dedication plaque"
+        },
+        {
+          "name": "USS Miyazaki personnel"
+        },
+        {
           "name": "USS Monitor (ironclad)"
         },
         {
@@ -140207,6 +140570,9 @@
           "name": "Washington Building"
         },
         {
+          "name": "Washington Monument"
+        },
+        {
           "name": "Washington, DC"
         },
         {
@@ -141282,6 +141648,9 @@
         },
         {
           "name": "Étude"
+        },
+        {
+          "name": "ǀXam Abathwa"
         }
       ]
     },
@@ -144100,6 +144469,30 @@
       "stars": [
         {
           "name": "USS Merced personnel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "USS Miyazaki dedication plaque",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "USS Miyazaki dedication plaque primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "USS Miyazaki personnel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "USS Miyazaki personnel primary",
           "type": "star"
         }
       ],
@@ -147250,6 +147643,18 @@
       "planets": []
     },
     {
+      "name": "Washington Monument",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Washington Monument primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Washington, DC",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -149602,6 +150007,18 @@
       "planets": []
     },
     {
+      "name": "Xepolite system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Xepolite system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Xi (Greek)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -150880,6 +151297,18 @@
       "stars": [
         {
           "name": "Étude primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "ǀXam Abathwa",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "ǀXam Abathwa primary",
           "type": "star"
         }
       ],

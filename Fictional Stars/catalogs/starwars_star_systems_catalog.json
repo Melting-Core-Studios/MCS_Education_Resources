@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-02-15T05:07:08+00:00",
+    "generatedAt": "2026-02-22T05:03:28+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7190,
+      "bodyPages": 7188,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6452,
-      "unassigned": 738,
-      "createdSystemsFromBodies": 26
+      "attached": 6449,
+      "unassigned": 739,
+      "createdSystemsFromBodies": 25
     },
     "includesMoons": true
   },
@@ -21294,9 +21294,6 @@
       "planets": [
         {
           "name": "Caloria"
-        },
-        {
-          "name": "Caloria/Legends"
         }
       ]
     },
@@ -23105,11 +23102,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Cathis"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Cathis system/Legends",
@@ -31744,14 +31737,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Dalastine"
-        },
-        {
-          "name": "Dalastine IV"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Dalastine system/Legends",
@@ -35545,7 +35531,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Unidentified planet (Derosha system)"
+        }
+      ]
     },
     {
       "name": "Derra system",
@@ -44947,6 +44937,9 @@
       "planets": [
         {
           "name": "Öetrago"
+        },
+        {
+          "name": "Öetrago/Legends"
         }
       ]
     },
@@ -94982,10 +94975,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -101859,22 +101852,6 @@
         }
       ],
       "planets": []
-    },
-    {
-      "name": "Oetrago system",
-      "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
-      "stars": [
-        {
-          "name": "Oetrago system primary",
-          "type": "star"
-        }
-      ],
-      "planets": [
-        {
-          "name": "Öetrago/Legends"
-        }
-      ]
     },
     {
       "name": "Off-Canau system",
@@ -140326,6 +140303,18 @@
       "planets": []
     },
     {
+      "name": "Tessellate system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tessellate system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tessen system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -149269,6 +149258,9 @@
           "name": "Har Worlds"
         },
         {
+          "name": "Harreld"
+        },
+        {
           "name": "Hashaulh"
         },
         {
@@ -149443,7 +149435,7 @@
           "name": "Kyaa"
         },
         {
-          "name": "Kylah Lohmat's homeworld"
+          "name": "Kylah Lohmata's homeworld"
         },
         {
           "name": "La'drach"
