@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-02-22T05:03:28+00:00",
+    "generatedAt": "2026-03-01T05:07:31+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7188,
+      "bodyPages": 7191,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6449,
-      "unassigned": 739,
-      "createdSystemsFromBodies": 25
+      "attached": 6451,
+      "unassigned": 740,
+      "createdSystemsFromBodies": 26
     },
     "includesMoons": true
   },
@@ -21410,6 +21410,25 @@
       "planets": []
     },
     {
+      "name": "Calzag system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Calzag system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Hyban"
+        },
+        {
+          "name": "Unidentified planet (Calzag system)"
+        }
+      ]
+    },
+    {
       "name": "Camaria system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -30206,11 +30225,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Crystan V"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Crystan system/Legends",
@@ -59440,6 +59455,18 @@
       "planets": []
     },
     {
+      "name": "Hazell system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Hazell system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Hazun system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -66499,6 +66526,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Janix's star system",
+      "category": "Single",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "stars": [
+        {
+          "name": "Janix's star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Janix"
+        }
+      ]
     },
     {
       "name": "Jankok system",
@@ -121135,10 +121178,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -149309,9 +149352,6 @@
           "name": "Jagomir"
         },
         {
-          "name": "Janix"
-        },
-        {
           "name": "Jaren's planet"
         },
         {
@@ -149745,6 +149785,9 @@
         },
         {
           "name": "Nameless moon"
+        },
+        {
+          "name": "Nameless planet (distress signal)"
         },
         {
           "name": "Nar Silvso"
@@ -150441,6 +150484,9 @@
         },
         {
           "name": "Unidentified mining planet"
+        },
+        {
+          "name": "Unidentified mining planet (Empire)"
         },
         {
           "name": "Unidentified minor moon"
