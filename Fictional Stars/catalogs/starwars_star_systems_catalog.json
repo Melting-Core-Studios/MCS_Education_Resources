@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-03-01T05:07:31+00:00",
+    "generatedAt": "2026-03-08T04:58:12+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7191,
+      "bodyPages": 7194,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6451,
-      "unassigned": 740,
+      "attached": 6453,
+      "unassigned": 741,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -20434,6 +20434,22 @@
       "planets": []
     },
     {
+      "name": "Butler system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Butler system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Rive"
+        }
+      ]
+    },
+    {
       "name": "Byblos system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -26547,6 +26563,18 @@
       "stars": [
         {
           "name": "Cimarosa system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Cina system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cina system primary",
           "type": "star"
         }
       ],
@@ -121178,10 +121206,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -124812,6 +124840,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Sardich system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sardich system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Sardich"
+        }
+      ]
     },
     {
       "name": "Sardoran system",
@@ -150976,6 +151020,9 @@
         },
         {
           "name": "Veeros"
+        },
+        {
+          "name": "Verdusia"
         },
         {
           "name": "Vernol homeworld"

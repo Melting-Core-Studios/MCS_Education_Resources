@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-03-01T05:02:14+00:00",
+    "generatedAt": "2026-03-08T04:52:40+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12398,
+      "bodyPages": 12409,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12398,
+      "unassigned": 12409,
       "createdSystemsFromBodies": 0
     }
   },
@@ -453,6 +453,18 @@
       "stars": [
         {
           "name": "37 Geminorum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "38 Lyncis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "38 Lyncis primary",
           "type": "star"
         }
       ],
@@ -9531,6 +9543,18 @@
       "planets": []
     },
     {
+      "name": "Ba-Dates system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ba-Dates system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Babel Conference attendees",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -10341,6 +10365,18 @@
       "stars": [
         {
           "name": "Barnes primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Barnett's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Barnett's Star primary",
           "type": "star"
         }
       ],
@@ -40731,12 +40767,12 @@
       "planets": []
     },
     {
-      "name": "Golden Retriever",
+      "name": "Golden retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden Retriever primary",
+          "name": "Golden retriever primary",
           "type": "star"
         }
       ],
@@ -68055,6 +68091,18 @@
       "planets": []
     },
     {
+      "name": "Modavi system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Modavi system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Modean system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -78879,6 +78927,18 @@
       "planets": []
     },
     {
+      "name": "Portas",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Portas primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Porte de Nesle",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -85041,6 +85101,18 @@
       "stars": [
         {
           "name": "Rosetta Stone primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Rosmersholm",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rosmersholm primary",
           "type": "star"
         }
       ],
@@ -104823,6 +104895,18 @@
       "planets": []
     },
     {
+      "name": "Ultima Thule system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ultima Thule system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Ulysses",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -112532,6 +112616,9 @@
           "name": "Dalen Quaice"
         },
         {
+          "name": "Daliwaka"
+        },
+        {
           "name": "Dallas"
         },
         {
@@ -114086,6 +114173,9 @@
           "name": "Earth Cold War"
         },
         {
+          "name": "Earth Colony II"
+        },
+        {
           "name": "Earth Defense Network"
         },
         {
@@ -114513,6 +114603,9 @@
         },
         {
           "name": "Els Renora"
+        },
+        {
+          "name": "Elworth V"
         },
         {
           "name": "Elysia inhabitants"
@@ -115295,10 +115388,10 @@
           "name": "Ferengi casino ship"
         },
         {
-          "name": "Ferengi code"
+          "name": "Ferengi Code"
         },
         {
-          "name": "Ferengi Code"
+          "name": "Ferengi code"
         },
         {
           "name": "Ferengi Commerce Authority"
@@ -116456,6 +116549,9 @@
           "name": "Galleon"
         },
         {
+          "name": "Gallima"
+        },
+        {
           "name": "Gallitep labor camp"
         },
         {
@@ -117125,10 +117221,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
           "name": "Goldfish"
@@ -117933,6 +118029,9 @@
         },
         {
           "name": "Hannity"
+        },
+        {
+          "name": "Hanolan (planet)"
         },
         {
           "name": "Hanon IV"
@@ -119592,6 +119691,9 @@
         },
         {
           "name": "Intrepid type"
+        },
+        {
+          "name": "Introduction to Klingon Grammer"
         },
         {
           "name": "Invernia II"
@@ -122610,6 +122712,9 @@
         },
         {
           "name": "Klingon planets"
+        },
+        {
+          "name": "Klingon Power Scepter"
         },
         {
           "name": "Klingon raider"
@@ -126473,6 +126578,9 @@
           "name": "Moby Dick"
         },
         {
+          "name": "Modean"
+        },
+        {
           "name": "Model A"
         },
         {
@@ -127125,6 +127233,9 @@
         },
         {
           "name": "Naomi Wildman"
+        },
+        {
+          "name": "Napea"
         },
         {
           "name": "Napinne"
@@ -132201,6 +132312,9 @@
         },
         {
           "name": "Rosetta Stone"
+        },
+        {
+          "name": "Rosmersholm"
         },
         {
           "name": "Ross (Cadet)"
@@ -138711,6 +138825,9 @@
         },
         {
           "name": "Ujilli"
+        },
+        {
+          "name": "Ukeck"
         },
         {
           "name": "Ulani Belor"
