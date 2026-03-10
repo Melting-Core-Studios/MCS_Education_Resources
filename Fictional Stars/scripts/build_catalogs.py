@@ -18,7 +18,7 @@ from typing import Dict, Iterable, List, Optional, Tuple
 # Config (env overrides)
 # ----------------------------
 
-USER_AGENT = os.getenv(
+USER_AGENT = os.getenv(dkshksfh
     "CATALOG_BOT_UA",
     "MCS-Education-CatalogBot/1.0 (+https://github.com/your-org/your-repo)",
 )
