@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-03-08T04:52:40+00:00",
+    "generatedAt": "2026-03-15T05:13:40+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12409,
+      "bodyPages": 12435,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12409,
+      "unassigned": 12435,
       "createdSystemsFromBodies": 0
     }
   },
@@ -3477,6 +3477,18 @@
       "stars": [
         {
           "name": "Akaali system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Akamu Lee",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Akamu Lee primary",
           "type": "star"
         }
       ],
@@ -7305,6 +7317,18 @@
       "stars": [
         {
           "name": "Arav primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Arawath",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Arawath primary",
           "type": "star"
         }
       ],
@@ -12357,6 +12381,18 @@
       "stars": [
         {
           "name": "Beta Pictoris primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Beta Piscis Australis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beta Piscis Australis primary",
           "type": "star"
         }
       ],
@@ -17709,6 +17745,18 @@
       "stars": [
         {
           "name": "Caribbean primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Carl (cadet)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Carl (cadet) primary",
           "type": "star"
         }
       ],
@@ -27327,6 +27375,18 @@
       "planets": []
     },
     {
+      "name": "Delavi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Delavi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Delavian chocolate",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -31287,6 +31347,18 @@
       "planets": []
     },
     {
+      "name": "Edasich",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Edasich primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Eddie",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -31809,6 +31881,18 @@
       "stars": [
         {
           "name": "El-Aurian system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "El-Gatark",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "El-Gatark primary",
           "type": "star"
         }
       ],
@@ -39399,6 +39483,18 @@
       "planets": []
     },
     {
+      "name": "Gemulon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gemulon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Gen Rhys",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -40191,6 +40287,18 @@
       "planets": []
     },
     {
+      "name": "Gienah",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gienah primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Gilan",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -40611,6 +40719,18 @@
       "planets": []
     },
     {
+      "name": "Glork",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Glork primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "GM New Look",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -40767,12 +40887,12 @@
       "planets": []
     },
     {
-      "name": "Golden retriever",
+      "name": "Golden Retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden retriever primary",
+          "name": "Golden Retriever primary",
           "type": "star"
         }
       ],
@@ -41157,6 +41277,18 @@
       "stars": [
         {
           "name": "Graham (Ensign) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Graham cracker",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Graham cracker primary",
           "type": "star"
         }
       ],
@@ -42189,6 +42321,18 @@
       "stars": [
         {
           "name": "Grubeco primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Grumium",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Grumium primary",
           "type": "star"
         }
       ],
@@ -47727,6 +47871,18 @@
       "planets": []
     },
     {
+      "name": "Inkaria",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Inkaria primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Inman",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -48081,6 +48237,18 @@
       "stars": [
         {
           "name": "Iota Centauri primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Iota Cephei",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Iota Cephei primary",
           "type": "star"
         }
       ],
@@ -55179,6 +55347,18 @@
       "planets": []
     },
     {
+      "name": "Kappa Pegasi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kappa Pegasi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kappa Reticuli",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -55533,6 +55713,18 @@
       "stars": [
         {
           "name": "Kaus Borealis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kavaria system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kavaria system primary",
           "type": "star"
         }
       ],
@@ -56241,6 +56433,18 @@
       "stars": [
         {
           "name": "Keogh primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kepla",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kepla primary",
           "type": "star"
         }
       ],
@@ -57087,6 +57291,18 @@
       "planets": []
     },
     {
+      "name": "Kobheeria",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kobheeria primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kobliad system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -57207,6 +57423,18 @@
       "planets": []
     },
     {
+      "name": "Kora",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kora primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Koralis system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -57237,6 +57465,18 @@
       "stars": [
         {
           "name": "Korinar primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kornephoros",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kornephoros primary",
           "type": "star"
         }
       ],
@@ -58623,6 +58863,30 @@
       "planets": []
     },
     {
+      "name": "Lamenda",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lamenda primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lamprey",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lamprey primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Lance (Ensign)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -59157,6 +59421,18 @@
       "stars": [
         {
           "name": "Lazard/Anderson Group primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lazon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lazon primary",
           "type": "star"
         }
       ],
@@ -64011,6 +64287,18 @@
       "planets": []
     },
     {
+      "name": "Mariah",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mariah primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mariah Rose",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -64353,6 +64641,18 @@
       "stars": [
         {
           "name": "Mark's Paint primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Markab",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Markab primary",
           "type": "star"
         }
       ],
@@ -69165,6 +69465,18 @@
       "stars": [
         {
           "name": "Mu primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Mu Andromedae",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mu Andromedae primary",
           "type": "star"
         }
       ],
@@ -85563,6 +85875,18 @@
       "planets": []
     },
     {
+      "name": "Rudellia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rudellia primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Rudman",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -86541,6 +86865,18 @@
       "stars": [
         {
           "name": "Sacnete primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sadalbari",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sadalbari primary",
           "type": "star"
         }
       ],
@@ -88197,6 +88533,18 @@
       "stars": [
         {
           "name": "Satine primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sato Atrium",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sato Atrium primary",
           "type": "star"
         }
       ],
@@ -90489,6 +90837,18 @@
       "stars": [
         {
           "name": "Simons primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Simperia system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Simperia system primary",
           "type": "star"
         }
       ],
@@ -93369,6 +93729,18 @@
       "stars": [
         {
           "name": "Starfleet Advanced Technologies primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Starfleet anthem",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Starfleet anthem primary",
           "type": "star"
         }
       ],
@@ -104643,6 +105015,18 @@
       "planets": []
     },
     {
+      "name": "Tyberius",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tyberius primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tycho system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -104889,6 +105273,18 @@
       "stars": [
         {
           "name": "Ufandi system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ukulele",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ukulele primary",
           "type": "star"
         }
       ],
@@ -105825,6 +106221,9 @@
         },
         {
           "name": "Akaali homeworld"
+        },
+        {
+          "name": "Akamu Lee"
         },
         {
           "name": "Akira"
@@ -108326,6 +108725,9 @@
           "name": "Behr Theater"
         },
         {
+          "name": "Beithir V"
+        },
+        {
           "name": "Bek"
         },
         {
@@ -108621,6 +109023,9 @@
         },
         {
           "name": "Betazed government"
+        },
+        {
+          "name": "Betazed governmental star charts"
         },
         {
           "name": "Betazed history"
@@ -110343,6 +110748,9 @@
         },
         {
           "name": "Carinae Delta V"
+        },
+        {
+          "name": "Carl (cadet)"
         },
         {
           "name": "Carl Jaeger"
@@ -115151,9 +115559,6 @@
           "name": "F8"
         },
         {
-          "name": "Faan Alpha"
-        },
-        {
           "name": "Fabian Lacey (Starfleet)"
         },
         {
@@ -117173,6 +117578,9 @@
           "name": "Gloria"
         },
         {
+          "name": "Glork"
+        },
+        {
           "name": "Glyrhond River"
         },
         {
@@ -117221,10 +117629,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
           "name": "Goldfish"
@@ -117372,6 +117780,9 @@
         },
         {
           "name": "Graham (Ensign)"
+        },
+        {
+          "name": "Graham cracker"
         },
         {
           "name": "Grail of Kahless"
@@ -122366,6 +122777,36 @@
           "name": "Khionia"
         },
         {
+          "name": "Khionian"
+        },
+        {
+          "name": "Khionian All-Planet Under-18 Calica Team"
+        },
+        {
+          "name": "Khionian Constitution"
+        },
+        {
+          "name": "Khionian Good Citizen Medal"
+        },
+        {
+          "name": "Khionian language"
+        },
+        {
+          "name": "Khionian marital abduction"
+        },
+        {
+          "name": "Khionian pebble"
+        },
+        {
+          "name": "Khionian Realm"
+        },
+        {
+          "name": "Khionian Royal Guard"
+        },
+        {
+          "name": "Khionian Royal High"
+        },
+        {
           "name": "Khitomer"
         },
         {
@@ -122775,6 +123216,9 @@
         },
         {
           "name": "Knott's Berry Farm"
+        },
+        {
+          "name": "Ko'zeine"
         },
         {
           "name": "Koala"
@@ -123522,6 +123966,9 @@
         },
         {
           "name": "Lamonay S."
+        },
+        {
+          "name": "Lamprey"
         },
         {
           "name": "Lance (Ensign)"
@@ -127608,6 +128055,9 @@
         },
         {
           "name": "New Paris"
+        },
+        {
+          "name": "New Qo'noS"
         },
         {
           "name": "New Sydney"
@@ -132392,6 +132842,9 @@
           "name": "Royal Ontario Museum"
         },
         {
+          "name": "Royal Sealing Mantle"
+        },
+        {
           "name": "Rozahn"
         },
         {
@@ -132540,6 +132993,9 @@
         },
         {
           "name": "Ryerson University"
+        },
+        {
+          "name": "Ryllios"
         },
         {
           "name": "Rynar"
@@ -133232,6 +133688,9 @@
           "name": "Satine"
         },
         {
+          "name": "Sato Atrium"
+        },
+        {
           "name": "Satok"
         },
         {
@@ -133379,6 +133838,9 @@
           "name": "Sea otter"
         },
         {
+          "name": "Sea tendril"
+        },
+        {
           "name": "Sea Witch"
         },
         {
@@ -133398,6 +133860,9 @@
         },
         {
           "name": "Seal of San Francisco"
+        },
+        {
+          "name": "Sealing"
         },
         {
           "name": "Sean"
@@ -135005,6 +135470,9 @@
           "name": "Starfleet Advanced Technologies"
         },
         {
+          "name": "Starfleet anthem"
+        },
+        {
           "name": "Starfleet Aquatic Research Center"
         },
         {
@@ -135726,6 +136194,9 @@
         },
         {
           "name": "Sunset Boulevard"
+        },
+        {
+          "name": "Sunset Moon"
         },
         {
           "name": "Superman"
@@ -138828,6 +139299,9 @@
         },
         {
           "name": "Ukeck"
+        },
+        {
+          "name": "Ukulele"
         },
         {
           "name": "Ulani Belor"
@@ -145999,6 +146473,18 @@
       "planets": []
     },
     {
+      "name": "Valeria",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Valeria primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Valerian root tea",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -146173,6 +146659,18 @@
       "stars": [
         {
           "name": "Van Ness Avenue primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Vanden",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vanden primary",
           "type": "star"
         }
       ],
@@ -147031,6 +147529,18 @@
       "planets": []
     },
     {
+      "name": "Vitar",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vitar primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Vitruvian Man",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -147229,6 +147739,18 @@
       "stars": [
         {
           "name": "Volkswagen Type 2 primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Volnar",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Volnar primary",
           "type": "star"
         }
       ],

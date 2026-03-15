@@ -2,7 +2,7 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-03-08T04:58:12+00:00",
+    "generatedAt": "2026-03-15T05:19:35+00:00",
     "planetEnrichment": {
       "enabled": true,
       "bodyPages": 7194,
@@ -121206,10 +121206,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -151221,18 +151221,6 @@
           "name": "Unidentified purple gas giant"
         }
       ]
-    },
-    {
-      "name": "Unidentified star system (abandoned Separatist base)",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Unidentified star system (abandoned Separatist base) primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
     },
     {
       "name": "Unidentified star system (Brentaal area)",
