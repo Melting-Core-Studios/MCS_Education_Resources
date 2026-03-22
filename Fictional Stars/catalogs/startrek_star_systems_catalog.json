@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-03-15T05:13:40+00:00",
+    "generatedAt": "2026-03-22T05:00:36+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12435,
+      "bodyPages": 12442,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12435,
+      "unassigned": 12442,
       "createdSystemsFromBodies": 0
     }
   },
@@ -21591,6 +21591,18 @@
       "planets": []
     },
     {
+      "name": "CJ's Coffee House",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "CJ's Coffee House primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Clabber Girl",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -28191,6 +28203,18 @@
       "planets": []
     },
     {
+      "name": "Devos",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Devos primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Devron system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -29937,6 +29961,18 @@
       "stars": [
         {
           "name": "Duarte primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Dubhe",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dubhe primary",
           "type": "star"
         }
       ],
@@ -33657,6 +33693,18 @@
       "stars": [
         {
           "name": "Europa primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Europa Gala",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Europa Gala primary",
           "type": "star"
         }
       ],
@@ -61623,6 +61671,18 @@
       "planets": []
     },
     {
+      "name": "Luau",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Luau primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Lubbock",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -68595,6 +68655,18 @@
       "planets": []
     },
     {
+      "name": "Monac",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Monac primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Money",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -74115,6 +74187,18 @@
       "planets": []
     },
     {
+      "name": "Omega Directive",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Omega Directive primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Omega Draconis",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -78351,6 +78435,18 @@
       "planets": []
     },
     {
+      "name": "Pineapple cake",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pineapple cake primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pineapple cobbler",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -78885,6 +78981,18 @@
       "stars": [
         {
           "name": "Polar bear primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Polaris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Polaris primary",
           "type": "star"
         }
       ],
@@ -80247,6 +80355,18 @@
       "planets": []
     },
     {
+      "name": "Pullock",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pullock primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pulsar Party system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -80817,6 +80937,18 @@
       "stars": [
         {
           "name": "Quinn (Admiral) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Quinor",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Quinor primary",
           "type": "star"
         }
       ],
@@ -82797,6 +82929,18 @@
       "stars": [
         {
           "name": "Regula I (alternate reality) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Regulak",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Regulak primary",
           "type": "star"
         }
       ],
@@ -85197,6 +85341,18 @@
       "stars": [
         {
           "name": "Ronald Tracey primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Rondac",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rondac primary",
           "type": "star"
         }
       ],
@@ -90645,6 +90801,18 @@
       "stars": [
         {
           "name": "Sigma Iotia primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sigma Librae",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sigma Librae primary",
           "type": "star"
         }
       ],
@@ -99903,6 +100071,18 @@
       "planets": []
     },
     {
+      "name": "Tevak",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tevak primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Texas",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -101961,6 +102141,18 @@
       "stars": [
         {
           "name": "Theta Indi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Theta Pictoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Theta Pictoris primary",
           "type": "star"
         }
       ],
@@ -105273,6 +105465,18 @@
       "stars": [
         {
           "name": "Ufandi system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ukeck system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ukeck system primary",
           "type": "star"
         }
       ],
@@ -111818,6 +112022,9 @@
           "name": "CJ Sarachene (Starfleet)"
         },
         {
+          "name": "CJ's Coffee House"
+        },
+        {
           "name": "Clabber Girl"
         },
         {
@@ -114254,9 +114461,6 @@
           "name": "Draylax"
         },
         {
-          "name": "Draylon II"
-        },
-        {
           "name": "Drazman"
         },
         {
@@ -115371,6 +115575,9 @@
         },
         {
           "name": "Eurasia"
+        },
+        {
+          "name": "Europa Gala"
         },
         {
           "name": "Europe"
@@ -124853,6 +125060,9 @@
           "name": "LT-358"
         },
         {
+          "name": "Luau"
+        },
+        {
           "name": "Lubbock"
         },
         {
@@ -128036,6 +128246,9 @@
           "name": "New Jersey"
         },
         {
+          "name": "New Kentanna"
+        },
+        {
           "name": "New Martim Vaz"
         },
         {
@@ -128916,6 +129129,9 @@
         },
         {
           "name": "Omega Cygni"
+        },
+        {
+          "name": "Omega Directive"
         },
         {
           "name": "Omega IV"
@@ -130329,6 +130545,9 @@
         },
         {
           "name": "Pineapple"
+        },
+        {
+          "name": "Pineapple cake"
         },
         {
           "name": "Pineapple cobbler"
@@ -140078,6 +140297,9 @@
           "name": "USS Athena dedication plaque"
         },
         {
+          "name": "USS Athena personnel"
+        },
+        {
           "name": "USS Beagle"
         },
         {
@@ -140883,6 +141105,9 @@
         },
         {
           "name": "Vermont"
+        },
+        {
+          "name": "Vermont Taxi"
         },
         {
           "name": "Vermouth"
@@ -144661,6 +144886,18 @@
       "planets": []
     },
     {
+      "name": "USS Athena personnel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "USS Athena personnel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "USS Beagle",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -147139,6 +147376,18 @@
       "stars": [
         {
           "name": "Vermont primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Vermont Taxi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vermont Taxi primary",
           "type": "star"
         }
       ],
@@ -151015,6 +151264,18 @@
       "stars": [
         {
           "name": "Xanthras system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Xarantine (star)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Xarantine (star) primary",
           "type": "star"
         }
       ],

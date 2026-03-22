@@ -2,7 +2,7 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-03-15T05:19:35+00:00",
+    "generatedAt": "2026-03-22T05:06:40+00:00",
     "planetEnrichment": {
       "enabled": true,
       "bodyPages": 7194,
@@ -30112,12 +30112,12 @@
       "planets": []
     },
     {
-      "name": "Croynar sector alphanumeric designated system",
+      "name": "Croynar sector alphanumeric designated star system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Croynar sector alphanumeric designated system primary",
+          "name": "Croynar sector alphanumeric designated star system primary",
           "type": "star"
         }
       ],
@@ -62470,7 +62470,7 @@
       ],
       "planets": [
         {
-          "name": "Unidentified planet (Kanina Nico)"
+          "name": "Kanina Nico's homeworld"
         }
       ]
     },
@@ -66015,6 +66015,18 @@
       "stars": [
         {
           "name": "Jagomir system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Jagoth system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jagoth system primary",
           "type": "star"
         }
       ],
@@ -95046,10 +95058,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -121206,10 +121218,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -150515,9 +150527,6 @@
           "name": "Unidentified lava planet"
         },
         {
-          "name": "Unidentified little moon"
-        },
-        {
           "name": "Unidentified maverick moon"
         },
         {
@@ -150927,6 +150936,9 @@
         },
         {
           "name": "Unidentified sandy planet (Dragon Void Run)"
+        },
+        {
+          "name": "Unidentified small moon"
         },
         {
           "name": "Unidentified snowy planet"
