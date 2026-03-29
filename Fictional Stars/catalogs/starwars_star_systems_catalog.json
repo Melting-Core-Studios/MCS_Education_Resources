@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-03-22T05:06:40+00:00",
+    "generatedAt": "2026-03-29T05:25:19+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7194,
+      "bodyPages": 7198,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6453,
-      "unassigned": 741,
+      "attached": 6454,
+      "unassigned": 744,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -44553,18 +44553,6 @@
       ]
     },
     {
-      "name": "Esfandia system/Legends",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Esfandia system/Legends primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Eshan system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -49416,6 +49404,18 @@
       "stars": [
         {
           "name": "Fremond system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Frenos system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Frenos system primary",
           "type": "star"
         }
       ],
@@ -54646,12 +54646,12 @@
       "planets": []
     },
     {
-      "name": "Glee Anselm system",
+      "name": "Glee Anselm system/Legends",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Glee Anselm system primary",
+          "name": "Glee Anselm system/Legends primary",
           "type": "star"
         }
       ],
@@ -54771,7 +54771,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Gloon"
+        }
+      ]
     },
     {
       "name": "Glottal system",
@@ -87251,24 +87255,24 @@
       "planets": []
     },
     {
-      "name": "Maltoria system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Maltoria system primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Maltorian system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Maltorian system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Maltorian system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Maltorian system/Legends primary",
           "type": "star"
         }
       ],
@@ -94834,7 +94838,7 @@
       ],
       "planets": [
         {
-          "name": "Myrkr/Legends"
+          "name": "Myrkr"
         }
       ]
     },
@@ -95058,10 +95062,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -120176,7 +120180,7 @@
     {
       "name": "Rhigar system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Rhigar system primary",
@@ -120200,6 +120204,18 @@
           "name": "Rhigar/Legends"
         }
       ]
+    },
+    {
+      "name": "Rhigar system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Rhigar system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Rhilithan system",
@@ -131137,22 +131153,6 @@
       "planets": []
     },
     {
-      "name": "Skartis system",
-      "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
-      "stars": [
-        {
-          "name": "Skartis system primary",
-          "type": "star"
-        }
-      ],
-      "planets": [
-        {
-          "name": "Skärtis"
-        }
-      ]
-    },
-    {
       "name": "Skeebo system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -131366,7 +131366,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Skärtis"
+        }
+      ]
     },
     {
       "name": "Skärtis system/Legends",
@@ -135555,18 +135559,6 @@
       "stars": [
         {
           "name": "Syvris system/Legends primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Sz Fel system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Sz Fel system primary",
           "type": "star"
         }
       ],
@@ -148937,6 +148929,9 @@
           "name": "Aing-Tii homeworld"
         },
         {
+          "name": "Alaban"
+        },
+        {
           "name": "Alderaan (The Star Wars)"
         },
         {
@@ -148998,6 +148993,9 @@
         },
         {
           "name": "At Arissia"
+        },
+        {
+          "name": "Aticar"
         },
         {
           "name": "Autan"
@@ -149769,6 +149767,9 @@
         },
         {
           "name": "Mearalis II/Legends"
+        },
+        {
+          "name": "Mendrak"
         },
         {
           "name": "Menrec"
@@ -160968,6 +160969,18 @@
           "name": "Xa Fel/Legends"
         }
       ]
+    },
+    {
+      "name": "Xa Fel system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Xa Fel system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Xagobah system",

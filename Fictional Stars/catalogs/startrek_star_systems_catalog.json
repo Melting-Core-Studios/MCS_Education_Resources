@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-03-22T05:00:36+00:00",
+    "generatedAt": "2026-03-29T05:19:47+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12442,
+      "bodyPages": 12446,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12442,
+      "unassigned": 12446,
       "createdSystemsFromBodies": 0
     }
   },
@@ -24147,6 +24147,18 @@
       "planets": []
     },
     {
+      "name": "Crows",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Crows primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Cruces system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -24693,6 +24705,18 @@
       "stars": [
         {
           "name": "Curve ball primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Curzon Dax",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Curzon Dax primary",
           "type": "star"
         }
       ],
@@ -48255,18 +48279,6 @@
       "planets": []
     },
     {
-      "name": "Iota Boötis",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Iota Boötis primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Iota Carinae",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -65727,6 +65739,18 @@
       "planets": []
     },
     {
+      "name": "Max Factor",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Max Factor primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Maxia Zeta star system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -68445,6 +68469,18 @@
       "stars": [
         {
           "name": "Moby Dick primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Mocha",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mocha primary",
           "type": "star"
         }
       ],
@@ -88005,6 +88041,18 @@
       "stars": [
         {
           "name": "San Mateo-Hayward Bridge primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "San Quentin",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "San Quentin primary",
           "type": "star"
         }
       ],
@@ -112700,6 +112748,9 @@
           "name": "Crown roast of lamb"
         },
         {
+          "name": "Crows"
+        },
+        {
           "name": "Crucifix"
         },
         {
@@ -112827,6 +112878,9 @@
         },
         {
           "name": "Curve ball"
+        },
+        {
+          "name": "Curzon Dax"
         },
         {
           "name": "Customs inspection"
@@ -118068,9 +118122,6 @@
         },
         {
           "name": "Grazer"
-        },
-        {
-          "name": "Grazer (planet)"
         },
         {
           "name": "Gre'thor"
@@ -126344,6 +126395,9 @@
           "name": "Max Collins (Starfleet)"
         },
         {
+          "name": "Max Factor"
+        },
+        {
           "name": "Maxia Zeta I"
         },
         {
@@ -127233,6 +127287,9 @@
         },
         {
           "name": "Moby Dick"
+        },
+        {
+          "name": "Mocha"
         },
         {
           "name": "Modean"
@@ -133674,6 +133731,9 @@
         },
         {
           "name": "San Mateo-Hayward Bridge"
+        },
+        {
+          "name": "San Quentin"
         },
         {
           "name": "Sanarek"
@@ -151972,6 +152032,18 @@
       "stars": [
         {
           "name": "Yr Hufen Melyn primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Yridia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Yridia primary",
           "type": "star"
         }
       ],
