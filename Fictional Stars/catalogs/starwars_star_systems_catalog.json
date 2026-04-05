@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-03-29T05:25:19+00:00",
+    "generatedAt": "2026-04-05T05:26:11+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7198,
+      "bodyPages": 7201,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6454,
-      "unassigned": 744,
+      "attached": 6456,
+      "unassigned": 745,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -13518,7 +13518,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Bathoris"
+        }
+      ]
     },
     {
       "name": "Batonn system",
@@ -67932,6 +67936,9 @@
       "planets": [
         {
           "name": "Jilrua"
+        },
+        {
+          "name": "Jilruan homeworld"
         }
       ]
     },
@@ -86803,22 +86810,6 @@
       ]
     },
     {
-      "name": "Maldo Kreis system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Maldo Kreis system primary",
-          "type": "star"
-        }
-      ],
-      "planets": [
-        {
-          "name": "Maldo Kreis"
-        }
-      ]
-    },
-    {
       "name": "Maldovea system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -90217,11 +90208,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Mennar-Daye"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Mentanar Vosk system",
@@ -95062,10 +95049,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -132442,6 +132429,18 @@
       "planets": []
     },
     {
+      "name": "Sorca Retreat system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sorca Retreat system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Sorderia system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -133359,6 +133358,18 @@
           "name": "Squamatan homeworld"
         }
       ]
+    },
+    {
+      "name": "Squan Station system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Squan Station system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Squarr system",
@@ -138523,6 +138534,9 @@
           "name": "Guermessa/Legends"
         },
         {
+          "name": "Maldo Kreis"
+        },
+        {
           "name": "Ohann"
         },
         {
@@ -141138,6 +141152,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "The Covert's system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "The Covert's system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Armorer's planet"
+        }
+      ]
     },
     {
       "name": "The Deep's star system",
@@ -148965,10 +148995,10 @@
           "name": "Aquatic moon of Delriss"
         },
         {
-          "name": "Arges"
+          "name": "Archaidan"
         },
         {
-          "name": "Armorer's planet"
+          "name": "Arges"
         },
         {
           "name": "Arthézia"
@@ -149344,6 +149374,9 @@
         },
         {
           "name": "Hadlyn"
+        },
+        {
+          "name": "Hadne 3"
         },
         {
           "name": "Halisite homeworld"

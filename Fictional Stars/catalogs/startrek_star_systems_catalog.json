@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-03-29T05:19:47+00:00",
+    "generatedAt": "2026-04-05T05:20:43+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12446,
+      "bodyPages": 12456,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12446,
+      "unassigned": 12456,
       "createdSystemsFromBodies": 0
     }
   },
@@ -5667,6 +5667,30 @@
       "planets": []
     },
     {
+      "name": "Amelia Moon",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Amelia Moon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Amelia Moon series",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Amelia Moon series primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Amelie Claire",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -8409,6 +8433,18 @@
       "stars": [
         {
           "name": "Atelier primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Athletic department",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Athletic department primary",
           "type": "star"
         }
       ],
@@ -25827,6 +25863,18 @@
       "planets": []
     },
     {
+      "name": "Dalvos",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dalvos primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Daly City",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -40959,12 +41007,12 @@
       "planets": []
     },
     {
-      "name": "Golden Retriever",
+      "name": "Golden retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden Retriever primary",
+          "name": "Golden retriever primary",
           "type": "star"
         }
       ],
@@ -58911,6 +58959,18 @@
       "planets": []
     },
     {
+      "name": "Lambda Geminorum",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lambda Geminorum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Lambda Serpentis",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -59649,6 +59709,18 @@
       "stars": [
         {
           "name": "Lee Kuan primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lee Woods",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lee Woods primary",
           "type": "star"
         }
       ],
@@ -65829,6 +65901,18 @@
       "stars": [
         {
           "name": "Maxwell Nagata primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Maxwell Saint",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Maxwell Saint primary",
           "type": "star"
         }
       ],
@@ -85623,12 +85707,12 @@
       "planets": []
     },
     {
-      "name": "Ross (cadet)",
+      "name": "Ross (Cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (cadet) primary",
+          "name": "Ross (Cadet) primary",
           "type": "star"
         }
       ],
@@ -96675,6 +96759,18 @@
       "planets": []
     },
     {
+      "name": "Sunny Lupino",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sunny Lupino primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Sunset Boulevard",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -98649,6 +98745,18 @@
       "stars": [
         {
           "name": "Talpet primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Talvath system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Talvath system primary",
           "type": "star"
         }
       ],
@@ -103143,6 +103251,18 @@
       "planets": []
     },
     {
+      "name": "TK Bellows",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "TK Bellows primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "To Catch a Thief",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -104889,6 +105009,18 @@
       "stars": [
         {
           "name": "Tsetse fly primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tsugh Khaidnn",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tsugh Khaidnn primary",
           "type": "star"
         }
       ],
@@ -107054,6 +107186,12 @@
           "name": "AMC Hornet"
         },
         {
+          "name": "Amelia Moon"
+        },
+        {
+          "name": "Amelia Moon series"
+        },
+        {
           "name": "Amelie Claire"
         },
         {
@@ -107877,6 +108015,9 @@
         },
         {
           "name": "Athan Prime"
+        },
+        {
+          "name": "Athletic department"
         },
         {
           "name": "Athos IV"
@@ -113921,6 +114062,9 @@
           "name": "Denobula"
         },
         {
+          "name": "Denobula Prime"
+        },
+        {
           "name": "Denver"
         },
         {
@@ -117890,10 +118034,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
           "name": "Goldfish"
@@ -124463,6 +124607,9 @@
           "name": "Lee Kuan"
         },
         {
+          "name": "Lee Woods"
+        },
+        {
           "name": "Lee's Summit"
         },
         {
@@ -126441,6 +126588,9 @@
         },
         {
           "name": "Maxwell Nagata"
+        },
+        {
+          "name": "Maxwell Saint"
         },
         {
           "name": "Maxwell Thorpe (Starfleet)"
@@ -129561,6 +129711,9 @@
         },
         {
           "name": "Oskoid"
+        },
+        {
+          "name": "Osnullus homeworld"
         },
         {
           "name": "OSO"
@@ -133043,10 +133196,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -136472,6 +136625,9 @@
           "name": "Sunland"
         },
         {
+          "name": "Sunny Lupino"
+        },
+        {
           "name": "Sunset Boulevard"
         },
         {
@@ -138743,6 +138899,9 @@
           "name": "Tivara"
         },
         {
+          "name": "TK Bellows"
+        },
+        {
           "name": "TlhIngan"
         },
         {
@@ -140169,6 +140328,9 @@
         },
         {
           "name": "Unnamed Terrans"
+        },
+        {
+          "name": "Unnamed USS Athena personnel"
         },
         {
           "name": "Unnamed USS Cerritos command personnel"
@@ -144340,6 +144502,18 @@
       "stars": [
         {
           "name": "Unnamed Terrans primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Unnamed USS Athena personnel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Unnamed USS Athena personnel primary",
           "type": "star"
         }
       ],
@@ -151330,12 +151504,12 @@
       "planets": []
     },
     {
-      "name": "Xarantine (star)",
+      "name": "Xarantine system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Xarantine (star) primary",
+          "name": "Xarantine system primary",
           "type": "star"
         }
       ],
@@ -152518,6 +152692,18 @@
       "planets": []
     },
     {
+      "name": "Zeta Pictoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Zeta Pictoris primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Zeta Serpentis",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -152536,6 +152722,18 @@
       "stars": [
         {
           "name": "Zeta Trianguli Australis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Zeta Volantis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Zeta Volantis primary",
           "type": "star"
         }
       ],
