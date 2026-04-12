@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-04-05T05:26:11+00:00",
+    "generatedAt": "2026-04-12T05:37:39+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7201,
+      "bodyPages": 7202,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6456,
+      "attached": 6457,
       "unassigned": 745,
-      "createdSystemsFromBodies": 26
+      "createdSystemsFromBodies": 25
     },
     "includesMoons": true
   },
@@ -5047,7 +5047,7 @@
       ],
       "planets": [
         {
-          "name": "Andasala"
+          "name": "Andasala/Legends"
         }
       ]
     },
@@ -9050,10 +9050,10 @@
       ],
       "planets": [
         {
-          "name": "Askaji"
+          "name": "Askaj"
         },
         {
-          "name": "Askaji/Legends"
+          "name": "Askaj/Legends"
         },
         {
           "name": "Moon Lady"
@@ -30005,6 +30005,9 @@
       "planets": [
         {
           "name": "Crondre"
+        },
+        {
+          "name": "Crondre/Legends"
         }
       ]
     },
@@ -35157,7 +35160,7 @@
       ],
       "planets": [
         {
-          "name": "Dentaal"
+          "name": "Dentaal/Legends"
         }
       ]
     },
@@ -63111,7 +63114,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Iceni"
+        }
+      ]
     },
     {
       "name": "Ichalin Station system",
@@ -66578,7 +66585,7 @@
     {
       "name": "Janix's star system",
       "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Janix's star system primary",
@@ -75804,6 +75811,18 @@
       "stars": [
         {
           "name": "Klasse Ephemora system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Klathos system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Klathos system primary",
           "type": "star"
         }
       ],
@@ -91133,7 +91152,7 @@
       ],
       "planets": [
         {
-          "name": "Midani"
+          "name": "Midani/Legends"
         }
       ]
     },
@@ -95049,10 +95068,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -121221,10 +121240,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -135087,7 +135106,7 @@
       ],
       "planets": [
         {
-          "name": "Svivren"
+          "name": "Svivren/Legends"
         }
       ]
     },
@@ -135401,9 +135420,6 @@
         }
       ],
       "planets": [
-        {
-          "name": "Syngia"
-        },
         {
           "name": "Syngia moon"
         }
