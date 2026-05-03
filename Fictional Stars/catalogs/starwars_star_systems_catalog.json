@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-04-12T05:37:39+00:00",
+    "generatedAt": "2026-05-03T06:19:35+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7202,
+      "bodyPages": 7209,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6457,
-      "unassigned": 745,
-      "createdSystemsFromBodies": 25
+      "attached": 6459,
+      "unassigned": 750,
+      "createdSystemsFromBodies": 26
     },
     "includesMoons": true
   },
@@ -8764,6 +8764,9 @@
       "planets": [
         {
           "name": "Arvala-7"
+        },
+        {
+          "name": "Unidentified gas giant (Arvala-7)"
         }
       ]
     },
@@ -9847,6 +9850,18 @@
       "stars": [
         {
           "name": "Atravis system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Atravis systems",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Atravis systems primary",
           "type": "star"
         }
       ],
@@ -11767,7 +11782,7 @@
       ],
       "planets": [
         {
-          "name": "Balith/Legends"
+          "name": "Balith"
         }
       ]
     },
@@ -37482,7 +37497,7 @@
       ],
       "planets": [
         {
-          "name": "Dom-Bradden"
+          "name": "Dom-Bradden/Legends"
         }
       ]
     },
@@ -55488,7 +55503,7 @@
       ],
       "planets": [
         {
-          "name": "Gorbah"
+          "name": "Gorbah/Legends"
         }
       ]
     },
@@ -69135,6 +69150,18 @@
       "stars": [
         {
           "name": "Juvex system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Juvex systems",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Juvex systems primary",
           "type": "star"
         }
       ],
@@ -95068,10 +95095,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -110613,6 +110640,18 @@
       "planets": []
     },
     {
+      "name": "Phalan system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Phalan system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Phandas system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -117780,6 +117819,22 @@
       ]
     },
     {
+      "name": "Rattimir's star system",
+      "category": "Single",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "stars": [
+        {
+          "name": "Rattimir's star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Rattimir"
+        }
+      ]
+    },
+    {
       "name": "Ravaath system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -121240,10 +121295,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -149092,6 +149147,9 @@
           "name": "Brazadann"
         },
         {
+          "name": "Brilol"
+        },
+        {
           "name": "Broondas"
         },
         {
@@ -149179,7 +149237,7 @@
           "name": "D'vouran"
         },
         {
-          "name": "Damano"
+          "name": "Dahyun"
         },
         {
           "name": "Dark Worlds"
@@ -149237,6 +149295,9 @@
         },
         {
           "name": "Dwarf planet"
+        },
+        {
+          "name": "Dymano"
         },
         {
           "name": "Ebruchi homeworld"
@@ -149608,6 +149669,9 @@
           "name": "Lexus Nine"
         },
         {
+          "name": "Lika (planet)"
+        },
+        {
           "name": "List of planets A"
         },
         {
@@ -149903,6 +149967,9 @@
         },
         {
           "name": "Narn IV"
+        },
+        {
+          "name": "Nayeon"
         },
         {
           "name": "Ningoth/LEGO"
@@ -150982,9 +151049,6 @@
           "name": "Unidentified rocky planet (Andur Sunrider)"
         },
         {
-          "name": "Unidentified rocky planet (Inquisitors)"
-        },
-        {
           "name": "Unidentified sandy planet (Dragon Void Run)"
         },
         {
@@ -151048,6 +151112,9 @@
           "name": "Unified Ruurian Colonies"
         },
         {
+          "name": "Unnamed planet"
+        },
+        {
           "name": "Unnap"
         },
         {
@@ -151109,6 +151176,9 @@
         },
         {
           "name": "Vur IV"
+        },
+        {
+          "name": "Wallax (planet)"
         },
         {
           "name": "Waltar"

@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-04-12T05:30:43+00:00",
+    "generatedAt": "2026-05-03T06:11:13+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12462,
+      "bodyPages": 12467,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12462,
+      "unassigned": 12467,
       "createdSystemsFromBodies": 0
     }
   },
@@ -5271,12 +5271,12 @@
       "planets": []
     },
     {
-      "name": "Alshain (system)",
+      "name": "Alshain system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Alshain (system) primary",
+          "name": "Alshain system primary",
           "type": "star"
         }
       ],
@@ -11289,6 +11289,18 @@
       "stars": [
         {
           "name": "Behr Theater primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Beithir system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beithir system primary",
           "type": "star"
         }
       ],
@@ -17571,6 +17583,18 @@
       "planets": []
     },
     {
+      "name": "Cantamessa's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cantamessa's Star primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Canton",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -22353,6 +22377,18 @@
       "stars": [
         {
           "name": "Cole primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Cole's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cole's Star primary",
           "type": "star"
         }
       ],
@@ -27651,6 +27687,30 @@
       "planets": []
     },
     {
+      "name": "Delta Hart",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Delta Hart primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Delta Hydri",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Delta Hydri primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Delta IV (rocket)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -28305,6 +28365,18 @@
       "stars": [
         {
           "name": "Devonshire primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Devoras system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Devoras system primary",
           "type": "star"
         }
       ],
@@ -29787,6 +29859,18 @@
       "planets": []
     },
     {
+      "name": "Downer's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Downer's Star primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Downtown Los Angeles",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -29937,18 +30021,6 @@
       "stars": [
         {
           "name": "Draygo primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Draylax system",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Draylax system primary",
           "type": "star"
         }
       ],
@@ -38943,6 +39015,18 @@
       "planets": []
     },
     {
+      "name": "Gamma Fitzgerald",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gamma Fitzgerald primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Gamma Hromi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -39549,6 +39633,18 @@
       "stars": [
         {
           "name": "Gatsby primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Gauger Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gauger Star primary",
           "type": "star"
         }
       ],
@@ -40965,6 +41061,18 @@
       "stars": [
         {
           "name": "GMC Blue Chip primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "GMC Old Look",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "GMC Old Look primary",
           "type": "star"
         }
       ],
@@ -45093,6 +45201,18 @@
       "stars": [
         {
           "name": "Hershey Bar primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Hershman's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Hershman's Star primary",
           "type": "star"
         }
       ],
@@ -56895,6 +57015,18 @@
       "planets": []
     },
     {
+      "name": "Khazara system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Khazara system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Khitomer system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -59121,6 +59253,18 @@
       "stars": [
         {
           "name": "Lambda Geminorum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lambda Hydrae",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lambda Hydrae primary",
           "type": "star"
         }
       ],
@@ -61785,6 +61929,18 @@
       "stars": [
         {
           "name": "Louis Rubenstein primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Louis-Philippe and His Sons Riding Out from Versailles",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Louis-Philippe and His Sons Riding Out from Versailles primary",
           "type": "star"
         }
       ],
@@ -67275,6 +67431,18 @@
       "planets": []
     },
     {
+      "name": "Meyer's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Meyer's Star primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mezoti",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -68931,6 +69099,18 @@
       "planets": []
     },
     {
+      "name": "Molly's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Molly's Star primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mona Lisa",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -69315,6 +69495,18 @@
       "planets": []
     },
     {
+      "name": "Moore's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Moore's Star primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Moral and Ethical Issues of Command",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -69621,6 +69813,18 @@
       "stars": [
         {
           "name": "Motor Coach Industries primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Motorbike",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Motorbike primary",
           "type": "star"
         }
       ],
@@ -72333,6 +72537,18 @@
       "stars": [
         {
           "name": "Nimembeh primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Nimoy's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nimoy's Star primary",
           "type": "star"
         }
       ],
@@ -84519,6 +84735,18 @@
       "planets": []
     },
     {
+      "name": "Risa system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Risa system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Riscot system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -85911,12 +86139,12 @@
       "planets": []
     },
     {
-      "name": "Ross (cadet)",
+      "name": "Ross (Cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (cadet) primary",
+          "name": "Ross (Cadet) primary",
           "type": "star"
         }
       ],
@@ -88899,12 +89127,12 @@
       "planets": []
     },
     {
-      "name": "Sarin (system)",
+      "name": "Sarin system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Sarin (system) primary",
+          "name": "Sarin system primary",
           "type": "star"
         }
       ],
@@ -91185,6 +91413,18 @@
       "stars": [
         {
           "name": "Sigma Serpentis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sigma Trotti",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sigma Trotti primary",
           "type": "star"
         }
       ],
@@ -99915,6 +100155,18 @@
       "planets": []
     },
     {
+      "name": "Telus",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Telus primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Temecklia",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -100425,6 +100677,18 @@
       "stars": [
         {
           "name": "Tesla Model X primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tesnia system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tesnia system primary",
           "type": "star"
         }
       ],
@@ -102519,6 +102783,30 @@
       "planets": []
     },
     {
+      "name": "Theta Gentle",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Theta Gentle primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Theta Hulett",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Theta Hulett primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Theta Indi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -104073,6 +104361,18 @@
       "stars": [
         {
           "name": "Torigan primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Torman system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Torman system primary",
           "type": "star"
         }
       ],
@@ -109886,6 +110186,9 @@
           "name": "Black Lives Matter"
         },
         {
+          "name": "Black market tax"
+        },
+        {
           "name": "Black pepper"
         },
         {
@@ -111615,6 +111918,9 @@
         },
         {
           "name": "Caves of Kahless"
+        },
+        {
+          "name": "Caves of T'rachmor"
         },
         {
           "name": "Cavit"
@@ -118257,6 +118563,9 @@
         },
         {
           "name": "GMC Blue Chip"
+        },
+        {
+          "name": "GMC Old Look"
         },
         {
           "name": "Gnocchi"
@@ -125474,6 +125783,9 @@
           "name": "Louis Rubenstein"
         },
         {
+          "name": "Louis-Philippe and His Sons Riding Out from Versailles"
+        },
+        {
           "name": "Louise Dorton (Dean)"
         },
         {
@@ -127989,6 +128301,9 @@
         },
         {
           "name": "Motor Coach Industries"
+        },
+        {
+          "name": "Motorbike"
         },
         {
           "name": "Mount Cook"
@@ -133463,10 +133778,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -138104,6 +138419,9 @@
           "name": "Teluridian IV"
         },
         {
+          "name": "Telus"
+        },
+        {
           "name": "Tempasa"
         },
         {
@@ -139686,9 +140004,6 @@
         },
         {
           "name": "Trilar Peninsula"
-        },
-        {
-          "name": "Trill (planet)"
         },
         {
           "name": "Trillius Prime"
@@ -147850,6 +148165,18 @@
       "planets": []
     },
     {
+      "name": "Verex system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Verex system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Veridian system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -153100,6 +153427,18 @@
       "stars": [
         {
           "name": "Zimbata primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Zimmerman's Star",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Zimmerman's Star primary",
           "type": "star"
         }
       ],
