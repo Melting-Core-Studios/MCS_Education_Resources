@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-05-03T06:19:35+00:00",
+    "generatedAt": "2026-05-10T06:24:15+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7209,
+      "bodyPages": 7211,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
       "attached": 6459,
-      "unassigned": 750,
+      "unassigned": 752,
       "createdSystemsFromBodies": 26
     },
     "includesMoons": true
@@ -95095,10 +95095,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -149105,6 +149105,9 @@
           "name": "Avernio Three"
         },
         {
+          "name": "Azen"
+        },
+        {
           "name": "B'ankora homeworld"
         },
         {
@@ -149313,6 +149316,9 @@
         },
         {
           "name": "Elbriade"
+        },
+        {
+          "name": "Enoth"
         },
         {
           "name": "Enujut"

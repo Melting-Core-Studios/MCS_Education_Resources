@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-05-03T06:11:13+00:00",
+    "generatedAt": "2026-05-10T06:18:39+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12467,
+      "bodyPages": 12470,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12467,
+      "unassigned": 12470,
       "createdSystemsFromBodies": 0
     }
   },
@@ -41223,12 +41223,12 @@
       "planets": []
     },
     {
-      "name": "Golden retriever",
+      "name": "Golden Retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden retriever primary",
+          "name": "Golden Retriever primary",
           "type": "star"
         }
       ],
@@ -52035,6 +52035,18 @@
       "planets": []
     },
     {
+      "name": "Jax",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jax primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Jay",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -52851,24 +52863,24 @@
       "planets": []
     },
     {
-      "name": "Ji-Hyun Nam (Starfleet)",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Ji-Hyun Nam (Starfleet) primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Jiarui Bai (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Jiarui Bai (Starfleet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Jihyun Nam",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Jihyun Nam primary",
           "type": "star"
         }
       ],
@@ -57255,6 +57267,18 @@
       "planets": []
     },
     {
+      "name": "Kimben system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kimben system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kimolu",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -57849,6 +57873,18 @@
       "stars": [
         {
           "name": "Korinar primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Korma system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Korma system primary",
           "type": "star"
         }
       ],
@@ -85575,6 +85611,18 @@
       "planets": []
     },
     {
+      "name": "Roman Chalyi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Roman Chalyi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Roman Empire",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -86139,12 +86187,12 @@
       "planets": []
     },
     {
-      "name": "Ross (Cadet)",
+      "name": "Ross (cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (Cadet) primary",
+          "name": "Ross (cadet) primary",
           "type": "star"
         }
       ],
@@ -118607,10 +118655,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
           "name": "Goldfish"
@@ -122033,6 +122081,9 @@
           "name": "Javier Garrido (Starfleet)"
         },
         {
+          "name": "Jax"
+        },
+        {
           "name": "Jaxxa Prime"
         },
         {
@@ -122261,13 +122312,13 @@
           "name": "Jew"
         },
         {
-          "name": "Ji-Hyun Nam (Starfleet)"
-        },
-        {
           "name": "Jiarui Bai (Starfleet)"
         },
         {
           "name": "JiH dok"
+        },
+        {
+          "name": "Jihyun Nam"
         },
         {
           "name": "Jil Orra"
@@ -133505,6 +133556,9 @@
           "name": "Roman"
         },
         {
+          "name": "Roman Chalyi"
+        },
+        {
           "name": "Roman Empire"
         },
         {
@@ -133778,10 +133832,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -138177,6 +138231,9 @@
         },
         {
           "name": "Tarul-etek"
+        },
+        {
+          "name": "Tash's homeworld"
         },
         {
           "name": "Tashkent"
