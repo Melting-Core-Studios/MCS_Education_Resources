@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-05-10T06:24:15+00:00",
+    "generatedAt": "2026-05-17T06:34:02+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7211,
+      "bodyPages": 7213,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6459,
+      "attached": 6461,
       "unassigned": 752,
-      "createdSystemsFromBodies": 26
+      "createdSystemsFromBodies": 25
     },
     "includesMoons": true
   },
@@ -50945,6 +50945,18 @@
       ]
     },
     {
+      "name": "Gallo system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gallo system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Galloa system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -65882,6 +65894,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Barren moon"
+        },
         {
           "name": "Jabiim"
         },
@@ -117821,7 +117836,7 @@
     {
       "name": "Rattimir's star system",
       "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Rattimir's star system primary",
@@ -121295,10 +121310,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -136836,7 +136851,7 @@
       ],
       "planets": [
         {
-          "name": "Tancon"
+          "name": "Tancon/Legends"
         }
       ]
     },
@@ -150248,6 +150263,9 @@
           "name": "Shadow planet"
         },
         {
+          "name": "Shakari"
+        },
+        {
           "name": "Shihan"
         },
         {
@@ -150513,9 +150531,6 @@
         },
         {
           "name": "Unidentified backwater planet"
-        },
-        {
-          "name": "Unidentified barren moon"
         },
         {
           "name": "Unidentified barren planet"
@@ -160655,6 +160670,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Worosta's star system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Worosta's star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Worosta"
+        }
+      ]
     },
     {
       "name": "Worru'du system",

@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-05-10T06:18:39+00:00",
+    "generatedAt": "2026-05-17T06:29:05+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12470,
+      "bodyPages": 12474,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12470,
+      "unassigned": 12474,
       "createdSystemsFromBodies": 0
     }
   },
@@ -68535,6 +68535,18 @@
       "planets": []
     },
     {
+      "name": "Mira",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mira primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mira Antlia system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -76545,6 +76557,18 @@
       "stars": [
         {
           "name": "Pancake primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Panora system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Panora system primary",
           "type": "star"
         }
       ],
@@ -105027,6 +105051,18 @@
       "planets": []
     },
     {
+      "name": "TRAPPIST 1",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "TRAPPIST 1 primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Travers",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -113454,6 +113490,9 @@
         },
         {
           "name": "Criddle D'Eri-Ca"
+        },
+        {
+          "name": "Crime Throne"
         },
         {
           "name": "Crisia occidental"
@@ -123737,6 +123776,9 @@
           "name": "Ketchup"
         },
         {
+          "name": "Ketha class"
+        },
+        {
           "name": "Ketha lowlands"
         },
         {
@@ -124074,6 +124116,9 @@
         },
         {
           "name": "Klingon Bird-of-Prey (2280s)"
+        },
+        {
+          "name": "Klingon Bird-of-Prey (32nd century)"
         },
         {
           "name": "Klingon blade weapons"
@@ -132123,6 +132168,9 @@
         },
         {
           "name": "Qapla'"
+        },
+        {
+          "name": "QeHpu' class"
         },
         {
           "name": "Qin"
