@@ -1,6 +1,6 @@
 {
   "schema": "mcs-ephem-manifest-v1",
-  "generated_at": "2026-06-01T07:27:43Z",
+  "generated_at": "2026-06-02T07:03:03Z",
   "source": {
     "name": "JPL Horizons",
     "service": "https://ssd.jpl.nasa.gov/api/horizons.api"
