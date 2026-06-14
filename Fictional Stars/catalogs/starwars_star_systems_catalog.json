@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-05-17T06:34:02+00:00",
+    "generatedAt": "2026-06-14T08:01:37+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7213,
+      "bodyPages": 7214,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6461,
-      "unassigned": 752,
+      "attached": 6457,
+      "unassigned": 757,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -1120,7 +1120,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Adana"
+        }
+      ]
     },
     {
       "name": "Adana system/Legends",
@@ -7381,11 +7385,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Archais"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Archais system/Legends",
@@ -26042,11 +26042,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Chosper"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Chosper system/Legends",
@@ -90337,11 +90333,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Mepha'as Prime"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Mepha'as Prime system/Legends",
@@ -96328,11 +96320,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Narigus III"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Narigus system/Legends",
@@ -109781,6 +109769,18 @@
       "planets": []
     },
     {
+      "name": "Pentoth system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pentoth system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Peppel system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -114257,9 +114257,6 @@
       "planets": [
         {
           "name": "Protobranch"
-        },
-        {
-          "name": "Protobranch/Legends"
         }
       ]
     },
@@ -121310,10 +121307,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -128042,11 +128039,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Shadren V"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Shadren system/Legends",
@@ -128095,6 +128088,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Shakari system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Shakari system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Shakari"
+        }
+      ]
     },
     {
       "name": "Shalam system",
@@ -149171,6 +149180,9 @@
           "name": "Broondas"
         },
         {
+          "name": "Brynom"
+        },
+        {
           "name": "Burantia"
         },
         {
@@ -149190,6 +149202,9 @@
         },
         {
           "name": "Charon homeworld"
+        },
+        {
+          "name": "Chaynal"
         },
         {
           "name": "Chita's homeworld"
@@ -149600,6 +149615,9 @@
           "name": "Khaërn VII"
         },
         {
+          "name": "Kiddi"
+        },
+        {
           "name": "Kimm Aurek"
         },
         {
@@ -149870,6 +149888,9 @@
           "name": "Lupr'or homeworld"
         },
         {
+          "name": "Luunata"
+        },
+        {
           "name": "Lyta"
         },
         {
@@ -149955,9 +149976,6 @@
         },
         {
           "name": "Morda"
-        },
-        {
-          "name": "Morodin homeworld"
         },
         {
           "name": "Morseerian homeworld/Legends"
@@ -150230,6 +150248,9 @@
           "name": "Sarkhai/Legends"
         },
         {
+          "name": "Saya (planet)"
+        },
+        {
           "name": "Secession Worlds"
         },
         {
@@ -150261,9 +150282,6 @@
         },
         {
           "name": "Shadow planet"
-        },
-        {
-          "name": "Shakari"
         },
         {
           "name": "Shihan"
@@ -151172,6 +151190,9 @@
           "name": "Veeros"
         },
         {
+          "name": "Vendun"
+        },
+        {
           "name": "Verdusia"
         },
         {
@@ -151257,6 +151278,9 @@
         },
         {
           "name": "Zakuul"
+        },
+        {
+          "name": "Zar (planet)"
         },
         {
           "name": "Zarak-Nine"
