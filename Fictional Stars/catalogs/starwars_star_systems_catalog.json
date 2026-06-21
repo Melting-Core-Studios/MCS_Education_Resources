@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-06-14T08:01:37+00:00",
+    "generatedAt": "2026-06-21T08:15:14+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7214,
+      "bodyPages": 7211,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6457,
-      "unassigned": 757,
+      "attached": 6452,
+      "unassigned": 759,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -19235,11 +19235,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Bretta"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Bretta system/Legends",
@@ -39439,11 +39435,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Dreve"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Dreve system/Legends",
@@ -59182,11 +59174,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Harterra"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Harterra system/Legends",
@@ -95102,10 +95090,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -142242,11 +142230,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Thorsgild"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Thorsgild system/Legends",
@@ -150590,6 +150574,9 @@
           "name": "Unidentified desert planet (Tylux)"
         },
         {
+          "name": "Unidentified desert world"
+        },
+        {
           "name": "Unidentified deserted moon"
         },
         {
@@ -151095,6 +151082,9 @@
         },
         {
           "name": "Unidentified snowy planet"
+        },
+        {
+          "name": "Unidentified snowy world"
         },
         {
           "name": "Unidentified swamp planet"
@@ -153785,7 +153775,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Valfin"
+        }
+      ]
     },
     {
       "name": "Valfin system/Legends",
@@ -155023,11 +155017,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Vastrip IV"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Vastrip system/Legends",
@@ -161455,11 +161445,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Xend"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Xend system/Legends",

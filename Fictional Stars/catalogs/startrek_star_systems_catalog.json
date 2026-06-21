@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-06-14T07:55:43+00:00",
+    "generatedAt": "2026-06-21T08:08:11+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12459,
+      "bodyPages": 12471,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12459,
+      "unassigned": 12471,
       "createdSystemsFromBodies": 0
     }
   },
@@ -7695,12 +7695,12 @@
       "planets": []
     },
     {
-      "name": "Arbazan (system)",
+      "name": "Arbazan system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Arbazan (system) primary",
+          "name": "Arbazan system primary",
           "type": "star"
         }
       ],
@@ -8313,6 +8313,18 @@
       "stars": [
         {
           "name": "Arthur Coleman primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Arthur Miller: Collected Plays 1944–1961",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Arthur Miller: Collected Plays 1944–1961 primary",
           "type": "star"
         }
       ],
@@ -17871,12 +17883,12 @@
       "planets": []
     },
     {
-      "name": "Canada Post",
+      "name": "Canada Post (in-universe)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Canada Post primary",
+          "name": "Canada Post (in-universe) primary",
           "type": "star"
         }
       ],
@@ -36063,6 +36075,18 @@
       "planets": []
     },
     {
+      "name": "FGC-893",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "FGC-893 primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Fiat 124 Sport Spider",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36819,12 +36843,96 @@
       "planets": []
     },
     {
+      "name": "Flag of California",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of California primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flag of Canada",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of Canada primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flag of France",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of France primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flag of Japan",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of Japan primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Flag of Nazi Germany",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Flag of Nazi Germany primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flag of Texas",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of Texas primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flag of the Netherlands",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of the Netherlands primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flag of the Republic of Texas",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flag of the Republic of Texas primary",
           "type": "star"
         }
       ],
@@ -72555,6 +72663,18 @@
       "planets": []
     },
     {
+      "name": "NBC (in-universe)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "NBC (in-universe) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "NC-05",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -72927,12 +73047,12 @@
       "planets": []
     },
     {
-      "name": "Netflix",
+      "name": "Netflix (in-universe)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Netflix primary",
+          "name": "Netflix (in-universe) primary",
           "type": "star"
         }
       ],
@@ -79119,6 +79239,18 @@
       "planets": []
     },
     {
+      "name": "Perino's",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Perino's primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pernaia system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -79689,6 +79821,18 @@
       "stars": [
         {
           "name": "Philippe Lim (Starfleet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Philippines",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Philippines primary",
           "type": "star"
         }
       ],
@@ -82401,6 +82545,18 @@
       "stars": [
         {
           "name": "Qualor primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Quam",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Quam primary",
           "type": "star"
         }
       ],
@@ -98523,6 +98679,18 @@
       "planets": []
     },
     {
+      "name": "Suliban system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Suliban system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Sullivan",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -109919,6 +110087,9 @@
           "name": "Arthur Coleman"
         },
         {
+          "name": "Arthur Miller: Collected Plays 1944–1961"
+        },
+        {
           "name": "Arthur Trill Building"
         },
         {
@@ -112919,7 +113090,7 @@
           "name": "Canada"
         },
         {
-          "name": "Canada Post"
+          "name": "Canada Post (in-universe)"
         },
         {
           "name": "Canadian"
@@ -118259,10 +118430,10 @@
           "name": "Ferengi casino ship"
         },
         {
-          "name": "Ferengi Code"
+          "name": "Ferengi code"
         },
         {
-          "name": "Ferengi code"
+          "name": "Ferengi Code"
         },
         {
           "name": "Ferengi Commerce Authority"
@@ -118634,7 +118805,28 @@
           "name": "Fladung Bottling Works"
         },
         {
+          "name": "Flag of California"
+        },
+        {
+          "name": "Flag of Canada"
+        },
+        {
+          "name": "Flag of France"
+        },
+        {
+          "name": "Flag of Japan"
+        },
+        {
           "name": "Flag of Nazi Germany"
+        },
+        {
+          "name": "Flag of Texas"
+        },
+        {
+          "name": "Flag of the Netherlands"
+        },
+        {
+          "name": "Flag of the Republic of Texas"
         },
         {
           "name": "Flag of the United States of America"
@@ -130322,6 +130514,9 @@
           "name": "Nazi Germany"
         },
         {
+          "name": "NBC (in-universe)"
+        },
+        {
           "name": "NC-05"
         },
         {
@@ -130442,7 +130637,7 @@
           "name": "Net Access"
         },
         {
-          "name": "Netflix"
+          "name": "Netflix (in-universe)"
         },
         {
           "name": "Netherlands"
@@ -132512,6 +132707,9 @@
           "name": "Perim"
         },
         {
+          "name": "Perino's"
+        },
+        {
           "name": "Pernaia Prime"
         },
         {
@@ -132690,6 +132888,9 @@
         },
         {
           "name": "Philippe Lim (Starfleet)"
+        },
+        {
+          "name": "Philippines"
         },
         {
           "name": "Phillip Jacobson"
@@ -141866,6 +142067,9 @@
           "name": "Union Bank Plaza"
         },
         {
+          "name": "Union Jack"
+        },
+        {
           "name": "Union League"
         },
         {
@@ -141983,7 +142187,7 @@
           "name": "United We Are Strong, United We Will Win"
         },
         {
-          "name": "Universal Studios (studio)"
+          "name": "Universal Studios (in-universe)"
         },
         {
           "name": "University of Bajor"
@@ -145309,6 +145513,18 @@
       "planets": []
     },
     {
+      "name": "Union Jack",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Union Jack primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Union League",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -145765,12 +145981,12 @@
       "planets": []
     },
     {
-      "name": "Universal Studios (studio)",
+      "name": "Universal Studios (in-universe)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Universal Studios (studio) primary",
+          "name": "Universal Studios (in-universe) primary",
           "type": "star"
         }
       ],
