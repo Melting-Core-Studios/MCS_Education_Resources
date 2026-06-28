@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-06-21T08:15:14+00:00",
+    "generatedAt": "2026-06-28T07:17:03+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7211,
+      "bodyPages": 7213,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6452,
-      "unassigned": 759,
+      "attached": 6453,
+      "unassigned": 760,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -95090,10 +95090,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -144709,7 +144709,7 @@
       ],
       "planets": [
         {
-          "name": "Torolis"
+          "name": "Torolis/Legends"
         }
       ]
     },
@@ -149171,6 +149171,9 @@
         },
         {
           "name": "Caddaw"
+        },
+        {
+          "name": "Caldus"
         },
         {
           "name": "Cassandran Worlds"
@@ -159300,6 +159303,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Vvaw"
+        },
         {
           "name": "Vvaw/Legends"
         }

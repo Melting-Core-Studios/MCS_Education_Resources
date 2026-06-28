@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-06-21T08:08:11+00:00",
+    "generatedAt": "2026-06-28T07:08:58+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12471,
+      "bodyPages": 12472,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12471,
+      "unassigned": 12472,
       "createdSystemsFromBodies": 0
     }
   },
@@ -42219,12 +42219,12 @@
       "planets": []
     },
     {
-      "name": "Golden Retriever",
+      "name": "Golden retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden Retriever primary",
+          "name": "Golden retriever primary",
           "type": "star"
         }
       ],
@@ -56523,12 +56523,12 @@
       "planets": []
     },
     {
-      "name": "Kalla system",
+      "name": "Kalla System",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Kalla system primary",
+          "name": "Kalla System primary",
           "type": "star"
         }
       ],
@@ -87627,12 +87627,12 @@
       "planets": []
     },
     {
-      "name": "Ross (cadet)",
+      "name": "Ross (Cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (cadet) primary",
+          "name": "Ross (Cadet) primary",
           "type": "star"
         }
       ],
@@ -118430,10 +118430,10 @@
           "name": "Ferengi casino ship"
         },
         {
-          "name": "Ferengi code"
+          "name": "Ferengi Code"
         },
         {
-          "name": "Ferengi Code"
+          "name": "Ferengi code"
         },
         {
           "name": "Ferengi Commerce Authority"
@@ -120287,10 +120287,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
           "name": "Goldfish"
@@ -135452,10 +135452,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -144206,6 +144206,9 @@
           "name": "Waffle"
         },
         {
+          "name": "Wake Me Up Before You Go-Go"
+        },
+        {
           "name": "Wales"
         },
         {
@@ -151135,6 +151138,18 @@
       "stars": [
         {
           "name": "Waffle primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Wake Me Up Before You Go-Go",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Wake Me Up Before You Go-Go primary",
           "type": "star"
         }
       ],
