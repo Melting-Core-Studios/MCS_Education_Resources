@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-06-28T07:08:58+00:00",
+    "generatedAt": "2026-07-05T06:49:09+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12472,
+      "bodyPages": 12473,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12472,
+      "unassigned": 12473,
       "createdSystemsFromBodies": 0
     }
   },
@@ -80211,6 +80211,18 @@
       "planets": []
     },
     {
+      "name": "Pikaru personnel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pikaru personnel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pilsner",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -87627,12 +87639,12 @@
       "planets": []
     },
     {
-      "name": "Ross (Cadet)",
+      "name": "Ross (cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (Cadet) primary",
+          "name": "Ross (cadet) primary",
           "type": "star"
         }
       ],
@@ -118430,10 +118442,10 @@
           "name": "Ferengi casino ship"
         },
         {
-          "name": "Ferengi Code"
+          "name": "Ferengi code"
         },
         {
-          "name": "Ferengi code"
+          "name": "Ferengi Code"
         },
         {
           "name": "Ferengi Commerce Authority"
@@ -132983,6 +132995,9 @@
           "name": "Pijar"
         },
         {
+          "name": "Pikaru personnel"
+        },
+        {
           "name": "Pilsner"
         },
         {
@@ -135452,10 +135467,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
           "name": "Ross (Chief)"

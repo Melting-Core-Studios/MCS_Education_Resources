@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-06-28T07:17:03+00:00",
+    "generatedAt": "2026-07-05T06:54:27+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7213,
+      "bodyPages": 7216,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6453,
-      "unassigned": 760,
+      "attached": 6454,
+      "unassigned": 762,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -34513,6 +34513,18 @@
           "name": "Lish"
         },
         {
+          "name": "Lish IV"
+        },
+        {
+          "name": "Lish V"
+        },
+        {
+          "name": "Lish VI"
+        },
+        {
+          "name": "Lish XI"
+        },
+        {
           "name": "Patar"
         },
         {
@@ -64195,18 +64207,6 @@
           "name": "Ingo/Legends"
         },
         {
-          "name": "Lish IV"
-        },
-        {
-          "name": "Lish V"
-        },
-        {
-          "name": "Lish VI"
-        },
-        {
-          "name": "Lish XI"
-        },
-        {
           "name": "Meragon"
         },
         {
@@ -88675,7 +88675,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Marranis"
+        }
+      ]
     },
     {
       "name": "Marranis system/Legends",
@@ -121295,10 +121299,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -150019,6 +150023,9 @@
           "name": "Observatory Moon"
         },
         {
+          "name": "Obunda"
+        },
+        {
           "name": "Odessen"
         },
         {
@@ -150770,6 +150777,9 @@
         },
         {
           "name": "Unidentified planet (balyeg)"
+        },
+        {
+          "name": "Unidentified planet (Bendu Fry)"
         },
         {
           "name": "Unidentified planet (blue-skinned race)"
