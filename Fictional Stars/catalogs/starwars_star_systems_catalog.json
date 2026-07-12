@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-07-05T06:54:27+00:00",
+    "generatedAt": "2026-07-12T06:16:58+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7216,
+      "bodyPages": 7218,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
       "attached": 6454,
-      "unassigned": 762,
+      "unassigned": 764,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -95094,10 +95094,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -121299,10 +121299,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -150491,6 +150491,9 @@
           "name": "Troukree homeworld"
         },
         {
+          "name": "Trygyn"
+        },
+        {
           "name": "Ttaz"
         },
         {
@@ -150711,6 +150714,9 @@
         },
         {
           "name": "Unidentified moon (Kathol Rift)"
+        },
+        {
+          "name": "Unidentified moon (mine)"
         },
         {
           "name": "Unidentified moon (Moonbender Colony)"

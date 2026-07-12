@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-07-05T06:49:09+00:00",
+    "generatedAt": "2026-07-12T06:11:31+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12473,
+      "bodyPages": 12475,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12473,
+      "unassigned": 12475,
       "createdSystemsFromBodies": 0
     }
   },
@@ -2757,6 +2757,18 @@
       "stars": [
         {
           "name": "Adams Street primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Adarak Prime system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Adarak Prime system primary",
           "type": "star"
         }
       ],
@@ -6021,6 +6033,18 @@
       "stars": [
         {
           "name": "Amelia Moon series primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Amelia Moon series characters",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Amelia Moon series characters primary",
           "type": "star"
         }
       ],
@@ -11745,6 +11769,18 @@
       "stars": [
         {
           "name": "Belmont primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Beloti",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beloti primary",
           "type": "star"
         }
       ],
@@ -35775,6 +35811,18 @@
       "planets": []
     },
     {
+      "name": "FDBnet",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "FDBnet primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Fear and Trembling",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -44535,12 +44583,12 @@
       "planets": []
     },
     {
-      "name": "Halka",
+      "name": "Halka system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Halka primary",
+          "name": "Halka system primary",
           "type": "star"
         }
       ],
@@ -79143,6 +79191,18 @@
       "planets": []
     },
     {
+      "name": "Penthara system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Penthara system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "People in Luther Sloan's memory",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -87639,12 +87699,12 @@
       "planets": []
     },
     {
-      "name": "Ross (cadet)",
+      "name": "Ross (Cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (cadet) primary",
+          "name": "Ross (Cadet) primary",
           "type": "star"
         }
       ],
@@ -109421,6 +109481,9 @@
           "name": "Amelia Moon series"
         },
         {
+          "name": "Amelia Moon series characters"
+        },
+        {
           "name": "Amelie Claire"
         },
         {
@@ -118325,6 +118388,9 @@
           "name": "Favinit plant"
         },
         {
+          "name": "FDBnet"
+        },
+        {
           "name": "Fear and Trembling"
         },
         {
@@ -118442,10 +118508,10 @@
           "name": "Ferengi casino ship"
         },
         {
-          "name": "Ferengi code"
+          "name": "Ferengi Code"
         },
         {
-          "name": "Ferengi Code"
+          "name": "Ferengi code"
         },
         {
           "name": "Ferengi Commerce Authority"
@@ -121031,7 +121097,7 @@
           "name": "Halicarnassus"
         },
         {
-          "name": "Halkan homeworld"
+          "name": "Halka"
         },
         {
           "name": "Hall of Ancient Thought"
@@ -135467,10 +135533,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
           "name": "Ross (Chief)"
