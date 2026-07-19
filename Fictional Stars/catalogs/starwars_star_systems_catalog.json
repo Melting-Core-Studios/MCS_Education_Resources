@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-07-12T06:16:58+00:00",
+    "generatedAt": "2026-07-19T06:12:56+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7218,
+      "bodyPages": 7220,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6454,
-      "unassigned": 764,
+      "attached": 6451,
+      "unassigned": 769,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -16015,11 +16015,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Bheriz"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Bheriz system/Legends",
@@ -121299,10 +121295,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -150494,6 +150490,9 @@
           "name": "Trygyn"
         },
         {
+          "name": "Tsutsuuya"
+        },
+        {
           "name": "Ttaz"
         },
         {
@@ -150549,6 +150548,9 @@
         },
         {
           "name": "Unidentified barren planet"
+        },
+        {
+          "name": "Unidentified barren planet (bubble wort projectors)"
         },
         {
           "name": "Unidentified besieged moon"
@@ -150638,10 +150640,10 @@
           "name": "Unidentified ice planet (industrialist)"
         },
         {
-          "name": "Unidentified ice planet (Somareeva)"
+          "name": "Unidentified ice planet (Outer Rim)"
         },
         {
-          "name": "Unidentified icy planet"
+          "name": "Unidentified ice planet (Somareeva)"
         },
         {
           "name": "Unidentified icy planet (duel)"
@@ -150827,6 +150829,9 @@
           "name": "Unidentified planet (Dragon Void Run)"
         },
         {
+          "name": "Unidentified planet (Droid Paradise)"
+        },
+        {
           "name": "Unidentified planet (droid uprising)"
         },
         {
@@ -150921,6 +150926,9 @@
         },
         {
           "name": "Unidentified planet (Mother)"
+        },
+        {
+          "name": "Unidentified planet (Nagi Tsukumo)"
         },
         {
           "name": "Unidentified planet (Nes Ukul)"
@@ -151101,6 +151109,9 @@
         },
         {
           "name": "Unidentified snowy planet"
+        },
+        {
+          "name": "Unidentified snowy planet (Clone Wars)"
         },
         {
           "name": "Unidentified snowy world"
@@ -163908,13 +163919,7 @@
           "name": "Twelfth moon of Yout"
         },
         {
-          "name": "Yout"
-        },
-        {
           "name": "Yout 12"
-        },
-        {
-          "name": "Yout/Legends"
         }
       ]
     },

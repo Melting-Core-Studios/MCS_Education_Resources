@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-07-12T06:11:31+00:00",
+    "generatedAt": "2026-07-19T06:06:30+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12475,
+      "bodyPages": 12485,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12475,
+      "unassigned": 12485,
       "createdSystemsFromBodies": 0
     }
   },
@@ -21,6 +21,18 @@
       "stars": [
         {
           "name": "& Juliet primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "'S Wonderful",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "'S Wonderful primary",
           "type": "star"
         }
       ],
@@ -10575,6 +10587,18 @@
       "planets": []
     },
     {
+      "name": "Bank manager",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bank manager primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Bank of America",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -12903,6 +12927,18 @@
       "planets": []
     },
     {
+      "name": "Beta Octantis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beta Octantis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Beta Ophiuchi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -14025,6 +14061,18 @@
       "stars": [
         {
           "name": "Blues primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "BMO",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "BMO primary",
           "type": "star"
         }
       ],
@@ -42267,12 +42315,12 @@
       "planets": []
     },
     {
-      "name": "Golden retriever",
+      "name": "Golden Retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden retriever primary",
+          "name": "Golden Retriever primary",
           "type": "star"
         }
       ],
@@ -56571,12 +56619,12 @@
       "planets": []
     },
     {
-      "name": "Kalla System",
+      "name": "Kalla system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Kalla System primary",
+          "name": "Kalla system primary",
           "type": "star"
         }
       ],
@@ -60621,6 +60669,18 @@
       "stars": [
         {
           "name": "Lap dog primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Laplings",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Laplings primary",
           "type": "star"
         }
       ],
@@ -79455,6 +79515,18 @@
       "planets": []
     },
     {
+      "name": "Pesto",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pesto primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pete Conrad",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -81027,6 +81099,18 @@
       "planets": []
     },
     {
+      "name": "Pomegranate",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pomegranate primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pomoroy",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -82371,6 +82455,18 @@
       "planets": []
     },
     {
+      "name": "Pumpernickel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pumpernickel primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pumpkin",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -82413,6 +82509,18 @@
       "stars": [
         {
           "name": "Pupusa primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Purell",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Purell primary",
           "type": "star"
         }
       ],
@@ -92481,6 +92589,18 @@
       "stars": [
         {
           "name": "Sherlock Holmes primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Sherlock Jr.",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Sherlock Jr. primary",
           "type": "star"
         }
       ],
@@ -108086,6 +108206,9 @@
           "name": "'monehead"
         },
         {
+          "name": "'S Wonderful"
+        },
+        {
           "name": "0718"
         },
         {
@@ -111062,6 +111185,9 @@
           "name": "Banjo"
         },
         {
+          "name": "Bank manager"
+        },
+        {
           "name": "Bank of America"
         },
         {
@@ -112014,6 +112140,9 @@
         },
         {
           "name": "Blues"
+        },
+        {
+          "name": "BMO"
         },
         {
           "name": "BMR"
@@ -120365,10 +120494,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
           "name": "Goldfish"
@@ -126743,6 +126872,9 @@
           "name": "Lapeeria"
         },
         {
+          "name": "Laplings"
+        },
+        {
           "name": "Laporin"
         },
         {
@@ -132854,6 +132986,9 @@
           "name": "Pesca"
         },
         {
+          "name": "Pesto"
+        },
+        {
           "name": "PetaQ"
         },
         {
@@ -133322,6 +133457,9 @@
           "name": "Polyphemus moth"
         },
         {
+          "name": "Pomegranate"
+        },
+        {
           "name": "Pomkot"
         },
         {
@@ -133736,6 +133874,9 @@
           "name": "Pullock V"
         },
         {
+          "name": "Pumpernickel"
+        },
+        {
           "name": "Pumpkin"
         },
         {
@@ -133746,6 +133887,9 @@
         },
         {
           "name": "Pupusa"
+        },
+        {
+          "name": "Purell"
         },
         {
           "name": "Puri"
@@ -137076,6 +137220,9 @@
         },
         {
           "name": "Sherlock Holmes"
+        },
+        {
+          "name": "Sherlock Jr."
         },
         {
           "name": "Sherman's March on Atlanta"
@@ -144504,6 +144651,9 @@
         },
         {
           "name": "Wells"
+        },
+        {
+          "name": "Wells Fargo"
         },
         {
           "name": "Wells Fargo Bank"
@@ -151999,6 +152149,18 @@
       "stars": [
         {
           "name": "Wells primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Wells Fargo",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Wells Fargo primary",
           "type": "star"
         }
       ],
