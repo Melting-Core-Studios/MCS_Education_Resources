@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-07-19T06:12:56+00:00",
+    "generatedAt": "2026-07-26T06:19:33+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7220,
+      "bodyPages": 7224,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6451,
-      "unassigned": 769,
+      "attached": 6453,
+      "unassigned": 771,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -46253,6 +46253,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Unidentified gas giant (Farj system)"
+        },
         {
           "name": "Unidentified moon (Farj system)"
         }
@@ -95090,10 +95093,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -147734,6 +147737,9 @@
       "planets": [
         {
           "name": "Imena"
+        },
+        {
+          "name": "Unidentified moon (Imena)"
         }
       ]
     },
@@ -149530,6 +149536,9 @@
           "name": "Inoli"
         },
         {
+          "name": "Izzic"
+        },
+        {
           "name": "J'doytzin III"
         },
         {
@@ -149975,6 +149984,9 @@
         },
         {
           "name": "Myoca"
+        },
+        {
+          "name": "Nagi Tsukumo's homeworld"
         },
         {
           "name": "Nal Kapok/LEGO"

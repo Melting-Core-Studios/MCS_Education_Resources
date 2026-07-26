@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-07-19T06:06:30+00:00",
+    "generatedAt": "2026-07-26T06:13:21+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12485,
+      "bodyPages": 12493,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12485,
+      "unassigned": 12493,
       "createdSystemsFromBodies": 0
     }
   },
@@ -1287,6 +1287,18 @@
       "planets": []
     },
     {
+      "name": "A Princess of Mars",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A Princess of Mars primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "A Tale of Two Cities",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1317,6 +1329,18 @@
       "stars": [
         {
           "name": "A Wrinkle in Space primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A'Sha",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A'Sha primary",
           "type": "star"
         }
       ],
@@ -16539,18 +16563,6 @@
       "planets": []
     },
     {
-      "name": "Business card",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Business card primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Butter",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -19317,6 +19329,18 @@
       "stars": [
         {
           "name": "Celtris system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Cenozoic",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cenozoic primary",
           "type": "star"
         }
       ],
@@ -29919,6 +29943,18 @@
       "planets": []
     },
     {
+      "name": "Dol'drm (planet)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dol'drm (planet) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Dolan",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -34767,6 +34803,18 @@
       "planets": []
     },
     {
+      "name": "Ethiopia",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ethiopia primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Eugene Cernan",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -37041,6 +37089,18 @@
       "stars": [
         {
           "name": "Flag of the United States of America primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Flags of Earth",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Flags of Earth primary",
           "type": "star"
         }
       ],
@@ -42315,12 +42375,12 @@
       "planets": []
     },
     {
-      "name": "Golden Retriever",
+      "name": "Golden retriever",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Golden Retriever primary",
+          "name": "Golden retriever primary",
           "type": "star"
         }
       ],
@@ -43881,18 +43941,6 @@
       "stars": [
         {
           "name": "Guidance and Navigation primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Guidebook",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Guidebook primary",
           "type": "star"
         }
       ],
@@ -87807,12 +87855,12 @@
       "planets": []
     },
     {
-      "name": "Ross (Cadet)",
+      "name": "Ross (cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (Cadet) primary",
+          "name": "Ross (cadet) primary",
           "type": "star"
         }
       ],
@@ -108407,6 +108455,9 @@
           "name": "A Place Called Freedom"
         },
         {
+          "name": "A Princess of Mars"
+        },
+        {
           "name": "A Tale of Two Cities"
         },
         {
@@ -108414,6 +108465,9 @@
         },
         {
           "name": "A Wrinkle in Space"
+        },
+        {
+          "name": "A'Sha"
         },
         {
           "name": "A'trom"
@@ -112916,9 +112970,6 @@
           "name": "Busch Gardens"
         },
         {
-          "name": "Business card"
-        },
-        {
           "name": "Butter"
         },
         {
@@ -113814,6 +113865,9 @@
         },
         {
           "name": "Celtris III"
+        },
+        {
+          "name": "Cenozoic"
         },
         {
           "name": "Cent"
@@ -116831,6 +116885,9 @@
           "name": "Dog"
         },
         {
+          "name": "Dol'drm (planet)"
+        },
+        {
           "name": "Dolak"
         },
         {
@@ -118199,6 +118256,9 @@
           "name": "Ethics of Collecting"
         },
         {
+          "name": "Ethiopia"
+        },
+        {
           "name": "Eugene Cernan"
         },
         {
@@ -118550,6 +118610,9 @@
           "name": "Federation Drive"
         },
         {
+          "name": "Federation Embassy (Qo'noS)"
+        },
+        {
           "name": "Federation Headquarters building"
         },
         {
@@ -118637,10 +118700,10 @@
           "name": "Ferengi casino ship"
         },
         {
-          "name": "Ferengi Code"
+          "name": "Ferengi code"
         },
         {
-          "name": "Ferengi code"
+          "name": "Ferengi Code"
         },
         {
           "name": "Ferengi Commerce Authority"
@@ -119037,6 +119100,12 @@
         },
         {
           "name": "Flag of the United States of America"
+        },
+        {
+          "name": "Flag of Vulcan"
+        },
+        {
+          "name": "Flags of Earth"
         },
         {
           "name": "Flagstaff"
@@ -120494,10 +120563,10 @@
           "name": "Golden Gate Park"
         },
         {
-          "name": "Golden retriever"
+          "name": "Golden Retriever"
         },
         {
-          "name": "Golden Retriever"
+          "name": "Golden retriever"
         },
         {
           "name": "Goldfish"
@@ -120999,9 +121068,6 @@
         },
         {
           "name": "Guidance and Navigation"
-        },
-        {
-          "name": "Guidebook"
         },
         {
           "name": "Guilty As Charged"
@@ -135677,10 +135743,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -142025,6 +142091,9 @@
           "name": "Tucson"
         },
         {
+          "name": "Tulaxar"
+        },
+        {
           "name": "Tulet"
         },
         {
@@ -144255,6 +144324,9 @@
         },
         {
           "name": "Vulcan mocha"
+        },
+        {
+          "name": "Vulcan museum"
         },
         {
           "name": "Vulcan mythology"
