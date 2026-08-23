@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-07-26T06:19:33+00:00",
+    "generatedAt": "2026-08-23T04:06:59+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7224,
+      "bodyPages": 7237,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6453,
-      "unassigned": 771,
+      "attached": 6457,
+      "unassigned": 780,
       "createdSystemsFromBodies": 25
     },
     "includesMoons": true
@@ -16082,6 +16082,22 @@
       "planets": []
     },
     {
+      "name": "Bibin system",
+      "category": "Single",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "stars": [
+        {
+          "name": "Bibin system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Talos"
+        }
+      ]
+    },
+    {
       "name": "Bid'jerma system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -18921,6 +18937,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Seikosha"
+        },
         {
           "name": "Seikosha/Legends"
         }
@@ -66608,6 +66627,9 @@
       "planets": [
         {
           "name": "Janix"
+        },
+        {
+          "name": "Janix moon 1"
         }
       ]
     },
@@ -95093,10 +95115,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -102078,7 +102100,7 @@
       ],
       "planets": [
         {
-          "name": "Ogoth Tiir"
+          "name": "Ogoth Tiir/Legends"
         }
       ]
     },
@@ -126251,22 +126273,6 @@
       "planets": []
     },
     {
-      "name": "Seikosha system",
-      "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
-      "stars": [
-        {
-          "name": "Seikosha system primary",
-          "type": "star"
-        }
-      ],
-      "planets": [
-        {
-          "name": "Seikosha"
-        }
-      ]
-    },
-    {
       "name": "Seitia Prime system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -144712,6 +144718,9 @@
       ],
       "planets": [
         {
+          "name": "Torolis"
+        },
+        {
           "name": "Torolis/Legends"
         }
       ]
@@ -149047,6 +149056,9 @@
           "name": "Alaban"
         },
         {
+          "name": "Alakor"
+        },
+        {
           "name": "Alderaan (The Star Wars)"
         },
         {
@@ -149128,6 +149140,9 @@
           "name": "Balionn-Gur's planet"
         },
         {
+          "name": "Bantek IV"
+        },
+        {
           "name": "Baori Minor"
         },
         {
@@ -149153,6 +149168,9 @@
         },
         {
           "name": "Bezha Two"
+        },
+        {
+          "name": "Bibin"
         },
         {
           "name": "Blix Annon's homeworld"
@@ -149192,6 +149210,12 @@
         },
         {
           "name": "Chanj"
+        },
+        {
+          "name": "Charity"
+        },
+        {
+          "name": "Charon (moon)"
         },
         {
           "name": "Charon homeworld"
@@ -149602,6 +149626,9 @@
           "name": "Katou"
         },
         {
+          "name": "Kawabe"
+        },
+        {
           "name": "Keelia"
         },
         {
@@ -149929,6 +149956,9 @@
           "name": "Mertes"
         },
         {
+          "name": "Mesara"
+        },
+        {
           "name": "Mestare"
         },
         {
@@ -150049,6 +150079,9 @@
           "name": "Okala Five"
         },
         {
+          "name": "Okara (planet)"
+        },
+        {
           "name": "Olcatz"
         },
         {
@@ -150077,6 +150110,9 @@
         },
         {
           "name": "Ord Gertoth"
+        },
+        {
+          "name": "Ord Ryla"
         },
         {
           "name": "Ord Tellarom/LEGO"
@@ -150119,6 +150155,9 @@
         },
         {
           "name": "Philaxia/Legends"
+        },
+        {
+          "name": "Phostera"
         },
         {
           "name": "Pirros"
@@ -150650,9 +150689,6 @@
         },
         {
           "name": "Unidentified ice planet (industrialist)"
-        },
-        {
-          "name": "Unidentified ice planet (Outer Rim)"
         },
         {
           "name": "Unidentified ice planet (Somareeva)"
@@ -151444,6 +151480,18 @@
       "planets": []
     },
     {
+      "name": "Unidentified star system (Charity)",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Unidentified star system (Charity) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Unidentified star system (FateSpinner)",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -151486,18 +151534,6 @@
       "stars": [
         {
           "name": "Unidentified star system (Inner Rim) primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Unidentified star system (Lah Zhima)",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Unidentified star system (Lah Zhima) primary",
           "type": "star"
         }
       ],
@@ -157179,6 +157215,18 @@
       "planets": []
     },
     {
+      "name": "Vierge system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vierge system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Viga system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -162289,6 +162337,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Yaago's star system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Yaago's star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Yaago"
+        }
+      ]
     },
     {
       "name": "Yablari system",
