@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-08-23T04:06:59+00:00",
+    "generatedAt": "2026-09-13T08:23:20+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7237,
+      "bodyPages": 7247,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6457,
-      "unassigned": 780,
-      "createdSystemsFromBodies": 25
+      "attached": 6458,
+      "unassigned": 789,
+      "createdSystemsFromBodies": 24
     },
     "includesMoons": true
   },
@@ -16084,7 +16084,7 @@
     {
       "name": "Bibin system",
       "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Bibin system primary",
@@ -29897,6 +29897,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Criterun system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Criterun system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Unidentified planet (Criterun system)"
+        }
+      ]
     },
     {
       "name": "Critoki system",
@@ -56026,11 +56042,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Gottlegoob"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Gottlegoob system/Legends",
@@ -81013,11 +81025,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Lanos"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Lanos system/Legends",
@@ -85389,6 +85397,22 @@
       "planets": []
     },
     {
+      "name": "Luunata system",
+      "category": "Single",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "stars": [
+        {
+          "name": "Luunata system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Luunata"
+        }
+      ]
+    },
+    {
       "name": "Luuq system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -87626,6 +87650,9 @@
         },
         {
           "name": "Mandalore/Legends"
+        },
+        {
+          "name": "Mesumika"
         },
         {
           "name": "Nog"
@@ -95115,10 +95142,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
           "name": "Pa'aal"
@@ -96505,7 +96532,7 @@
     {
       "name": "Nass Diona system",
       "category": "Single",
-      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Nass Diona system primary",
@@ -118538,11 +118565,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Regel Eight"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Regel system/Legends",
@@ -149206,6 +149229,9 @@
           "name": "Cassandran Worlds/Legends"
         },
         {
+          "name": "Cayco"
+        },
+        {
           "name": "Celadon"
         },
         {
@@ -149371,6 +149397,9 @@
           "name": "Enujut"
         },
         {
+          "name": "Ergeshui"
+        },
+        {
           "name": "Estarvera"
         },
         {
@@ -149396,6 +149425,9 @@
         },
         {
           "name": "Fallex"
+        },
+        {
+          "name": "Felshiia"
         },
         {
           "name": "Floris"
@@ -149432,6 +149464,9 @@
         },
         {
           "name": "Galtor VI"
+        },
+        {
+          "name": "Gan Tarre"
         },
         {
           "name": "Gank homeworld"
@@ -149911,9 +149946,6 @@
           "name": "Lupr'or homeworld"
         },
         {
-          "name": "Luunata"
-        },
-        {
           "name": "Lyta"
         },
         {
@@ -149921,6 +149953,9 @@
         },
         {
           "name": "Maateen"
+        },
+        {
+          "name": "Makoma Ko"
         },
         {
           "name": "Mala (planet)"
@@ -150115,6 +150150,9 @@
           "name": "Ord Ryla"
         },
         {
+          "name": "Ord Ryla's furthest moon"
+        },
+        {
           "name": "Ord Tellarom/LEGO"
         },
         {
@@ -150271,6 +150309,9 @@
           "name": "Sainte-Evanëflore"
         },
         {
+          "name": "Samaz"
+        },
+        {
           "name": "Sanod"
         },
         {
@@ -150404,6 +150445,9 @@
         },
         {
           "name": "Talman III"
+        },
+        {
+          "name": "Tanay"
         },
         {
           "name": "Tao"
@@ -150778,6 +150822,9 @@
           "name": "Unidentified moon (Ochi)"
         },
         {
+          "name": "Unidentified moon (Vaiken Spacedock)"
+        },
+        {
           "name": "Unidentified mountainous planet (Kyber crystal)"
         },
         {
@@ -151094,6 +151141,9 @@
         },
         {
           "name": "Unidentified planet (Vagaari pirate base)"
+        },
+        {
+          "name": "Unidentified planet (Vaiken Spacedock)"
         },
         {
           "name": "Unidentified planet (Vestara Khai)"
@@ -151955,7 +152005,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Upell"
+        }
+      ]
     },
     {
       "name": "Upell system/Legends",
@@ -153514,11 +153568,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Vaenrood"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Vaenrood system/Legends",
@@ -158302,6 +158352,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Vondarc"
+        },
         {
           "name": "Vondarc/Legends"
         }
