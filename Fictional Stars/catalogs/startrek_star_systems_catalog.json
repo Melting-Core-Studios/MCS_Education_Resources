@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-09-13T08:16:45+00:00",
+    "generatedAt": "2026-10-18T07:59:31+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12795,
+      "bodyPages": 12817,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12795,
+      "unassigned": 12817,
       "createdSystemsFromBodies": 0
     }
   },
@@ -333,6 +333,18 @@
       "stars": [
         {
           "name": "2 News primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "2001: A Space Odyssey",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "2001: A Space Odyssey primary",
           "type": "star"
         }
       ],
@@ -843,6 +855,18 @@
       "planets": []
     },
     {
+      "name": "61 Ursae Majoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "61 Ursae Majoris primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "61 Virginis",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1179,18 +1203,6 @@
       "planets": []
     },
     {
-      "name": "99 Pegasi",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "99 Pegasi primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "9th Street",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -1341,6 +1353,18 @@
       "stars": [
         {
           "name": "A Princess of Mars primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "A Rich and Dangerous Game",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "A Rich and Dangerous Game primary",
           "type": "star"
         }
       ],
@@ -8367,6 +8391,18 @@
       "planets": []
     },
     {
+      "name": "Architecture Words",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Architecture Words primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "ARCO Tower",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -8613,6 +8649,18 @@
       "stars": [
         {
           "name": "Ariane 1 primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ariel personnel",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ariel personnel primary",
           "type": "star"
         }
       ],
@@ -12171,6 +12219,18 @@
       "planets": []
     },
     {
+      "name": "Bay leaf",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bay leaf primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Bay of Bengal",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -13311,6 +13371,18 @@
       "planets": []
     },
     {
+      "name": "Beta 16 Ceti",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beta 16 Ceti primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Beta Agni system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -13353,6 +13425,18 @@
       "stars": [
         {
           "name": "Beta Aurigae binary system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Beta Caeli",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Beta Caeli primary",
           "type": "star"
         }
       ],
@@ -17559,18 +17643,6 @@
       "planets": []
     },
     {
-      "name": "Bus stop",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Bus stop primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Busch Gardens",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -18363,60 +18435,12 @@
       "planets": []
     },
     {
-      "name": "Cadillac Fleetwood 75",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Cadillac Fleetwood 75 primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Cadillac Series 353",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Cadillac Series 353 primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Cadillac Seville",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Cadillac Seville primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Cadillac V-12",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Cadillac V-12 primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Cadillac V-16",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Cadillac V-16 primary",
           "type": "star"
         }
       ],
@@ -18609,6 +18633,18 @@
       "stars": [
         {
           "name": "Caldos system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Caleb",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Caleb primary",
           "type": "star"
         }
       ],
@@ -20919,6 +20955,18 @@
       "planets": []
     },
     {
+      "name": "Chapterhouse: Dune",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Chapterhouse: Dune primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Chara",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -21909,18 +21957,6 @@
       "stars": [
         {
           "name": "Chi 1 Orionis primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Chi Ceti A",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Chi Ceti A primary",
           "type": "star"
         }
       ],
@@ -25983,6 +26019,18 @@
       "planets": []
     },
     {
+      "name": "Crimson Guard",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Crimson Guard primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Crisia occidental",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -28047,6 +28095,18 @@
       "planets": []
     },
     {
+      "name": "Dance music",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dance music primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Dandelion",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -28425,6 +28485,18 @@
       "stars": [
         {
           "name": "Daryl Baskin (Lieutenant Commander) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Dashing",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Dashing primary",
           "type": "star"
         }
       ],
@@ -29667,6 +29739,18 @@
       "planets": []
     },
     {
+      "name": "Delta Aurigae",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Delta Aurigae primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Delta Corvi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -29679,12 +29763,36 @@
       "planets": []
     },
     {
+      "name": "Delta Doradus",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Delta Doradus primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Delta Equulei",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Delta Equulei primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Delta Geminorum",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Delta Geminorum primary",
           "type": "star"
         }
       ],
@@ -34839,6 +34947,18 @@
       "planets": []
     },
     {
+      "name": "Elysian Kingdom (ship)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Elysian Kingdom (ship) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Embarcadero",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36171,6 +36291,18 @@
       "planets": []
     },
     {
+      "name": "Eta Aquarii",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Eta Aquarii primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Eta Cassiopeiae",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36309,6 +36441,18 @@
       "stars": [
         {
           "name": "Eta Ursae Majoris primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Eta² Hydri",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Eta² Hydri primary",
           "type": "star"
         }
       ],
@@ -37623,6 +37767,18 @@
       "planets": []
     },
     {
+      "name": "Fedrick-M",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Fedrick-M primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Feinberg's Loan and Pawn",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -37959,6 +38115,18 @@
       "planets": []
     },
     {
+      "name": "Fig (fruit)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Fig (fruit) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Fig tree",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -38181,6 +38349,18 @@
       "stars": [
         {
           "name": "Fire ant primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Fire department",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Fire department primary",
           "type": "star"
         }
       ],
@@ -44805,6 +44985,18 @@
       "stars": [
         {
           "name": "GRB 34 primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Gre'thor system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Gre'thor system primary",
           "type": "star"
         }
       ],
@@ -51627,12 +51819,36 @@
       "planets": []
     },
     {
+      "name": "Iota Boötis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Iota Boötis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Iota Carinae",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Iota Carinae primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Iota Cassiopeiae",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Iota Cassiopeiae primary",
           "type": "star"
         }
       ],
@@ -51717,6 +51933,18 @@
       "stars": [
         {
           "name": "Iota Leonis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Iota Microscopii",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Iota Microscopii primary",
           "type": "star"
         }
       ],
@@ -58995,6 +59223,18 @@
       "planets": []
     },
     {
+      "name": "Kappa Geminorum",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kappa Geminorum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Kappa Ophiuchi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -59013,6 +59253,18 @@
       "stars": [
         {
           "name": "Kappa Pegasi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kappa Persei",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kappa Persei primary",
           "type": "star"
         }
       ],
@@ -59229,6 +59481,18 @@
       "stars": [
         {
           "name": "Kashimuro Nozawa primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kasq system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kasq system primary",
           "type": "star"
         }
       ],
@@ -60327,6 +60591,18 @@
       "planets": []
     },
     {
+      "name": "Key of Consequence",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Key of Consequence primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Keyla Detmer",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -60405,6 +60681,18 @@
       "stars": [
         {
           "name": "Khazara system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Khionia system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Khionia system primary",
           "type": "star"
         }
       ],
@@ -62535,12 +62823,12 @@
       "planets": []
     },
     {
-      "name": "Laap System",
+      "name": "Laap system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Laap System primary",
+          "name": "Laap system primary",
           "type": "star"
         }
       ],
@@ -62589,6 +62877,18 @@
       "stars": [
         {
           "name": "Lada primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lady Audrey's Woods",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lady Audrey's Woods primary",
           "type": "star"
         }
       ],
@@ -62805,6 +63105,18 @@
       "stars": [
         {
           "name": "Lambda Coronae Borealis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lambda Crateris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lambda Crateris primary",
           "type": "star"
         }
       ],
@@ -64137,6 +64449,18 @@
       "stars": [
         {
           "name": "Leto (33rd century) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Letter of Accords",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Letter of Accords primary",
           "type": "star"
         }
       ],
@@ -68043,6 +68367,18 @@
       "planets": []
     },
     {
+      "name": "Maluria Regulus",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Maluria Regulus primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Malurian system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -70119,6 +70455,18 @@
       "planets": []
     },
     {
+      "name": "Max (chef)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Max (chef) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Max Collins (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -70827,6 +71175,18 @@
       "planets": []
     },
     {
+      "name": "Medieval Times",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Medieval Times primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Mediterranean",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -71061,42 +71421,6 @@
       "stars": [
         {
           "name": "Mercedes-Benz primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Mercedes-Benz 200 Lang",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Mercedes-Benz 200 Lang primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Mercedes-Benz 230 Lang",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Mercedes-Benz 230 Lang primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Mercedes-Benz G4",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Mercedes-Benz G4 primary",
           "type": "star"
         }
       ],
@@ -74097,6 +74421,18 @@
       "stars": [
         {
           "name": "Movieland Wax Museum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Mowtown",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Mowtown primary",
           "type": "star"
         }
       ],
@@ -77643,6 +77979,18 @@
       "planets": []
     },
     {
+      "name": "Nu Tauri",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nu Tauri primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Nu'uausala",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -80259,6 +80607,18 @@
       "planets": []
     },
     {
+      "name": "Owl",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Owl primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Ox",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -81393,6 +81753,18 @@
       "stars": [
         {
           "name": "Parrot primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Parsley",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Parsley primary",
           "type": "star"
         }
       ],
@@ -83307,6 +83679,18 @@
       "planets": []
     },
     {
+      "name": "Pi Canis Majoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Pi Canis Majoris primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Pi Hydrae",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -83433,18 +83817,6 @@
       "stars": [
         {
           "name": "Pickford primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "Pickup truck",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Pickup truck primary",
           "type": "star"
         }
       ],
@@ -86289,6 +86661,18 @@
       "stars": [
         {
           "name": "Quetzalcoatl primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Qui'Tu system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Qui'Tu system primary",
           "type": "star"
         }
       ],
@@ -90003,6 +90387,18 @@
       "planets": []
     },
     {
+      "name": "RMS Queen Mary",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "RMS Queen Mary primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "RMS Titanic",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -91311,12 +91707,12 @@
       "planets": []
     },
     {
-      "name": "Ross (Cadet)",
+      "name": "Ross (cadet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Ross (Cadet) primary",
+          "name": "Ross (cadet) primary",
           "type": "star"
         }
       ],
@@ -93063,12 +93459,24 @@
       "planets": []
     },
     {
-      "name": "Salazar",
+      "name": "Salazar (Crewman)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Salazar primary",
+          "name": "Salazar (Crewman) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Salazar (Ensign)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Salazar (Ensign) primary",
           "type": "star"
         }
       ],
@@ -97095,18 +97503,6 @@
       "planets": []
     },
     {
-      "name": "SK",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "SK primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Skaideion system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -97125,6 +97521,18 @@
       "stars": [
         {
           "name": "Skeralyx system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Ski Magazine",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Ski Magazine primary",
           "type": "star"
         }
       ],
@@ -97485,6 +97893,18 @@
       "stars": [
         {
           "name": "So Good primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "So This is Spring",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "So This is Spring primary",
           "type": "star"
         }
       ],
@@ -97977,6 +98397,18 @@
       "stars": [
         {
           "name": "Soukara system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Soul music",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Soul music primary",
           "type": "star"
         }
       ],
@@ -99513,6 +99945,18 @@
       "stars": [
         {
           "name": "Starbucks Coffee primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Starfall (sword)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Starfall (sword) primary",
           "type": "star"
         }
       ],
@@ -102339,18 +102783,6 @@
       "planets": []
     },
     {
-      "name": "Studebaker Standard Six",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Studebaker Standard Six primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Stuffing",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -102813,6 +103245,18 @@
       "stars": [
         {
           "name": "Swahili language primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Swamp of Infinite Death",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Swamp of Infinite Death primary",
           "type": "star"
         }
       ],
@@ -105057,6 +105501,18 @@
       "stars": [
         {
           "name": "Taugan system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Taugus",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Taugus primary",
           "type": "star"
         }
       ],
@@ -107523,18 +107979,6 @@
       "planets": []
     },
     {
-      "name": "The Queen Mary",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "The Queen Mary primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "The Raven",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -107625,6 +108069,18 @@
       "stars": [
         {
           "name": "The Ritz-Carlton Hotel, Los Angeles primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "The Rockefellers",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "The Rockefellers primary",
           "type": "star"
         }
       ],
@@ -109755,6 +110211,18 @@
       "planets": []
     },
     {
+      "name": "Tony Hart",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tony Hart primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tony Meininger (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -111878,6 +112346,9 @@
           "name": "2 News"
         },
         {
+          "name": "2001: A Space Odyssey"
+        },
+        {
           "name": "208"
         },
         {
@@ -112047,6 +112518,9 @@
         },
         {
           "name": "A Princess of Mars"
+        },
+        {
+          "name": "A Rich and Dangerous Game"
         },
         {
           "name": "A Tale of Two Cities"
@@ -113858,6 +114332,9 @@
           "name": "Archer's Planet"
         },
         {
+          "name": "Architecture Words"
+        },
+        {
           "name": "ARCO Tower"
         },
         {
@@ -113952,6 +114429,9 @@
         },
         {
           "name": "Arie'mnu"
+        },
+        {
+          "name": "Ariel personnel"
         },
         {
           "name": "Arizona"
@@ -115286,6 +115766,9 @@
           "name": "Bay Land Garden"
         },
         {
+          "name": "Bay leaf"
+        },
+        {
           "name": "Bay of Bengal"
         },
         {
@@ -115860,6 +116343,9 @@
         },
         {
           "name": "Binar III"
+        },
+        {
+          "name": "Bindar XII"
         },
         {
           "name": "Biochemistry"
@@ -116792,9 +117278,6 @@
           "name": "Burton"
         },
         {
-          "name": "Bus stop"
-        },
-        {
           "name": "Busch Gardens"
         },
         {
@@ -116996,19 +117479,7 @@
           "name": "Cadillac Fairview"
         },
         {
-          "name": "Cadillac Fleetwood 75"
-        },
-        {
-          "name": "Cadillac Series 353"
-        },
-        {
           "name": "Cadillac Seville"
-        },
-        {
-          "name": "Cadillac V-12"
-        },
-        {
-          "name": "Cadillac V-16"
         },
         {
           "name": "Caere"
@@ -117905,6 +118376,9 @@
           "name": "Chapman's Ice Cream"
         },
         {
+          "name": "Chapterhouse: Dune"
+        },
+        {
           "name": "Chardonnay"
         },
         {
@@ -118554,6 +119028,9 @@
         },
         {
           "name": "CJ's Coffee House"
+        },
+        {
+          "name": "Ckaptir homeworld"
         },
         {
           "name": "Clabber Girl"
@@ -119216,6 +119693,9 @@
           "name": "Crime Throne"
         },
         {
+          "name": "Crimson Guard"
+        },
+        {
           "name": "Crisia occidental"
         },
         {
@@ -119876,6 +120356,9 @@
           "name": "Dance in Tehuantepec"
         },
         {
+          "name": "Dance music"
+        },
+        {
           "name": "Dandelion"
         },
         {
@@ -120003,6 +120486,9 @@
         },
         {
           "name": "Daryl Baskin (Lieutenant Commander)"
+        },
+        {
+          "name": "Dashing"
         },
         {
           "name": "DaSpu' class"
@@ -121106,9 +121592,6 @@
           "name": "Drekol"
         },
         {
-          "name": "Drema IV"
-        },
-        {
           "name": "Drema V"
         },
         {
@@ -121862,6 +122345,9 @@
           "name": "Elysia inhabitants"
         },
         {
+          "name": "Elysian Kingdom (ship)"
+        },
+        {
           "name": "Embarcadero"
         },
         {
@@ -122597,6 +123083,9 @@
           "name": "Federation-Klingon border"
         },
         {
+          "name": "Federation-Klingon history"
+        },
+        {
           "name": "Federation-Klingon War (2256-57)"
         },
         {
@@ -122837,6 +123326,9 @@
           "name": "Fifth Realm"
         },
         {
+          "name": "Fig (fruit)"
+        },
+        {
           "name": "Fig tree"
         },
         {
@@ -122913,6 +123405,9 @@
         },
         {
           "name": "Fire Caves"
+        },
+        {
+          "name": "Fire department"
         },
         {
           "name": "Fire House Nº 5"
@@ -126338,9 +126833,6 @@
           "name": "Human rights"
         },
         {
-          "name": "Human-Klingon history"
-        },
-        {
           "name": "Humbolt"
         },
         {
@@ -129341,6 +129833,9 @@
           "name": "Kashimuro Nozawa"
         },
         {
+          "name": "Kasq"
+        },
+        {
           "name": "Kassia Nox"
         },
         {
@@ -129774,6 +130269,9 @@
         },
         {
           "name": "Key lime pie"
+        },
+        {
+          "name": "Key of Consequence"
         },
         {
           "name": "Key'lor"
@@ -130964,6 +131462,9 @@
           "name": "Lada"
         },
         {
+          "name": "Lady Audrey's Woods"
+        },
+        {
           "name": "Lady Macbeth"
         },
         {
@@ -131451,6 +131952,9 @@
         },
         {
           "name": "Leto (33rd century)"
+        },
+        {
+          "name": "Letter of Accords"
         },
         {
           "name": "Lettuce"
@@ -133310,6 +133814,9 @@
           "name": "Mavok Prime"
         },
         {
+          "name": "Max (chef)"
+        },
+        {
           "name": "Max Collins (Starfleet)"
         },
         {
@@ -133520,6 +134027,9 @@
           "name": "Medicine wheel"
         },
         {
+          "name": "Medieval Times"
+        },
+        {
           "name": "Meditation"
         },
         {
@@ -133629,15 +134139,6 @@
         },
         {
           "name": "Mercedes-Benz"
-        },
-        {
-          "name": "Mercedes-Benz 200 Lang"
-        },
-        {
-          "name": "Mercedes-Benz 230 Lang"
-        },
-        {
-          "name": "Mercedes-Benz G4"
         },
         {
           "name": "Mercedes-Benz GLK 350"
@@ -134571,6 +135072,9 @@
         },
         {
           "name": "Mow'ga"
+        },
+        {
+          "name": "Mowtown"
         },
         {
           "name": "Moxy"
@@ -136646,6 +137150,9 @@
           "name": "Owen Paris"
         },
         {
+          "name": "Owl"
+        },
+        {
           "name": "Ox"
         },
         {
@@ -137025,6 +137532,9 @@
         },
         {
           "name": "Parsion III"
+        },
+        {
+          "name": "Parsley"
         },
         {
           "name": "Parsnip"
@@ -137604,9 +138114,6 @@
         },
         {
           "name": "Pickford"
-        },
-        {
-          "name": "Pickup truck"
         },
         {
           "name": "Piedmont"
@@ -139721,6 +140228,9 @@
           "name": "RMS Queen Elizabeth 2"
         },
         {
+          "name": "RMS Queen Mary"
+        },
+        {
           "name": "RMS Titanic"
         },
         {
@@ -140192,10 +140702,10 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (cadet)"
+          "name": "Ross (Cadet)"
         },
         {
-          "name": "Ross (Cadet)"
+          "name": "Ross (cadet)"
         },
         {
           "name": "Ross (Chief)"
@@ -140702,7 +141212,10 @@
           "name": "Salami sandwich"
         },
         {
-          "name": "Salazar"
+          "name": "Salazar (Crewman)"
+        },
+        {
+          "name": "Salazar (Ensign)"
         },
         {
           "name": "Salem"
@@ -142088,10 +142601,10 @@
           "name": "Sixth Realm"
         },
         {
-          "name": "SK"
+          "name": "Skantal"
         },
         {
-          "name": "Skantal"
+          "name": "Ski Magazine"
         },
         {
           "name": "Skill dome"
@@ -142227,6 +142740,9 @@
         },
         {
           "name": "So Good"
+        },
+        {
+          "name": "So This is Spring"
         },
         {
           "name": "Soap opera"
@@ -142407,6 +142923,9 @@
         },
         {
           "name": "Soukara"
+        },
+        {
+          "name": "Soul music"
         },
         {
           "name": "Sour cream"
@@ -142848,6 +143367,9 @@
         },
         {
           "name": "Starbucks Coffee"
+        },
+        {
+          "name": "Starfall (sword)"
         },
         {
           "name": "Starfish"
@@ -143576,9 +144098,6 @@
           "name": "Stuart Roosa"
         },
         {
-          "name": "Studebaker Standard Six"
-        },
-        {
           "name": "Stuffing"
         },
         {
@@ -143766,6 +144285,9 @@
         },
         {
           "name": "Swahili language"
+        },
+        {
+          "name": "Swamp of Infinite Death"
         },
         {
           "name": "Swan"
@@ -145442,9 +145964,6 @@
           "name": "The Puppet Masters"
         },
         {
-          "name": "The Queen Mary"
-        },
-        {
           "name": "The Raven"
         },
         {
@@ -145467,6 +145986,9 @@
         },
         {
           "name": "The Ritz-Carlton Hotel, Los Angeles"
+        },
+        {
+          "name": "The Rockefellers"
         },
         {
           "name": "The Rules of Acquisition: Revised for the Modern Ferengi"
@@ -146103,6 +146625,9 @@
         },
         {
           "name": "Tony Blair"
+        },
+        {
+          "name": "Tony Hart"
         },
         {
           "name": "Tony Meininger (Starfleet)"
@@ -146825,6 +147350,9 @@
           "name": "Underbelly Bourbon"
         },
         {
+          "name": "Undue Influence"
+        },
+        {
           "name": "Unefra III"
         },
         {
@@ -147536,6 +148064,9 @@
           "name": "US Bank Tower"
         },
         {
+          "name": "US locations"
+        },
+        {
           "name": "US Special Forces"
         },
         {
@@ -147546,9 +148077,6 @@
         },
         {
           "name": "USS Archimedes (24th century) personnel"
-        },
-        {
-          "name": "USS Ariel personnel"
         },
         {
           "name": "USS Athena"
@@ -148464,6 +148992,9 @@
         },
         {
           "name": "Viltan Flats"
+        },
+        {
+          "name": "VIN"
         },
         {
           "name": "Vincent Van Dyke (Starfleet)"
@@ -149555,6 +150086,9 @@
           "name": "Winners"
         },
         {
+          "name": "Winnie-the-Pooh and the Unbouncing of Tigger"
+        },
+        {
           "name": "Winona Kirk"
         },
         {
@@ -150259,6 +150793,18 @@
       "stars": [
         {
           "name": "Underbelly Bourbon primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Undue Influence",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Undue Influence primary",
           "type": "star"
         }
       ],
@@ -152113,6 +152659,18 @@
       "planets": []
     },
     {
+      "name": "US locations",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "US locations primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "US Special Forces",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -152155,18 +152713,6 @@
       "stars": [
         {
           "name": "USS Archimedes (24th century) personnel primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
-      "name": "USS Ariel personnel",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "USS Ariel personnel primary",
           "type": "star"
         }
       ],
@@ -153985,6 +154531,18 @@
       "planets": []
     },
     {
+      "name": "Vaardan system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vaardan system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Vaarza",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -155005,6 +155563,18 @@
       "planets": []
     },
     {
+      "name": "VIN",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "VIN primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Vincent Van Dyke (Starfleet)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -155503,6 +156073,18 @@
       "stars": [
         {
           "name": "Vorn primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Vorta Vor system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Vorta Vor system primary",
           "type": "star"
         }
       ],
@@ -158059,6 +158641,18 @@
       "stars": [
         {
           "name": "Winners primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Winnie-the-Pooh and the Unbouncing of Tigger",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Winnie-the-Pooh and the Unbouncing of Tigger primary",
           "type": "star"
         }
       ],

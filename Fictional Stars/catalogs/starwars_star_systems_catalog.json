@@ -2,15 +2,15 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-09-13T08:23:20+00:00",
+    "generatedAt": "2026-10-18T08:07:49+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7247,
+      "bodyPages": 7252,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
-      "attached": 6458,
-      "unassigned": 789,
-      "createdSystemsFromBodies": 24
+      "attached": 6452,
+      "unassigned": 800,
+      "createdSystemsFromBodies": 32
     },
     "includesMoons": true
   },
@@ -124,6 +124,22 @@
       "planets": [
         {
           "name": "Unidentified planet (quadruple star system)"
+        }
+      ]
+    },
+    {
+      "name": "A volcanic star system",
+      "category": "Single",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "stars": [
+        {
+          "name": "A volcanic star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Unidentified moon (Boba Fett)"
         }
       ]
     },
@@ -1802,6 +1818,9 @@
       ],
       "planets": [
         {
+          "name": "Ergeshui"
+        },
+        {
           "name": "Ergeshui/Legends"
         },
         {
@@ -2231,7 +2250,7 @@
     {
       "name": "Aiqin 4 system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Aiqin 4 system primary",
@@ -2251,6 +2270,18 @@
       "stars": [
         {
           "name": "Aiqin system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Aiqin system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Aiqin system/Legends primary",
           "type": "star"
         }
       ],
@@ -6204,11 +6235,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Anthus"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Anthus system/Legends",
@@ -7996,6 +8023,18 @@
       ]
     },
     {
+      "name": "Aridus system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Aridus system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Arieli system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -8094,6 +8133,18 @@
           "name": "Arkania"
         }
       ]
+    },
+    {
+      "name": "Arkania system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Arkania system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Arkanis system",
@@ -9597,7 +9648,7 @@
     {
       "name": "Athega system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Athega system primary",
@@ -15268,6 +15319,18 @@
       "stars": [
         {
           "name": "Bescane system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Bescane system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Bescane system/Legends primary",
           "type": "star"
         }
       ],
@@ -21257,11 +21320,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Callonia"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Callonia system/Legends",
@@ -27071,6 +27130,18 @@
       ]
     },
     {
+      "name": "Clak'dor system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Clak'dor system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Clantaano system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -27555,18 +27626,6 @@
       "planets": []
     },
     {
-      "name": "Colu system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Colu system primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Columex system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -27754,6 +27813,18 @@
           "name": "Cona"
         }
       ]
+    },
+    {
+      "name": "Cona system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cona system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Concord Dawn system",
@@ -36814,7 +36885,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Diso"
+        }
+      ]
     },
     {
       "name": "Distilon system",
@@ -40432,7 +40507,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Duluth I"
+        }
+      ]
     },
     {
       "name": "Dulvoyinn system",
@@ -43015,6 +43094,18 @@
       "stars": [
         {
           "name": "Endregaad system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Endregaad system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Endregaad system/Legends primary",
           "type": "star"
         }
       ],
@@ -48338,7 +48429,7 @@
     {
       "name": "Flarestar system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Flarestar system primary",
@@ -50075,11 +50166,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "G'haris"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "G'haris system/Legends",
@@ -61438,7 +61525,7 @@
           "name": "Hollast VII"
         },
         {
-          "name": "Hollastin/Legends"
+          "name": "Hollastin"
         }
       ]
     },
@@ -62625,6 +62712,18 @@
       "stars": [
         {
           "name": "Huwaw system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Hy Izlan's star system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Hy Izlan's star system primary",
           "type": "star"
         }
       ],
@@ -68639,7 +68738,7 @@
     {
       "name": "Joxin system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Joxin system primary",
@@ -68746,11 +68845,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Julio"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Julio system/Legends",
@@ -72867,11 +72962,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Kelarea"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Kelarea system/Legends",
@@ -73257,11 +73348,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Kenosha"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Kenosha system/Legends",
@@ -78526,12 +78613,12 @@
       ]
     },
     {
-      "name": "Krayiss Two system",
+      "name": "Krayiss system/Legends",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Krayiss Two system primary",
+          "name": "Krayiss system/Legends primary",
           "type": "star"
         }
       ],
@@ -84054,11 +84141,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Loped VII"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Loped system/Legends",
@@ -86557,6 +86640,18 @@
       "stars": [
         {
           "name": "Mako-Ta system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Makoma Ko's star system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Makoma Ko's star system primary",
           "type": "star"
         }
       ],
@@ -94563,9 +94658,6 @@
           "name": "Muunilinst/Legends"
         },
         {
-          "name": "Trinciuum"
-        },
-        {
           "name": "Varhus"
         }
       ]
@@ -99521,6 +99613,18 @@
       "planets": []
     },
     {
+      "name": "Nkllon system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nkllon system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "No-ad system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -100735,18 +100839,6 @@
       "planets": []
     },
     {
-      "name": "Nubia system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Nubia system primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Nubus system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -100776,6 +100868,18 @@
           "name": "Traxal 2"
         }
       ]
+    },
+    {
+      "name": "Nubus system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Nubus system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Nuja system",
@@ -101647,7 +101751,7 @@
     {
       "name": "Obtrexta system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Obtrexta system primary",
@@ -109907,7 +110011,7 @@
     {
       "name": "Perave system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Perave system primary",
@@ -109947,6 +110051,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Peridea system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Peridea system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Peridea"
+        }
+      ]
     },
     {
       "name": "Peridon's Folly system",
@@ -110087,6 +110207,9 @@
         }
       ],
       "planets": [
+        {
+          "name": "Perithal"
+        },
         {
           "name": "Perithal VI"
         }
@@ -117137,11 +117260,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Raltac III"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Raltac system/Legends",
@@ -121343,10 +121462,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
           "name": "Rishi/Legends"
@@ -133316,11 +133435,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Spirana/Legends"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Spirana system/Legends",
@@ -137138,7 +137253,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Bassadiir"
+        }
+      ]
     },
     {
       "name": "Tangrada-Nii system",
@@ -137955,11 +138074,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Tarivo III"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Tarivo system/Legends",
@@ -139291,7 +139406,7 @@
     {
       "name": "Teke Ro system",
       "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
       "stars": [
         {
           "name": "Teke Ro system primary",
@@ -143845,7 +143960,7 @@
       ],
       "planets": [
         {
-          "name": "Tiss'sharl"
+          "name": "Tiss'sharl/Legends"
         }
       ]
     },
@@ -145906,11 +146021,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Tregillis"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Tregillis system/Legends",
@@ -149070,6 +149181,9 @@
           "name": "Acquis"
         },
         {
+          "name": "Aestus"
+        },
+        {
           "name": "Ah Re Won"
         },
         {
@@ -149194,6 +149308,9 @@
         },
         {
           "name": "Bibin"
+        },
+        {
+          "name": "Bizen"
         },
         {
           "name": "Blix Annon's homeworld"
@@ -149349,6 +149466,9 @@
           "name": "Dezon's homeworld"
         },
         {
+          "name": "DG-115"
+        },
+        {
           "name": "Disney Parking Planet"
         },
         {
@@ -149382,6 +149502,9 @@
           "name": "Eeka"
         },
         {
+          "name": "Eezle"
+        },
+        {
           "name": "Elak"
         },
         {
@@ -149395,9 +149518,6 @@
         },
         {
           "name": "Enujut"
-        },
-        {
-          "name": "Ergeshui"
         },
         {
           "name": "Estarvera"
@@ -149488,6 +149608,9 @@
         },
         {
           "name": "Gatalenta/Legends"
+        },
+        {
+          "name": "Gathleon"
         },
         {
           "name": "Gathol"
@@ -149628,10 +149751,16 @@
           "name": "Joetz"
         },
         {
+          "name": "Juarte's moon"
+        },
+        {
           "name": "Jul Jerjerrod's homeworld"
         },
         {
           "name": "K'shar"
+        },
+        {
+          "name": "K-class planet"
         },
         {
           "name": "Kaamui"
@@ -149686,6 +149815,9 @@
         },
         {
           "name": "Klaptun IV"
+        },
+        {
+          "name": "Klendar XI"
         },
         {
           "name": "Koorivar homeworld"
@@ -149955,6 +150087,9 @@
           "name": "Maateen"
         },
         {
+          "name": "Maiha"
+        },
+        {
           "name": "Makoma Ko"
         },
         {
@@ -150105,6 +150240,9 @@
           "name": "Ogana Major"
         },
         {
+          "name": "Ohna"
+        },
+        {
           "name": "Ohnahmi"
         },
         {
@@ -150177,6 +150315,9 @@
           "name": "Palme du Tigre"
         },
         {
+          "name": "Paravanteau"
+        },
+        {
           "name": "Pedorian"
         },
         {
@@ -150184,9 +150325,6 @@
         },
         {
           "name": "Pendalanor"
-        },
-        {
-          "name": "Peridea"
         },
         {
           "name": "Petris Major"
@@ -150618,6 +150756,9 @@
           "name": "Uncharted planet"
         },
         {
+          "name": "Unidentifed world (Montross)"
+        },
+        {
           "name": "Unidentified 26-hour planet"
         },
         {
@@ -150957,6 +151098,9 @@
           "name": "Unidentified planet (Fuel intermixer)"
         },
         {
+          "name": "Unidentified planet (Galactic Frontier)"
+        },
+        {
           "name": "Unidentified planet (Gell Mattar)"
         },
         {
@@ -151024,6 +151168,9 @@
         },
         {
           "name": "Unidentified planet (Nagi Tsukumo)"
+        },
+        {
+          "name": "Unidentified planet (Nawaam's outpost)"
         },
         {
           "name": "Unidentified planet (Nes Ukul)"
@@ -151114,9 +151261,6 @@
         },
         {
           "name": "Unidentified planet (Strike Station Aurek)"
-        },
-        {
-          "name": "Unidentified planet (Takara's stronghold)"
         },
         {
           "name": "Unidentified planet (The Island)"
@@ -151858,6 +152002,18 @@
           "name": "Unidentified uninhabited volcanic planet"
         }
       ]
+    },
+    {
+      "name": "Unidentified volcanic star system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Unidentified volcanic star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Unnipar system",
@@ -154777,7 +154933,7 @@
           "name": "Third moon of Varl"
         },
         {
-          "name": "Varl"
+          "name": "Varl Prime"
         },
         {
           "name": "Varl/Legends"
@@ -160801,11 +160957,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Woqua"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Woqua system/Legends",
@@ -160830,6 +160982,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Worim system",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Worim system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Worim"
+        }
+      ]
     },
     {
       "name": "Worosta's star system",
@@ -165220,11 +165388,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Zelaba"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Zelaba system/Legends",
