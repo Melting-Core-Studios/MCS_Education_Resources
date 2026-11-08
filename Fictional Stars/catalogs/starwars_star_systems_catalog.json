@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-10-18T08:07:49+00:00",
+    "generatedAt": "2026-11-08T10:23:39+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 7252,
+      "bodyPages": 7256,
       "wikitextFetched": true,
       "categoryHintsUsed": true,
       "attached": 6452,
-      "unassigned": 800,
+      "unassigned": 804,
       "createdSystemsFromBodies": 32
     },
     "includesMoons": true
@@ -1226,9 +1226,6 @@
         },
         {
           "name": "Colsassa"
-        },
-        {
-          "name": "Colsassan moons"
         },
         {
           "name": "Kassa"
@@ -16811,18 +16808,6 @@
       "planets": []
     },
     {
-      "name": "Black Bantha system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Black Bantha system primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Blackfel system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -18233,7 +18218,7 @@
       ],
       "planets": [
         {
-          "name": "Bortras"
+          "name": "Bortras/Legends"
         }
       ]
     },
@@ -18670,10 +18655,10 @@
       ],
       "planets": [
         {
-          "name": "Bpfassh"
+          "name": "Bpfassh 3"
         },
         {
-          "name": "Bpfassh 3"
+          "name": "Bpfassh/Legends"
         }
       ]
     },
@@ -19085,6 +19070,9 @@
       "planets": [
         {
           "name": "Ashlasi"
+        },
+        {
+          "name": "Bogaro"
         },
         {
           "name": "Brendok"
@@ -27611,7 +27599,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Colsassan moons"
+        }
+      ]
     },
     {
       "name": "Colsassa system/Legends",
@@ -27754,7 +27746,7 @@
           "name": "Commenor/Legends"
         },
         {
-          "name": "Folor"
+          "name": "Folor/Legends"
         }
       ]
     },
@@ -40387,7 +40379,11 @@
           "type": "star"
         }
       ],
-      "planets": []
+      "planets": [
+        {
+          "name": "Duhma (planet)"
+        }
+      ]
     },
     {
       "name": "Duhma system/Legends",
@@ -41776,6 +41772,9 @@
       "planets": [
         {
           "name": "Eiattu 6"
+        },
+        {
+          "name": "Eiattu VI"
         }
       ]
     },
@@ -44690,11 +44689,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Esfandia/Legends"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Eshan system",
@@ -53813,7 +53808,7 @@
       ],
       "planets": [
         {
-          "name": "Gerrard V"
+          "name": "Gerrard V/Legends"
         }
       ]
     },
@@ -55816,6 +55811,9 @@
         },
         {
           "name": "Denbalen"
+        },
+        {
+          "name": "Goroth Prime"
         },
         {
           "name": "Goroth Prime/Legends"
@@ -76396,18 +76394,6 @@
       "planets": []
     },
     {
-      "name": "Knot Holes system/Legends",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Knot Holes system/Legends primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Ko-Longava system",
       "category": "Single",
       "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
@@ -78665,11 +78651,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Krenhner"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Krenhner system/Legends",
@@ -95234,10 +95216,10 @@
           "name": "M'buh"
         },
         {
-          "name": "N'Zoth"
+          "name": "N'zoth"
         },
         {
-          "name": "N'zoth"
+          "name": "N'Zoth"
         },
         {
           "name": "Pa'aal"
@@ -102452,23 +102434,23 @@
           "type": "star"
         }
       ],
-      "planets": []
-    },
-    {
-      "name": "Oko system",
-      "category": "Single",
-      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Oko system primary",
-          "type": "star"
-        }
-      ],
       "planets": [
         {
           "name": "Oko E"
         }
       ]
+    },
+    {
+      "name": "Oko E system/Legends",
+      "category": "Single",
+      "notes": "Auto-generated from Wookieepedia (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Oko E system/Legends primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
     },
     {
       "name": "Oktaro system",
@@ -113167,11 +113149,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Port Jerrell"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Port Jerrell system/Legends",
@@ -121462,10 +121440,10 @@
           "name": "Rishi"
         },
         {
-          "name": "Rishi moon"
+          "name": "Rishi Moon"
         },
         {
-          "name": "Rishi Moon"
+          "name": "Rishi moon"
         },
         {
           "name": "Rishi/Legends"
@@ -131173,11 +131151,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Sivoria"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Sivoria system/Legends",
@@ -149520,6 +149494,9 @@
           "name": "Enujut"
         },
         {
+          "name": "Esfandia"
+        },
+        {
           "name": "Estarvera"
         },
         {
@@ -149671,6 +149648,9 @@
         },
         {
           "name": "Halyard 2"
+        },
+        {
+          "name": "Hapan Rim Worlds"
         },
         {
           "name": "Har Worlds"
@@ -149857,6 +149837,9 @@
         },
         {
           "name": "Kuna's Tooth/Legends"
+        },
+        {
+          "name": "Kuthic Worlds"
         },
         {
           "name": "Kuthic Worlds/Legends"
@@ -150508,6 +150491,9 @@
         },
         {
           "name": "Sinsara"
+        },
+        {
+          "name": "Sith Worlds"
         },
         {
           "name": "Sith Worlds/Legends"
