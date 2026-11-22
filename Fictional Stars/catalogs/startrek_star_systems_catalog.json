@@ -2,14 +2,14 @@
   "meta": {
     "franchise": "Star Trek",
     "source": "Memory Alpha (MediaWiki Action API)",
-    "generatedAt": "2026-11-08T10:17:16+00:00",
+    "generatedAt": "2026-11-22T11:18:47+00:00",
     "planetEnrichment": {
       "enabled": true,
-      "bodyPages": 12824,
+      "bodyPages": 12826,
       "wikitextFetched": true,
       "categoryHintsUsed": false,
       "attached": 0,
-      "unassigned": 12824,
+      "unassigned": 12826,
       "createdSystemsFromBodies": 0
     }
   },
@@ -5601,6 +5601,18 @@
       "stars": [
         {
           "name": "Alpha Crum primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Alpha Cygni",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Alpha Cygni primary",
           "type": "star"
         }
       ],
@@ -23967,6 +23979,18 @@
       "planets": []
     },
     {
+      "name": "Cluny",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Cluny primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "CN Tower",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -36081,6 +36105,18 @@
       "stars": [
         {
           "name": "Erika Biordi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Erika Hernandez",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Erika Hernandez primary",
           "type": "star"
         }
       ],
@@ -48447,18 +48483,6 @@
       "planets": []
     },
     {
-      "name": "Hernandez (Crewman)",
-      "category": "Single",
-      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
-      "stars": [
-        {
-          "name": "Hernandez (Crewman) primary",
-          "type": "star"
-        }
-      ],
-      "planets": []
-    },
-    {
       "name": "Heron Building",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -58983,12 +59007,12 @@
       "planets": []
     },
     {
-      "name": "Kalla System",
+      "name": "Kalla system",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Kalla System primary",
+          "name": "Kalla system primary",
           "type": "star"
         }
       ],
@@ -59025,6 +59049,18 @@
       "stars": [
         {
           "name": "Kamata (Crewman) primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Kamchatka (beverage)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Kamchatka (beverage) primary",
           "type": "star"
         }
       ],
@@ -62895,12 +62931,12 @@
       "planets": []
     },
     {
-      "name": "Laap system",
+      "name": "Laap System",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Laap system primary",
+          "name": "Laap System primary",
           "type": "star"
         }
       ],
@@ -63237,6 +63273,18 @@
       "stars": [
         {
           "name": "Lambda Serpentis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Lambda Ursae Majoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Lambda Ursae Majoris primary",
           "type": "star"
         }
       ],
@@ -68289,6 +68337,18 @@
       "stars": [
         {
           "name": "Make Over Mambo primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Maker's Mark",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Maker's Mark primary",
           "type": "star"
         }
       ],
@@ -73773,6 +73833,18 @@
       "stars": [
         {
           "name": "Montañita primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Montezuma (beverage)",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Montezuma (beverage) primary",
           "type": "star"
         }
       ],
@@ -95355,12 +95427,12 @@
       "planets": []
     },
     {
-      "name": "Scotch whisky",
+      "name": "Scotch",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
-          "name": "Scotch whisky primary",
+          "name": "Scotch primary",
           "type": "star"
         }
       ],
@@ -105315,6 +105387,18 @@
       "planets": []
     },
     {
+      "name": "Tania Borealis",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tania Borealis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Tanis (city)",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
@@ -105669,6 +105753,18 @@
       "stars": [
         {
           "name": "Tau Piscis Australis primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tau Sagittarii",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tau Sagittarii primary",
           "type": "star"
         }
       ],
@@ -106725,6 +106821,18 @@
       "stars": [
         {
           "name": "Tesnia system primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tessen",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tessen primary",
           "type": "star"
         }
       ],
@@ -112185,6 +112293,18 @@
       "stars": [
         {
           "name": "Tyrannosaurus rex primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Tyrellia system",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Tyrellia system primary",
           "type": "star"
         }
       ],
@@ -119327,6 +119447,9 @@
           "name": "Club soda"
         },
         {
+          "name": "Cluny"
+        },
+        {
           "name": "CN Tower"
         },
         {
@@ -122378,7 +122501,7 @@
           "name": "El-Adrel IV"
         },
         {
-          "name": "El-Aurian homeworld"
+          "name": "El-Auria"
         },
         {
           "name": "El-Keshtanktil"
@@ -122817,6 +122940,9 @@
         },
         {
           "name": "Erika Biordi"
+        },
+        {
+          "name": "Erika Hernandez"
         },
         {
           "name": "Erin Macdonald"
@@ -126503,9 +126629,6 @@
           "name": "Hernandez"
         },
         {
-          "name": "Hernandez (Crewman)"
-        },
-        {
           "name": "Heron Building"
         },
         {
@@ -129864,6 +129987,9 @@
         },
         {
           "name": "Kamata (Crewman)"
+        },
+        {
+          "name": "Kamchatka (beverage)"
         },
         {
           "name": "Kaminar"
@@ -133316,6 +133442,9 @@
           "name": "Make Over Mambo"
         },
         {
+          "name": "Maker's Mark"
+        },
+        {
           "name": "Makers' homeworld"
         },
         {
@@ -134765,9 +134894,6 @@
           "name": "Minos"
         },
         {
-          "name": "Minos Korva (planet)"
-        },
-        {
           "name": "Minsk"
         },
         {
@@ -135045,6 +135171,9 @@
         },
         {
           "name": "Montañita"
+        },
+        {
+          "name": "Montezuma (beverage)"
         },
         {
           "name": "Montgomery"
@@ -140909,9 +141038,6 @@
           "name": "Rosmersholm"
         },
         {
-          "name": "Ross (cadet)"
-        },
-        {
           "name": "Ross (Cadet)"
         },
         {
@@ -141941,7 +142067,7 @@
           "name": "Scorpion class"
         },
         {
-          "name": "Scotch whisky"
+          "name": "Scotch"
         },
         {
           "name": "Scotland"
@@ -145136,9 +145262,6 @@
           "name": "Talax"
         },
         {
-          "name": "Talaxia"
-        },
-        {
           "name": "Tales From the Frontier"
         },
         {
@@ -147210,6 +147333,9 @@
         },
         {
           "name": "Trio in G minor"
+        },
+        {
+          "name": "Triona"
         },
         {
           "name": "Triskelion"
@@ -152692,12 +152818,36 @@
       "planets": []
     },
     {
+      "name": "Upsilon Ophiuchi",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Upsilon Ophiuchi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
       "name": "Upsilon Pegasi",
       "category": "Single",
       "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
       "stars": [
         {
           "name": "Upsilon Pegasi primary",
+          "type": "star"
+        }
+      ],
+      "planets": []
+    },
+    {
+      "name": "Upsilon Ursae Majoris",
+      "category": "Single",
+      "notes": "Auto-generated from Memory Alpha (MediaWiki Action API) category listings.",
+      "stars": [
+        {
+          "name": "Upsilon Ursae Majoris primary",
           "type": "star"
         }
       ],

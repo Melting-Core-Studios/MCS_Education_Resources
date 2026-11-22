@@ -2,7 +2,7 @@
   "meta": {
     "franchise": "Star Wars",
     "source": "Wookieepedia (MediaWiki Action API)",
-    "generatedAt": "2026-11-08T10:23:39+00:00",
+    "generatedAt": "2026-11-22T11:24:43+00:00",
     "planetEnrichment": {
       "enabled": true,
       "bodyPages": 7256,
@@ -10,7 +10,7 @@
       "categoryHintsUsed": true,
       "attached": 6452,
       "unassigned": 804,
-      "createdSystemsFromBodies": 32
+      "createdSystemsFromBodies": 33
     },
     "includesMoons": true
   },
@@ -1486,7 +1486,7 @@
           "name": "Aduba-3/Legends"
         },
         {
-          "name": "Aduba-4"
+          "name": "Aduba-4/Legends"
         },
         {
           "name": "Aduba-5"
@@ -12762,6 +12762,22 @@
         }
       ],
       "planets": []
+    },
+    {
+      "name": "Bardan's star system",
+      "category": "Single",
+      "notes": "Created from body pages (derived system reference). Source: Wookieepedia (MediaWiki Action API).",
+      "stars": [
+        {
+          "name": "Bardan's star system primary",
+          "type": "star"
+        }
+      ],
+      "planets": [
+        {
+          "name": "Bardan"
+        }
+      ]
     },
     {
       "name": "Bardelberan system",
@@ -121574,11 +121590,7 @@
           "type": "star"
         }
       ],
-      "planets": [
-        {
-          "name": "Roccus"
-        }
-      ]
+      "planets": []
     },
     {
       "name": "Rocedila system",
@@ -150511,9 +150523,6 @@
           "name": "Skorii-Lei"
         },
         {
-          "name": "Skustell/Legends"
-        },
-        {
           "name": "Sleeth (planet)"
         },
         {
@@ -151523,6 +151532,9 @@
         },
         {
           "name": "Yuuzhan'tar"
+        },
+        {
+          "name": "Zagrya"
         },
         {
           "name": "Zakuul"
